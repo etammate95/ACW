@@ -1,0 +1,6 @@
+Evaluation of 4OLR
+Main class is -
+Packing is 1D
+The number of interfaces is 0
+
+No interface found

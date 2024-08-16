@@ -1,0 +1,45 @@
+Evaluation of 6WPQ
+Main class is 4
+Packing is 2D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+10, 16+1
+Sidechains: (3Y5V)+(4N6F)
+Sc: 0.86
+B.Area: 105.1
+SDi: 1.34
+Class: 4
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	Y	36.0	0.0	36.0
+4	N	0.0	0.0	0.0
+5	V	42.7	0.0	42.7
+6	F	0.0	23.1	23.1
+1	G	0.0	0.0	0.0
+2	N	5.4	0.0	5.4
+3	Y	0.0	0.0	0.0
+4	N	34.9	0.0	34.9
+5	V	0.0	0.0	0.0
+6	F	61.4	5.8	67.2
+
+Sheets: 16+1
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	Y	36.8	0.0	36.8
+4	N	0.0	0.0	0.0
+5	V	42.4	0.0	42.4
+6	F	0.0	22.9	22.9
+1	G	0.0	0.0	0.0
+2	N	5.3	0.0	5.3
+3	Y	0.0	0.0	0.0
+4	N	36.1	0.0	36.1
+5	V	0.0	0.0	0.0
+6	F	61.7	6.2	67.9
+
+

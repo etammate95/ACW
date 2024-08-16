@@ -1,0 +1,70 @@
+Evaluation of 6G8E
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+2
+Sidechains: (1V3Q5G)+(1V3Q5G)
+Sc: 0.81
+B.Area: 149.5
+SDi: 1.48
+Class: 1
+
+Buried area details:
+Sheets: 1+2
+residue	type	s.ch.	b.b.	total
+1	V	40.0	0.0	40.0
+2	T	0.0	0.0	0.0
+3	Q	58.3	1.1	59.4
+4	V	0.0	5.2	5.2
+5	G	19.3	10.9	30.2
+6	F	0.0	15.6	15.6
+1	V	38.5	0.0	38.5
+2	T	0.0	0.0	0.0
+3	Q	58.1	1.5	59.6
+4	V	0.0	4.4	4.4
+5	G	19.0	9.6	28.6
+6	F	0.0	17.2	17.2
+
+
+Interface 2
+Sheets: 1+6, 2+15
+Sidechains: (2T4V6F)+(2T4V6F)
+Sc: 0.78
+B.Area: 114.1
+SDi: 1.42
+Class: 1
+
+Buried area details:
+Sheets: 1+6
+residue	type	s.ch.	b.b.	total
+1	V	0.0	0.0	0.0
+2	T	29.6	0.0	29.6
+3	Q	0.0	0.0	0.0
+4	V	38.5	0.0	38.5
+5	G	0.0	0.0	0.0
+6	F	45.7	0.0	45.7
+1	V	0.0	0.0	0.0
+2	T	29.2	0.0	29.2
+3	Q	0.0	0.0	0.0
+4	V	38.0	0.0	38.0
+5	G	0.0	0.0	0.0
+6	F	47.4	0.0	47.4
+
+Sheets: 2+15
+residue	type	s.ch.	b.b.	total
+1	V	0.0	0.0	0.0
+2	T	29.2	0.0	29.2
+3	Q	0.0	0.0	0.0
+4	V	38.0	0.0	38.0
+5	G	0.0	0.0	0.0
+6	F	47.4	0.0	47.4
+1	V	0.0	0.0	0.0
+2	T	29.6	0.0	29.6
+3	Q	0.0	0.0	0.0
+4	V	38.3	0.0	38.3
+5	G	0.0	0.0	0.0
+6	F	45.7	0.0	45.7
+
+

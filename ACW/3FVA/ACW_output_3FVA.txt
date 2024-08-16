@@ -1,0 +1,55 @@
+Evaluation of 3FVA
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+10
+Sidechains: (1N3Q5T)+(1N3Q5T)
+Sc: 0.77
+B.Area: 192.5
+SDi: 1.79
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	N	51.0	1.8	52.8
+2	N	0.0	0.2	0.2
+3	Q	74.6	1.2	75.8
+4	N	0.0	5.1	5.1
+5	T	43.8	0.0	43.8
+6	F	0.0	15.1	15.1
+1	N	51.8	1.6	53.4
+2	N	0.0	0.2	0.2
+3	Q	73.6	1.2	74.8
+4	N	0.0	5.4	5.4
+5	T	43.5	0.0	43.5
+6	F	0.0	14.7	14.7
+
+
+Interface 2
+Sheets: 1+16
+Sidechains: (2N4N6F)+(2N4N6F)
+Sc: 0.85
+B.Area: 140.3
+SDi: 1.56
+Class: 1
+
+Buried area details:
+Sheets: 1+16
+residue	type	s.ch.	b.b.	total
+1	N	0.0	0.0	0.0
+2	N	31.4	2.8	34.2
+3	Q	0.0	6.1	6.1
+4	N	32.6	0.3	32.9
+5	T	0.0	0.0	0.0
+6	F	66.3	0.9	67.2
+1	N	0.0	0.0	0.0
+2	N	31.0	2.6	33.6
+3	Q	0.0	6.5	6.5
+4	N	32.8	0.6	33.4
+5	T	0.0	0.0	0.0
+6	F	65.2	1.0	66.2
+
+

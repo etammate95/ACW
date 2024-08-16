@@ -1,0 +1,77 @@
+Evaluation of 2OMM
+Main class is 1
+Secondary class is 3
+Packing is 3D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2N4Q6N)+(2N4Q6N)
+Sc: 0.81
+B.Area: 135.6
+SDi: 1.53
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	N	39.0	3.9	42.9
+3	N	0.0	5.7	5.7
+4	Q	57.4	0.8	58.2
+5	Q	0.0	0.0	0.0
+6	N	28.7	0.0	28.7
+7	Y	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	N	38.7	4.5	43.2
+3	N	0.0	5.2	5.2
+4	Q	57.8	1.0	58.8
+5	Q	0.0	0.0	0.0
+6	N	28.6	0.0	28.6
+7	Y	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 19+1, 1+31
+Sidechains: (3N5Q)+(5Q7Y)
+Sc: 0.78
+B.Area: 100.1
+SDi: 1.38
+Class: 3
+
+Buried area details:
+Sheets: 19+1
+residue	type	s.ch.	b.b.	total
+1	G	0.1	45.8	45.9
+2	N	0.0	0.2	0.2
+3	N	31.0	0.0	31.0
+4	Q	0.0	0.0	0.0
+5	Q	24.5	0.0	24.5
+6	N	0.0	0.0	0.0
+7	Y	0.8	0.0	0.8
+1	G	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	N	0.0	0.0	0.0
+4	Q	0.0	0.0	0.0
+5	Q	16.4	0.0	16.4
+6	N	0.0	0.0	0.0
+7	Y	61.5	20.1	81.6
+
+Sheets: 1+31
+residue	type	s.ch.	b.b.	total
+1	G	0.1	45.7	45.8
+2	N	0.0	0.2	0.2
+3	N	30.3	0.0	30.3
+4	Q	0.0	0.0	0.0
+5	Q	24.0	0.0	24.0
+6	N	0.0	0.0	0.0
+7	Y	0.6	0.0	0.6
+1	G	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	N	0.0	0.0	0.0
+4	Q	0.0	0.0	0.0
+5	Q	16.5	0.0	16.5
+6	N	0.0	0.0	0.0
+7	Y	61.6	20.2	81.8
+
+

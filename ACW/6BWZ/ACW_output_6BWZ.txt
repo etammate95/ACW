@@ -1,0 +1,96 @@
+Evaluation of 6BWZ
+Main class is 1
+Secondary class is 2
+Packing is 3D
+The number of interfaces is 3
+
+Interface 1
+Sheets: 1+10
+Sidechains: (2Y6S)+(2Y6S)
+Sc: 0.82
+B.Area: 121.2
+SDi: 1.34
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	S	0.8	33.8	34.6
+2	Y	34.3	0.7	35.0
+3	S	0.0	0.0	0.0
+4	G	0.0	0.0	0.0
+5	Y	0.0	0.0	0.0
+6	S	22.5	29.2	51.7
+1	S	0.7	34.4	35.1
+2	Y	34.5	0.7	35.2
+3	S	0.0	0.0	0.0
+4	G	0.0	0.0	0.0
+5	Y	0.0	0.0	0.0
+6	S	21.8	28.8	50.6
+
+
+Interface 2
+Sheets: 1+16
+Sidechains: (3S4G5Y)+(3S4G5Y)
+Sc: 0.91
+B.Area: 80.2
+SDi: 1.35
+Class: 1
+
+Buried area details:
+Sheets: 1+16
+residue	type	s.ch.	b.b.	total
+1	S	0.0	0.0	0.0
+2	Y	0.0	0.0	0.0
+3	S	35.7	2.4	38.1
+4	G	20.7	8.5	29.2
+5	Y	13.5	0.5	14.0
+6	S	0.0	0.0	0.0
+1	S	0.0	0.0	0.0
+2	Y	0.0	0.0	0.0
+3	S	35.8	2.0	37.8
+4	G	20.0	7.7	27.7
+5	Y	13.3	0.2	13.5
+6	S	0.0	0.0	0.0
+
+
+Interface 3
+Sheets: 8+1, 1+11
+Sidechains: (1S3S)+(5Y)
+Sc: 0.7
+B.Area: 75.1
+SDi: 1.75
+Class: 2
+
+Buried area details:
+Sheets: 8+1
+residue	type	s.ch.	b.b.	total
+1	S	44.9	12.8	57.7
+2	Y	0.0	2.5	2.5
+3	S	15.6	0.2	15.8
+4	G	0.0	0.0	0.0
+5	Y	0.0	0.0	0.0
+6	S	0.0	0.0	0.0
+1	S	0.0	0.0	0.0
+2	Y	0.0	0.0	0.0
+3	S	0.0	0.0	0.0
+4	G	0.0	0.0	0.0
+5	Y	48.2	0.0	48.2
+6	S	0.0	26.0	26.0
+
+Sheets: 1+11
+residue	type	s.ch.	b.b.	total
+1	S	44.9	12.8	57.7
+2	Y	0.0	2.5	2.5
+3	S	15.8	0.2	16.0
+4	G	0.0	0.0	0.0
+5	Y	0.0	0.0	0.0
+6	S	0.0	0.0	0.0
+1	S	0.0	0.0	0.0
+2	Y	0.0	0.0	0.0
+3	S	0.0	0.0	0.0
+4	G	0.0	0.0	0.0
+5	Y	48.2	0.0	48.2
+6	S	0.0	26.0	26.0
+
+

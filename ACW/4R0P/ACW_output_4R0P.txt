@@ -1,0 +1,55 @@
+Evaluation of 4R0P
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (3Q5N)+(3Q5N)
+Sc: 0.79
+B.Area: 148.6
+SDi: 1.79
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	I	0.0	0.0	0.0
+2	F	0.0	0.0	0.0
+3	Q	53.8	2.0	55.8
+4	I	0.0	3.5	3.5
+5	N	67.8	1.7	69.5
+6	S	0.0	18.4	18.4
+1	I	0.3	0.0	0.3
+2	F	0.0	0.0	0.0
+3	Q	54.4	2.2	56.6
+4	I	0.0	4.0	4.0
+5	N	68.8	1.0	69.8
+6	S	0.0	18.8	18.8
+
+
+Interface 2
+Sheets: 1+9
+Sidechains: (2F4I6S)+(2F4I6S)
+Sc: 0.73
+B.Area: 99.5
+SDi: 1.44
+Class: 1
+
+Buried area details:
+Sheets: 1+9
+residue	type	s.ch.	b.b.	total
+1	I	0.0	0.0	0.0
+2	F	43.3	0.0	43.3
+3	Q	0.0	0.0	0.0
+4	I	35.5	0.0	35.5
+5	N	0.0	0.0	0.0
+6	S	20.9	0.0	20.9
+1	I	0.0	0.0	0.0
+2	F	43.8	0.0	43.8
+3	Q	0.0	0.0	0.0
+4	I	33.7	0.0	33.7
+5	N	0.0	0.0	0.0
+6	S	21.6	0.0	21.6
+
+

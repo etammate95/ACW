@@ -1,0 +1,59 @@
+Evaluation of 3FTK
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+10
+Sidechains: (2V3G5N7Y)+(2V3G5N7Y)
+Sc: 0.86
+B.Area: 117.2
+SDi: 1.41
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	N	0.0	0.0	0.0
+2	V	17.8	1.2	19.0
+3	G	13.7	4.7	18.4
+4	S	0.0	0.0	0.0
+5	N	20.1	0.0	20.1
+6	T	0.0	0.0	0.0
+7	Y	59.7	0.0	59.7
+1	N	0.0	0.0	0.0
+2	V	17.6	1.2	18.8
+3	G	14.0	4.8	18.8
+4	S	0.0	0.0	0.0
+5	N	20.1	0.0	20.1
+6	T	0.0	0.0	0.0
+7	Y	59.5	0.0	59.5
+
+
+Interface 2
+Sheets: 1+5
+Sidechains: (1N6T)+(1N6T)
+Sc: 0.32
+B.Area: 73.5
+SDi: 0.84
+Class: 1
+
+Buried area details:
+Sheets: 1+5
+residue	type	s.ch.	b.b.	total
+1	N	37.9	0.0	37.9
+2	V	0.0	0.0	0.0
+3	G	0.0	0.0	0.0
+4	S	1.7	0.0	1.7
+5	N	0.0	0.0	0.0
+6	T	15.2	0.0	15.2
+7	Y	0.0	18.3	18.3
+1	N	38.4	0.0	38.4
+2	V	0.0	0.0	0.0
+3	G	0.0	0.0	0.0
+4	S	2.0	0.0	2.0
+5	N	0.0	0.0	0.0
+6	T	14.7	0.0	14.7
+7	Y	0.0	18.8	18.8
+
+

@@ -1,0 +1,86 @@
+Evaluation of 4R0W
+Main class is 1
+Packing is 3D
+The number of interfaces is 3
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2V4G6T)+(2V4G6T)
+Sc: 0.93
+B.Area: 161.4
+SDi: 1.61
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	V	0.0	25.3	25.3
+2	V	66.0	0.0	66.0
+3	T	0.0	2.3	2.3
+4	G	18.3	3.8	22.1
+5	V	0.0	0.2	0.2
+6	T	46.0	0.0	46.0
+7	A	0.0	0.0	0.0
+1	V	0.0	24.9	24.9
+2	V	66.0	0.0	66.0
+3	T	0.0	2.2	2.2
+4	G	18.0	3.6	21.6
+5	V	0.0	0.0	0.0
+6	T	46.1	0.0	46.1
+7	A	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+17
+Sidechains: (1V3T5V)+(1V3T5V)
+Sc: 0.75
+B.Area: 123.0
+SDi: 1.46
+Class: 1
+
+Buried area details:
+Sheets: 1+17
+residue	type	s.ch.	b.b.	total
+1	V	49.0	0.0	49.0
+2	V	0.0	0.2	0.2
+3	T	47.3	0.0	47.3
+4	G	0.0	0.2	0.2
+5	V	27.2	0.0	27.2
+6	T	0.0	0.0	0.0
+7	A	0.0	0.0	0.0
+1	V	47.6	0.0	47.6
+2	V	0.0	0.2	0.2
+3	T	47.2	0.0	47.2
+4	G	0.0	0.1	0.1
+5	V	27.2	0.0	27.2
+6	T	0.0	0.0	0.0
+7	A	0.0	0.0	0.0
+
+
+Interface 3
+Sheets: 1+15
+Sidechains: (5V7A)+(5V7A)
+Sc: 0.4
+B.Area: 65.8
+SDi: 1.2
+Class: 1
+
+Buried area details:
+Sheets: 1+15
+residue	type	s.ch.	b.b.	total
+1	V	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	T	0.0	0.0	0.0
+4	G	0.0	0.0	0.0
+5	V	34.7	0.0	34.7
+6	T	0.0	0.0	0.0
+7	A	29.8	2.2	32.0
+1	V	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	T	0.0	0.0	0.0
+4	G	0.0	0.0	0.0
+5	V	33.5	0.0	33.5
+6	T	0.0	0.0	0.0
+7	A	29.5	2.0	31.5
+
+

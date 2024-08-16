@@ -1,0 +1,1567 @@
+HETATM    1 ZN    ZN A   7       2.924   2.891 -14.007  1.00  6.49          ZN  
+ANISOU    1 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM    2  O   HOH A   8       4.816   1.596   9.815  1.00  5.62           O  
+ANISOU    2  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM    3  O   HOH A   9       3.394   4.008  10.119  1.00  5.67           O  
+ANISOU    3  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM    4  C   ACY A  10       3.794   5.403 -15.284  1.00  6.91           C  
+ANISOU    4  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM    5  O   ACY A  10       3.757   6.633 -15.440  1.00  6.40           O  
+ANISOU    5  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM    6  CH3 ACY A  10       4.675   4.626 -16.222  1.00  7.00           C  
+ANISOU    6  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM    7  OXT ACY A  10       3.154   4.803 -14.394  1.00  6.13           O  
+ANISOU    7  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM    8  O   HOH A  11       7.536   4.356 -13.958  1.00 15.37           O  
+ANISOU    8  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM    9  O   HOH A  12       7.107   6.646 -15.101  1.00 25.87           O  
+ANISOU    9  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM   10  O   HOH A  13      11.656   0.597  -2.496  1.00 37.06           O  
+ANISOU   10  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM   11  O   HOH A  14      12.620  -0.217  -0.410  1.00 39.09           O  
+ANISOU   11  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM   12  O   HOH A  15      11.400   2.545  -0.949  1.00 49.99           O  
+ANISOU   12  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM   13 ZN    ZN A   7     -16.482  -1.979   5.663  1.00  6.49          ZN  
+ANISOU   13 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM   14  O   HOH A   8     -14.590  -3.274  29.485  1.00  5.62           O  
+ANISOU   14  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM   15  O   HOH A   9     -16.011  -0.862  29.789  1.00  5.67           O  
+ANISOU   15  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM   16  C   ACY A  10     -15.611   0.533   4.386  1.00  6.91           C  
+ANISOU   16  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM   17  O   ACY A  10     -15.648   1.763   4.230  1.00  6.40           O  
+ANISOU   17  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM   18  CH3 ACY A  10     -14.731  -0.244   3.448  1.00  7.00           C  
+ANISOU   18  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM   19  OXT ACY A  10     -16.252  -0.067   5.276  1.00  6.13           O  
+ANISOU   19  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM   20  O   HOH A  11     -11.869  -0.514   5.712  1.00 15.37           O  
+ANISOU   20  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM   21  O   HOH A  12     -12.298   1.776   4.569  1.00 25.87           O  
+ANISOU   21  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM   22  O   HOH A  13      -7.749  -4.273  17.174  1.00 37.06           O  
+ANISOU   22  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM   23  O   HOH A  14      -6.785  -5.087  19.260  1.00 39.09           O  
+ANISOU   23  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM   24  O   HOH A  15      -8.005  -2.325  18.721  1.00 49.99           O  
+ANISOU   24  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM   25 ZN    ZN A   7     -22.329  -4.414  33.677  1.00  6.49          ZN  
+ANISOU   25 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM   26  O   HOH A   8     -24.221  -5.709   9.856  1.00  5.62           O  
+ANISOU   26  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM   27  O   HOH A   9     -22.799  -3.297   9.552  1.00  5.67           O  
+ANISOU   27  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM   28  C   ACY A  10     -23.200  -1.902  34.954  1.00  6.91           C  
+ANISOU   28  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM   29  O   ACY A  10     -23.163  -0.672  35.110  1.00  6.40           O  
+ANISOU   29  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM   30  CH3 ACY A  10     -24.080  -2.679  35.892  1.00  7.00           C  
+ANISOU   30  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM   31  OXT ACY A  10     -22.559  -2.502  34.065  1.00  6.13           O  
+ANISOU   31  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM   32  O   HOH A  11     -26.942  -2.949  33.629  1.00 15.37           O  
+ANISOU   32  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM   33  O   HOH A  12     -26.512  -0.659  34.771  1.00 25.87           O  
+ANISOU   33  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM   34  O   HOH A  13     -31.062  -6.708  22.166  1.00 37.06           O  
+ANISOU   34  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM   35  O   HOH A  14     -32.026  -7.522  20.080  1.00 39.09           O  
+ANISOU   35  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM   36  O   HOH A  15     -30.806  -4.760  20.620  1.00 49.99           O  
+ANISOU   36  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM   37 ZN    ZN A   7       6.619  -1.979   6.820  1.00  6.49          ZN  
+ANISOU   37 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM   38  O   HOH A   8       8.511  -3.274  30.642  1.00  5.62           O  
+ANISOU   38  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM   39  O   HOH A   9       7.090  -0.862  30.946  1.00  5.67           O  
+ANISOU   39  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM   40  C   ACY A  10       7.490   0.533   5.544  1.00  6.91           C  
+ANISOU   40  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM   41  O   ACY A  10       7.453   1.763   5.388  1.00  6.40           O  
+ANISOU   41  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM   42  CH3 ACY A  10       8.370  -0.244   4.605  1.00  7.00           C  
+ANISOU   42  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM   43  OXT ACY A  10       6.849  -0.067   6.433  1.00  6.13           O  
+ANISOU   43  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM   44  O   HOH A  11      11.232  -0.514   6.869  1.00 15.37           O  
+ANISOU   44  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM   45  O   HOH A  12      10.803   1.776   5.727  1.00 25.87           O  
+ANISOU   45  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM   46  O   HOH A  13      15.352  -4.273  18.332  1.00 37.06           O  
+ANISOU   46  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM   47  O   HOH A  14      16.316  -5.087  20.417  1.00 39.09           O  
+ANISOU   47  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM   48  O   HOH A  15      15.096  -2.325  19.878  1.00 49.99           O  
+ANISOU   48  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM   49 ZN    ZN A   7       0.772  -4.414  34.835  1.00  6.49          ZN  
+ANISOU   49 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM   50  O   HOH A   8      -1.120  -5.709  11.013  1.00  5.62           O  
+ANISOU   50  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM   51  O   HOH A   9       0.302  -3.297  10.709  1.00  5.67           O  
+ANISOU   51  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM   52  C   ACY A  10      -0.099  -1.902  36.112  1.00  6.91           C  
+ANISOU   52  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM   53  O   ACY A  10      -0.062  -0.672  36.268  1.00  6.40           O  
+ANISOU   53  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM   54  CH3 ACY A  10      -0.979  -2.679  37.050  1.00  7.00           C  
+ANISOU   54  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM   55  OXT ACY A  10       0.542  -2.502  35.222  1.00  6.13           O  
+ANISOU   55  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM   56  O   HOH A  11      -3.841  -2.949  34.786  1.00 15.37           O  
+ANISOU   56  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM   57  O   HOH A  12      -3.411  -0.659  35.929  1.00 25.87           O  
+ANISOU   57  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM   58  O   HOH A  13      -7.961  -6.708  23.323  1.00 37.06           O  
+ANISOU   58  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM   59  O   HOH A  14      -8.925  -7.522  21.238  1.00 39.09           O  
+ANISOU   59  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM   60  O   HOH A  15      -7.705  -4.760  21.777  1.00 49.99           O  
+ANISOU   60  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM   61 ZN    ZN A   7      29.720  -1.979   7.978  1.00  6.49          ZN  
+ANISOU   61 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM   62  O   HOH A   8      31.612  -3.274  31.800  1.00  5.62           O  
+ANISOU   62  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM   63  O   HOH A   9      30.191  -0.862  32.104  1.00  5.67           O  
+ANISOU   63  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM   64  C   ACY A  10      30.591   0.533   6.701  1.00  6.91           C  
+ANISOU   64  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM   65  O   ACY A  10      30.554   1.763   6.545  1.00  6.40           O  
+ANISOU   65  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM   66  CH3 ACY A  10      31.471  -0.244   5.763  1.00  7.00           C  
+ANISOU   66  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM   67  OXT ACY A  10      29.950  -0.067   7.591  1.00  6.13           O  
+ANISOU   67  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM   68  O   HOH A  11      34.333  -0.514   8.027  1.00 15.37           O  
+ANISOU   68  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM   69  O   HOH A  12      33.904   1.776   6.884  1.00 25.87           O  
+ANISOU   69  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM   70  O   HOH A  13      38.453  -4.273  19.489  1.00 37.06           O  
+ANISOU   70  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM   71  O   HOH A  14      39.417  -5.087  21.575  1.00 39.09           O  
+ANISOU   71  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM   72  O   HOH A  15      38.197  -2.325  21.036  1.00 49.99           O  
+ANISOU   72  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM   73 ZN    ZN A   7      23.873  -4.414  35.992  1.00  6.49          ZN  
+ANISOU   73 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM   74  O   HOH A   8      21.981  -5.709  12.171  1.00  5.62           O  
+ANISOU   74  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM   75  O   HOH A   9      23.403  -3.297  11.866  1.00  5.67           O  
+ANISOU   75  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM   76  C   ACY A  10      23.003  -1.902  37.269  1.00  6.91           C  
+ANISOU   76  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM   77  O   ACY A  10      23.039  -0.672  37.425  1.00  6.40           O  
+ANISOU   77  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM   78  CH3 ACY A  10      22.122  -2.679  38.207  1.00  7.00           C  
+ANISOU   78  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM   79  OXT ACY A  10      23.643  -2.502  36.379  1.00  6.13           O  
+ANISOU   79  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM   80  O   HOH A  11      19.260  -2.949  35.943  1.00 15.37           O  
+ANISOU   80  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM   81  O   HOH A  12      19.690  -0.659  37.086  1.00 25.87           O  
+ANISOU   81  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM   82  O   HOH A  13      15.140  -6.708  24.481  1.00 37.06           O  
+ANISOU   82  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM   83  O   HOH A  14      14.176  -7.522  22.395  1.00 39.09           O  
+ANISOU   83  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM   84  O   HOH A  15      15.396  -4.760  22.934  1.00 49.99           O  
+ANISOU   84  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM   85 ZN    ZN A   7     -16.482   2.891   5.663  1.00  6.49          ZN  
+ANISOU   85 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM   86  O   HOH A   8     -14.590   1.596  29.485  1.00  5.62           O  
+ANISOU   86  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM   87  O   HOH A   9     -16.011   4.008  29.789  1.00  5.67           O  
+ANISOU   87  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM   88  C   ACY A  10     -15.611   5.403   4.386  1.00  6.91           C  
+ANISOU   88  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM   89  O   ACY A  10     -15.648   6.633   4.230  1.00  6.40           O  
+ANISOU   89  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM   90  CH3 ACY A  10     -14.731   4.626   3.448  1.00  7.00           C  
+ANISOU   90  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM   91  OXT ACY A  10     -16.252   4.803   5.276  1.00  6.13           O  
+ANISOU   91  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM   92  O   HOH A  11     -11.869   4.356   5.712  1.00 15.37           O  
+ANISOU   92  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM   93  O   HOH A  12     -12.298   6.646   4.569  1.00 25.87           O  
+ANISOU   93  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM   94  O   HOH A  13      -7.749   0.597  17.174  1.00 37.06           O  
+ANISOU   94  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM   95  O   HOH A  14      -6.785  -0.217  19.260  1.00 39.09           O  
+ANISOU   95  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM   96  O   HOH A  15      -8.005   2.545  18.721  1.00 49.99           O  
+ANISOU   96  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM   97 ZN    ZN A   7     -22.329   0.456  33.677  1.00  6.49          ZN  
+ANISOU   97 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM   98  O   HOH A   8     -24.221  -0.839   9.856  1.00  5.62           O  
+ANISOU   98  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM   99  O   HOH A   9     -22.799   1.573   9.552  1.00  5.67           O  
+ANISOU   99  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  100  C   ACY A  10     -23.200   2.968  34.954  1.00  6.91           C  
+ANISOU  100  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  101  O   ACY A  10     -23.163   4.198  35.110  1.00  6.40           O  
+ANISOU  101  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  102  CH3 ACY A  10     -24.080   2.191  35.892  1.00  7.00           C  
+ANISOU  102  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  103  OXT ACY A  10     -22.559   2.368  34.065  1.00  6.13           O  
+ANISOU  103  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  104  O   HOH A  11     -26.942   1.921  33.629  1.00 15.37           O  
+ANISOU  104  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  105  O   HOH A  12     -26.512   4.211  34.771  1.00 25.87           O  
+ANISOU  105  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  106  O   HOH A  13     -31.062  -1.838  22.166  1.00 37.06           O  
+ANISOU  106  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  107  O   HOH A  14     -32.026  -2.652  20.080  1.00 39.09           O  
+ANISOU  107  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  108  O   HOH A  15     -30.806   0.110  20.620  1.00 49.99           O  
+ANISOU  108  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  109 ZN    ZN A   7       6.619   2.891   6.820  1.00  6.49          ZN  
+ANISOU  109 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  110  O   HOH A   8       8.511   1.596  30.642  1.00  5.62           O  
+ANISOU  110  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  111  O   HOH A   9       7.090   4.008  30.946  1.00  5.67           O  
+ANISOU  111  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  112  C   ACY A  10       7.490   5.403   5.544  1.00  6.91           C  
+ANISOU  112  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  113  O   ACY A  10       7.453   6.633   5.388  1.00  6.40           O  
+ANISOU  113  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  114  CH3 ACY A  10       8.370   4.626   4.605  1.00  7.00           C  
+ANISOU  114  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  115  OXT ACY A  10       6.849   4.803   6.433  1.00  6.13           O  
+ANISOU  115  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  116  O   HOH A  11      11.232   4.356   6.869  1.00 15.37           O  
+ANISOU  116  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  117  O   HOH A  12      10.803   6.646   5.727  1.00 25.87           O  
+ANISOU  117  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  118  O   HOH A  13      15.352   0.597  18.332  1.00 37.06           O  
+ANISOU  118  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  119  O   HOH A  14      16.316  -0.217  20.417  1.00 39.09           O  
+ANISOU  119  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  120  O   HOH A  15      15.096   2.545  19.878  1.00 49.99           O  
+ANISOU  120  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  121 ZN    ZN A   7       0.772   0.456  34.835  1.00  6.49          ZN  
+ANISOU  121 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  122  O   HOH A   8      -1.120  -0.839  11.013  1.00  5.62           O  
+ANISOU  122  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  123  O   HOH A   9       0.302   1.573  10.709  1.00  5.67           O  
+ANISOU  123  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  124  C   ACY A  10      -0.099   2.968  36.112  1.00  6.91           C  
+ANISOU  124  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  125  O   ACY A  10      -0.062   4.198  36.268  1.00  6.40           O  
+ANISOU  125  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  126  CH3 ACY A  10      -0.979   2.191  37.050  1.00  7.00           C  
+ANISOU  126  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  127  OXT ACY A  10       0.542   2.368  35.222  1.00  6.13           O  
+ANISOU  127  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  128  O   HOH A  11      -3.841   1.921  34.786  1.00 15.37           O  
+ANISOU  128  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  129  O   HOH A  12      -3.411   4.211  35.929  1.00 25.87           O  
+ANISOU  129  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  130  O   HOH A  13      -7.961  -1.838  23.323  1.00 37.06           O  
+ANISOU  130  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  131  O   HOH A  14      -8.925  -2.652  21.238  1.00 39.09           O  
+ANISOU  131  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  132  O   HOH A  15      -7.705   0.110  21.777  1.00 49.99           O  
+ANISOU  132  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  133 ZN    ZN A   7      29.720   2.891   7.978  1.00  6.49          ZN  
+ANISOU  133 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  134  O   HOH A   8      31.612   1.596  31.800  1.00  5.62           O  
+ANISOU  134  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  135  O   HOH A   9      30.191   4.008  32.104  1.00  5.67           O  
+ANISOU  135  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  136  C   ACY A  10      30.591   5.403   6.701  1.00  6.91           C  
+ANISOU  136  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  137  O   ACY A  10      30.554   6.633   6.545  1.00  6.40           O  
+ANISOU  137  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  138  CH3 ACY A  10      31.471   4.626   5.763  1.00  7.00           C  
+ANISOU  138  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  139  OXT ACY A  10      29.950   4.803   7.591  1.00  6.13           O  
+ANISOU  139  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  140  O   HOH A  11      34.333   4.356   8.027  1.00 15.37           O  
+ANISOU  140  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  141  O   HOH A  12      33.904   6.646   6.884  1.00 25.87           O  
+ANISOU  141  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  142  O   HOH A  13      38.453   0.597  19.489  1.00 37.06           O  
+ANISOU  142  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  143  O   HOH A  14      39.417  -0.217  21.575  1.00 39.09           O  
+ANISOU  143  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  144  O   HOH A  15      38.197   2.545  21.036  1.00 49.99           O  
+ANISOU  144  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  145 ZN    ZN A   7      23.873   0.456  35.992  1.00  6.49          ZN  
+ANISOU  145 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  146  O   HOH A   8      21.981  -0.839  12.171  1.00  5.62           O  
+ANISOU  146  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  147  O   HOH A   9      23.403   1.573  11.866  1.00  5.67           O  
+ANISOU  147  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  148  C   ACY A  10      23.003   2.968  37.269  1.00  6.91           C  
+ANISOU  148  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  149  O   ACY A  10      23.039   4.198  37.425  1.00  6.40           O  
+ANISOU  149  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  150  CH3 ACY A  10      22.122   2.191  38.207  1.00  7.00           C  
+ANISOU  150  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  151  OXT ACY A  10      23.643   2.368  36.379  1.00  6.13           O  
+ANISOU  151  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  152  O   HOH A  11      19.260   1.921  35.943  1.00 15.37           O  
+ANISOU  152  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  153  O   HOH A  12      19.690   4.211  37.086  1.00 25.87           O  
+ANISOU  153  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  154  O   HOH A  13      15.140  -1.838  24.481  1.00 37.06           O  
+ANISOU  154  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  155  O   HOH A  14      14.176  -2.652  22.395  1.00 39.09           O  
+ANISOU  155  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  156  O   HOH A  15      15.396   0.110  22.934  1.00 49.99           O  
+ANISOU  156  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  157 ZN    ZN A   7     -16.482   7.761   5.663  1.00  6.49          ZN  
+ANISOU  157 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  158  O   HOH A   8     -14.590   6.466  29.485  1.00  5.62           O  
+ANISOU  158  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  159  O   HOH A   9     -16.011   8.878  29.789  1.00  5.67           O  
+ANISOU  159  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  160  C   ACY A  10     -15.611  10.273   4.386  1.00  6.91           C  
+ANISOU  160  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  161  O   ACY A  10     -15.648  11.503   4.230  1.00  6.40           O  
+ANISOU  161  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  162  CH3 ACY A  10     -14.731   9.496   3.448  1.00  7.00           C  
+ANISOU  162  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  163  OXT ACY A  10     -16.252   9.673   5.276  1.00  6.13           O  
+ANISOU  163  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  164  O   HOH A  11     -11.869   9.226   5.712  1.00 15.37           O  
+ANISOU  164  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  165  O   HOH A  12     -12.298  11.516   4.569  1.00 25.87           O  
+ANISOU  165  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  166  O   HOH A  13      -7.749   5.467  17.174  1.00 37.06           O  
+ANISOU  166  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  167  O   HOH A  14      -6.785   4.653  19.260  1.00 39.09           O  
+ANISOU  167  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  168  O   HOH A  15      -8.005   7.415  18.721  1.00 49.99           O  
+ANISOU  168  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  169 ZN    ZN A   7     -22.329   5.326  33.677  1.00  6.49          ZN  
+ANISOU  169 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  170  O   HOH A   8     -24.221   4.031   9.856  1.00  5.62           O  
+ANISOU  170  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  171  O   HOH A   9     -22.799   6.443   9.552  1.00  5.67           O  
+ANISOU  171  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  172  C   ACY A  10     -23.200   7.838  34.954  1.00  6.91           C  
+ANISOU  172  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  173  O   ACY A  10     -23.163   9.068  35.110  1.00  6.40           O  
+ANISOU  173  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  174  CH3 ACY A  10     -24.080   7.061  35.892  1.00  7.00           C  
+ANISOU  174  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  175  OXT ACY A  10     -22.559   7.238  34.065  1.00  6.13           O  
+ANISOU  175  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  176  O   HOH A  11     -26.942   6.791  33.629  1.00 15.37           O  
+ANISOU  176  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  177  O   HOH A  12     -26.512   9.081  34.771  1.00 25.87           O  
+ANISOU  177  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  178  O   HOH A  13     -31.062   3.032  22.166  1.00 37.06           O  
+ANISOU  178  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  179  O   HOH A  14     -32.026   2.218  20.080  1.00 39.09           O  
+ANISOU  179  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  180  O   HOH A  15     -30.806   4.980  20.620  1.00 49.99           O  
+ANISOU  180  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  181 ZN    ZN A   7       6.619   7.761   6.820  1.00  6.49          ZN  
+ANISOU  181 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  182  O   HOH A   8       8.511   6.466  30.642  1.00  5.62           O  
+ANISOU  182  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  183  O   HOH A   9       7.090   8.878  30.946  1.00  5.67           O  
+ANISOU  183  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  184  C   ACY A  10       7.490  10.273   5.544  1.00  6.91           C  
+ANISOU  184  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  185  O   ACY A  10       7.453  11.503   5.388  1.00  6.40           O  
+ANISOU  185  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  186  CH3 ACY A  10       8.370   9.496   4.605  1.00  7.00           C  
+ANISOU  186  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  187  OXT ACY A  10       6.849   9.673   6.433  1.00  6.13           O  
+ANISOU  187  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  188  O   HOH A  11      11.232   9.226   6.869  1.00 15.37           O  
+ANISOU  188  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  189  O   HOH A  12      10.803  11.516   5.727  1.00 25.87           O  
+ANISOU  189  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  190  O   HOH A  13      15.352   5.467  18.332  1.00 37.06           O  
+ANISOU  190  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  191  O   HOH A  14      16.316   4.653  20.417  1.00 39.09           O  
+ANISOU  191  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  192  O   HOH A  15      15.096   7.415  19.878  1.00 49.99           O  
+ANISOU  192  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  193 ZN    ZN A   7       0.772   5.326  34.835  1.00  6.49          ZN  
+ANISOU  193 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  194  O   HOH A   8      -1.120   4.031  11.013  1.00  5.62           O  
+ANISOU  194  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  195  O   HOH A   9       0.302   6.443  10.709  1.00  5.67           O  
+ANISOU  195  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  196  C   ACY A  10      -0.099   7.838  36.112  1.00  6.91           C  
+ANISOU  196  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  197  O   ACY A  10      -0.062   9.068  36.268  1.00  6.40           O  
+ANISOU  197  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  198  CH3 ACY A  10      -0.979   7.061  37.050  1.00  7.00           C  
+ANISOU  198  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  199  OXT ACY A  10       0.542   7.238  35.222  1.00  6.13           O  
+ANISOU  199  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  200  O   HOH A  11      -3.841   6.791  34.786  1.00 15.37           O  
+ANISOU  200  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  201  O   HOH A  12      -3.411   9.081  35.929  1.00 25.87           O  
+ANISOU  201  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  202  O   HOH A  13      -7.961   3.032  23.323  1.00 37.06           O  
+ANISOU  202  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  203  O   HOH A  14      -8.925   2.218  21.238  1.00 39.09           O  
+ANISOU  203  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  204  O   HOH A  15      -7.705   4.980  21.777  1.00 49.99           O  
+ANISOU  204  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  205 ZN    ZN A   7      29.720   7.761   7.978  1.00  6.49          ZN  
+ANISOU  205 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  206  O   HOH A   8      31.612   6.466  31.800  1.00  5.62           O  
+ANISOU  206  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  207  O   HOH A   9      30.191   8.878  32.104  1.00  5.67           O  
+ANISOU  207  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  208  C   ACY A  10      30.591  10.273   6.701  1.00  6.91           C  
+ANISOU  208  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  209  O   ACY A  10      30.554  11.503   6.545  1.00  6.40           O  
+ANISOU  209  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  210  CH3 ACY A  10      31.471   9.496   5.763  1.00  7.00           C  
+ANISOU  210  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  211  OXT ACY A  10      29.950   9.673   7.591  1.00  6.13           O  
+ANISOU  211  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  212  O   HOH A  11      34.333   9.226   8.027  1.00 15.37           O  
+ANISOU  212  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  213  O   HOH A  12      33.904  11.516   6.884  1.00 25.87           O  
+ANISOU  213  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  214  O   HOH A  13      38.453   5.467  19.489  1.00 37.06           O  
+ANISOU  214  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  215  O   HOH A  14      39.417   4.653  21.575  1.00 39.09           O  
+ANISOU  215  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  216  O   HOH A  15      38.197   7.415  21.036  1.00 49.99           O  
+ANISOU  216  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  217 ZN    ZN A   7      23.873   5.326  35.992  1.00  6.49          ZN  
+ANISOU  217 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  218  O   HOH A   8      21.981   4.031  12.171  1.00  5.62           O  
+ANISOU  218  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  219  O   HOH A   9      23.403   6.443  11.866  1.00  5.67           O  
+ANISOU  219  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  220  C   ACY A  10      23.003   7.838  37.269  1.00  6.91           C  
+ANISOU  220  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  221  O   ACY A  10      23.039   9.068  37.425  1.00  6.40           O  
+ANISOU  221  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  222  CH3 ACY A  10      22.122   7.061  38.207  1.00  7.00           C  
+ANISOU  222  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  223  OXT ACY A  10      23.643   7.238  36.379  1.00  6.13           O  
+ANISOU  223  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  224  O   HOH A  11      19.260   6.791  35.943  1.00 15.37           O  
+ANISOU  224  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  225  O   HOH A  12      19.690   9.081  37.086  1.00 25.87           O  
+ANISOU  225  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  226  O   HOH A  13      15.140   3.032  24.481  1.00 37.06           O  
+ANISOU  226  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  227  O   HOH A  14      14.176   2.218  22.395  1.00 39.09           O  
+ANISOU  227  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  228  O   HOH A  15      15.396   4.980  22.934  1.00 49.99           O  
+ANISOU  228  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  229 ZN    ZN A   7     -20.177  -1.979 -15.165  1.00  6.49          ZN  
+ANISOU  229 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  230  O   HOH A   8     -18.285  -3.274   8.657  1.00  5.62           O  
+ANISOU  230  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  231  O   HOH A   9     -19.707  -0.862   8.961  1.00  5.67           O  
+ANISOU  231  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  232  C   ACY A  10     -19.307   0.533 -16.441  1.00  6.91           C  
+ANISOU  232  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  233  O   ACY A  10     -19.344   1.763 -16.597  1.00  6.40           O  
+ANISOU  233  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  234  CH3 ACY A  10     -18.426  -0.244 -17.380  1.00  7.00           C  
+ANISOU  234  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  235  OXT ACY A  10     -19.947  -0.067 -15.552  1.00  6.13           O  
+ANISOU  235  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  236  O   HOH A  11     -15.565  -0.514 -15.116  1.00 15.37           O  
+ANISOU  236  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  237  O   HOH A  12     -15.994   1.776 -16.258  1.00 25.87           O  
+ANISOU  237  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  238  O   HOH A  13     -11.445  -4.273  -3.653  1.00 37.06           O  
+ANISOU  238  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  239  O   HOH A  14     -10.481  -5.087  -1.568  1.00 39.09           O  
+ANISOU  239  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  240  O   HOH A  15     -11.701  -2.325  -2.107  1.00 49.99           O  
+ANISOU  240  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  241 ZN    ZN A   7     -26.025  -4.414  12.850  1.00  6.49          ZN  
+ANISOU  241 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  242  O   HOH A   8     -27.917  -5.709 -10.972  1.00  5.62           O  
+ANISOU  242  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  243  O   HOH A   9     -26.495  -3.297 -11.276  1.00  5.67           O  
+ANISOU  243  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  244  C   ACY A  10     -26.895  -1.902  14.126  1.00  6.91           C  
+ANISOU  244  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  245  O   ACY A  10     -26.858  -0.672  14.282  1.00  6.40           O  
+ANISOU  245  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  246  CH3 ACY A  10     -27.776  -2.679  15.065  1.00  7.00           C  
+ANISOU  246  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  247  OXT ACY A  10     -26.255  -2.502  13.237  1.00  6.13           O  
+ANISOU  247  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  248  O   HOH A  11     -30.637  -2.949  12.801  1.00 15.37           O  
+ANISOU  248  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  249  O   HOH A  12     -30.208  -0.659  13.943  1.00 25.87           O  
+ANISOU  249  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  250  O   HOH A  13     -34.757  -6.708   1.338  1.00 37.06           O  
+ANISOU  250  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  251  O   HOH A  14     -35.721  -7.522  -0.747  1.00 39.09           O  
+ANISOU  251  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  252  O   HOH A  15     -34.502  -4.760  -0.208  1.00 49.99           O  
+ANISOU  252  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  253 ZN    ZN A   7       2.924  -1.979 -14.007  1.00  6.49          ZN  
+ANISOU  253 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  254  O   HOH A   8       4.816  -3.274   9.815  1.00  5.62           O  
+ANISOU  254  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  255  O   HOH A   9       3.394  -0.862  10.119  1.00  5.67           O  
+ANISOU  255  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  256  C   ACY A  10       3.794   0.533 -15.284  1.00  6.91           C  
+ANISOU  256  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  257  O   ACY A  10       3.757   1.763 -15.440  1.00  6.40           O  
+ANISOU  257  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  258  CH3 ACY A  10       4.675  -0.244 -16.222  1.00  7.00           C  
+ANISOU  258  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  259  OXT ACY A  10       3.154  -0.067 -14.394  1.00  6.13           O  
+ANISOU  259  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  260  O   HOH A  11       7.536  -0.514 -13.958  1.00 15.37           O  
+ANISOU  260  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  261  O   HOH A  12       7.107   1.776 -15.101  1.00 25.87           O  
+ANISOU  261  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  262  O   HOH A  13      11.656  -4.273  -2.496  1.00 37.06           O  
+ANISOU  262  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  263  O   HOH A  14      12.620  -5.087  -0.410  1.00 39.09           O  
+ANISOU  263  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  264  O   HOH A  15      11.400  -2.325  -0.949  1.00 49.99           O  
+ANISOU  264  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  265 ZN    ZN A   7      -2.924  -4.414  14.007  1.00  6.49          ZN  
+ANISOU  265 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  266  O   HOH A   8      -4.816  -5.709  -9.815  1.00  5.62           O  
+ANISOU  266  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  267  O   HOH A   9      -3.394  -3.297 -10.119  1.00  5.67           O  
+ANISOU  267  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  268  C   ACY A  10      -3.794  -1.902  15.284  1.00  6.91           C  
+ANISOU  268  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  269  O   ACY A  10      -3.757  -0.672  15.440  1.00  6.40           O  
+ANISOU  269  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  270  CH3 ACY A  10      -4.675  -2.679  16.222  1.00  7.00           C  
+ANISOU  270  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  271  OXT ACY A  10      -3.154  -2.502  14.394  1.00  6.13           O  
+ANISOU  271  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  272  O   HOH A  11      -7.536  -2.949  13.958  1.00 15.37           O  
+ANISOU  272  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  273  O   HOH A  12      -7.107  -0.659  15.101  1.00 25.87           O  
+ANISOU  273  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  274  O   HOH A  13     -11.656  -6.708   2.496  1.00 37.06           O  
+ANISOU  274  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  275  O   HOH A  14     -12.620  -7.522   0.410  1.00 39.09           O  
+ANISOU  275  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  276  O   HOH A  15     -11.400  -4.760   0.949  1.00 49.99           O  
+ANISOU  276  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  277 ZN    ZN A   7      26.025  -1.979 -12.850  1.00  6.49          ZN  
+ANISOU  277 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  278  O   HOH A   8      27.917  -3.274  10.972  1.00  5.62           O  
+ANISOU  278  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  279  O   HOH A   9      26.495  -0.862  11.276  1.00  5.67           O  
+ANISOU  279  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  280  C   ACY A  10      26.895   0.533 -14.126  1.00  6.91           C  
+ANISOU  280  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  281  O   ACY A  10      26.858   1.763 -14.282  1.00  6.40           O  
+ANISOU  281  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  282  CH3 ACY A  10      27.776  -0.244 -15.065  1.00  7.00           C  
+ANISOU  282  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  283  OXT ACY A  10      26.255  -0.067 -13.237  1.00  6.13           O  
+ANISOU  283  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  284  O   HOH A  11      30.637  -0.514 -12.801  1.00 15.37           O  
+ANISOU  284  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  285  O   HOH A  12      30.208   1.776 -13.943  1.00 25.87           O  
+ANISOU  285  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  286  O   HOH A  13      34.757  -4.273  -1.338  1.00 37.06           O  
+ANISOU  286  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  287  O   HOH A  14      35.721  -5.087   0.747  1.00 39.09           O  
+ANISOU  287  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  288  O   HOH A  15      34.502  -2.325   0.208  1.00 49.99           O  
+ANISOU  288  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  289 ZN    ZN A   7      20.177  -4.414  15.165  1.00  6.49          ZN  
+ANISOU  289 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  290  O   HOH A   8      18.285  -5.709  -8.657  1.00  5.62           O  
+ANISOU  290  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  291  O   HOH A   9      19.707  -3.297  -8.961  1.00  5.67           O  
+ANISOU  291  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  292  C   ACY A  10      19.307  -1.902  16.441  1.00  6.91           C  
+ANISOU  292  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  293  O   ACY A  10      19.344  -0.672  16.597  1.00  6.40           O  
+ANISOU  293  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  294  CH3 ACY A  10      18.426  -2.679  17.380  1.00  7.00           C  
+ANISOU  294  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  295  OXT ACY A  10      19.947  -2.502  15.552  1.00  6.13           O  
+ANISOU  295  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  296  O   HOH A  11      15.565  -2.949  15.116  1.00 15.37           O  
+ANISOU  296  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  297  O   HOH A  12      15.994  -0.659  16.258  1.00 25.87           O  
+ANISOU  297  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  298  O   HOH A  13      11.445  -6.708   3.653  1.00 37.06           O  
+ANISOU  298  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  299  O   HOH A  14      10.481  -7.522   1.568  1.00 39.09           O  
+ANISOU  299  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  300  O   HOH A  15      11.701  -4.760   2.107  1.00 49.99           O  
+ANISOU  300  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  301 ZN    ZN A   7     -20.177   2.891 -15.165  1.00  6.49          ZN  
+ANISOU  301 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  302  O   HOH A   8     -18.285   1.596   8.657  1.00  5.62           O  
+ANISOU  302  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  303  O   HOH A   9     -19.707   4.008   8.961  1.00  5.67           O  
+ANISOU  303  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  304  C   ACY A  10     -19.307   5.403 -16.441  1.00  6.91           C  
+ANISOU  304  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  305  O   ACY A  10     -19.344   6.633 -16.597  1.00  6.40           O  
+ANISOU  305  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  306  CH3 ACY A  10     -18.426   4.626 -17.380  1.00  7.00           C  
+ANISOU  306  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  307  OXT ACY A  10     -19.947   4.803 -15.552  1.00  6.13           O  
+ANISOU  307  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  308  O   HOH A  11     -15.565   4.356 -15.116  1.00 15.37           O  
+ANISOU  308  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  309  O   HOH A  12     -15.994   6.646 -16.258  1.00 25.87           O  
+ANISOU  309  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  310  O   HOH A  13     -11.445   0.597  -3.653  1.00 37.06           O  
+ANISOU  310  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  311  O   HOH A  14     -10.481  -0.217  -1.568  1.00 39.09           O  
+ANISOU  311  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  312  O   HOH A  15     -11.701   2.545  -2.107  1.00 49.99           O  
+ANISOU  312  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  313 ZN    ZN A   7     -26.025   0.456  12.850  1.00  6.49          ZN  
+ANISOU  313 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  314  O   HOH A   8     -27.917  -0.839 -10.972  1.00  5.62           O  
+ANISOU  314  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  315  O   HOH A   9     -26.495   1.573 -11.276  1.00  5.67           O  
+ANISOU  315  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  316  C   ACY A  10     -26.895   2.968  14.126  1.00  6.91           C  
+ANISOU  316  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  317  O   ACY A  10     -26.858   4.198  14.282  1.00  6.40           O  
+ANISOU  317  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  318  CH3 ACY A  10     -27.776   2.191  15.065  1.00  7.00           C  
+ANISOU  318  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  319  OXT ACY A  10     -26.255   2.368  13.237  1.00  6.13           O  
+ANISOU  319  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  320  O   HOH A  11     -30.637   1.921  12.801  1.00 15.37           O  
+ANISOU  320  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  321  O   HOH A  12     -30.208   4.211  13.943  1.00 25.87           O  
+ANISOU  321  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  322  O   HOH A  13     -34.757  -1.838   1.338  1.00 37.06           O  
+ANISOU  322  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  323  O   HOH A  14     -35.721  -2.652  -0.747  1.00 39.09           O  
+ANISOU  323  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  324  O   HOH A  15     -34.502   0.110  -0.208  1.00 49.99           O  
+ANISOU  324  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  325 ZN    ZN A   7      -2.924   0.456  14.007  1.00  6.49          ZN  
+ANISOU  325 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  326  O   HOH A   8      -4.816  -0.839  -9.815  1.00  5.62           O  
+ANISOU  326  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  327  O   HOH A   9      -3.394   1.573 -10.119  1.00  5.67           O  
+ANISOU  327  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  328  C   ACY A  10      -3.794   2.968  15.284  1.00  6.91           C  
+ANISOU  328  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  329  O   ACY A  10      -3.757   4.198  15.440  1.00  6.40           O  
+ANISOU  329  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  330  CH3 ACY A  10      -4.675   2.191  16.222  1.00  7.00           C  
+ANISOU  330  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  331  OXT ACY A  10      -3.154   2.368  14.394  1.00  6.13           O  
+ANISOU  331  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  332  O   HOH A  11      -7.536   1.921  13.958  1.00 15.37           O  
+ANISOU  332  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  333  O   HOH A  12      -7.107   4.211  15.101  1.00 25.87           O  
+ANISOU  333  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  334  O   HOH A  13     -11.656  -1.838   2.496  1.00 37.06           O  
+ANISOU  334  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  335  O   HOH A  14     -12.620  -2.652   0.410  1.00 39.09           O  
+ANISOU  335  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  336  O   HOH A  15     -11.400   0.110   0.949  1.00 49.99           O  
+ANISOU  336  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  337 ZN    ZN A   7      26.025   2.891 -12.850  1.00  6.49          ZN  
+ANISOU  337 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  338  O   HOH A   8      27.917   1.596  10.972  1.00  5.62           O  
+ANISOU  338  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  339  O   HOH A   9      26.495   4.008  11.276  1.00  5.67           O  
+ANISOU  339  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  340  C   ACY A  10      26.895   5.403 -14.126  1.00  6.91           C  
+ANISOU  340  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  341  O   ACY A  10      26.858   6.633 -14.282  1.00  6.40           O  
+ANISOU  341  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  342  CH3 ACY A  10      27.776   4.626 -15.065  1.00  7.00           C  
+ANISOU  342  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  343  OXT ACY A  10      26.255   4.803 -13.237  1.00  6.13           O  
+ANISOU  343  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  344  O   HOH A  11      30.637   4.356 -12.801  1.00 15.37           O  
+ANISOU  344  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  345  O   HOH A  12      30.208   6.646 -13.943  1.00 25.87           O  
+ANISOU  345  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  346  O   HOH A  13      34.757   0.597  -1.338  1.00 37.06           O  
+ANISOU  346  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  347  O   HOH A  14      35.721  -0.217   0.747  1.00 39.09           O  
+ANISOU  347  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  348  O   HOH A  15      34.502   2.545   0.208  1.00 49.99           O  
+ANISOU  348  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  349 ZN    ZN A   7      20.177   0.456  15.165  1.00  6.49          ZN  
+ANISOU  349 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  350  O   HOH A   8      18.285  -0.839  -8.657  1.00  5.62           O  
+ANISOU  350  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  351  O   HOH A   9      19.707   1.573  -8.961  1.00  5.67           O  
+ANISOU  351  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  352  C   ACY A  10      19.307   2.968  16.441  1.00  6.91           C  
+ANISOU  352  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  353  O   ACY A  10      19.344   4.198  16.597  1.00  6.40           O  
+ANISOU  353  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  354  CH3 ACY A  10      18.426   2.191  17.380  1.00  7.00           C  
+ANISOU  354  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  355  OXT ACY A  10      19.947   2.368  15.552  1.00  6.13           O  
+ANISOU  355  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  356  O   HOH A  11      15.565   1.921  15.116  1.00 15.37           O  
+ANISOU  356  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  357  O   HOH A  12      15.994   4.211  16.258  1.00 25.87           O  
+ANISOU  357  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  358  O   HOH A  13      11.445  -1.838   3.653  1.00 37.06           O  
+ANISOU  358  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  359  O   HOH A  14      10.481  -2.652   1.568  1.00 39.09           O  
+ANISOU  359  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  360  O   HOH A  15      11.701   0.110   2.107  1.00 49.99           O  
+ANISOU  360  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  361 ZN    ZN A   7     -20.177   7.761 -15.165  1.00  6.49          ZN  
+ANISOU  361 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  362  O   HOH A   8     -18.285   6.466   8.657  1.00  5.62           O  
+ANISOU  362  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  363  O   HOH A   9     -19.707   8.878   8.961  1.00  5.67           O  
+ANISOU  363  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  364  C   ACY A  10     -19.307  10.273 -16.441  1.00  6.91           C  
+ANISOU  364  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  365  O   ACY A  10     -19.344  11.503 -16.597  1.00  6.40           O  
+ANISOU  365  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  366  CH3 ACY A  10     -18.426   9.496 -17.380  1.00  7.00           C  
+ANISOU  366  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  367  OXT ACY A  10     -19.947   9.673 -15.552  1.00  6.13           O  
+ANISOU  367  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  368  O   HOH A  11     -15.565   9.226 -15.116  1.00 15.37           O  
+ANISOU  368  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  369  O   HOH A  12     -15.994  11.516 -16.258  1.00 25.87           O  
+ANISOU  369  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  370  O   HOH A  13     -11.445   5.467  -3.653  1.00 37.06           O  
+ANISOU  370  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  371  O   HOH A  14     -10.481   4.653  -1.568  1.00 39.09           O  
+ANISOU  371  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  372  O   HOH A  15     -11.701   7.415  -2.107  1.00 49.99           O  
+ANISOU  372  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  373 ZN    ZN A   7     -26.025   5.326  12.850  1.00  6.49          ZN  
+ANISOU  373 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  374  O   HOH A   8     -27.917   4.031 -10.972  1.00  5.62           O  
+ANISOU  374  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  375  O   HOH A   9     -26.495   6.443 -11.276  1.00  5.67           O  
+ANISOU  375  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  376  C   ACY A  10     -26.895   7.838  14.126  1.00  6.91           C  
+ANISOU  376  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  377  O   ACY A  10     -26.858   9.068  14.282  1.00  6.40           O  
+ANISOU  377  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  378  CH3 ACY A  10     -27.776   7.061  15.065  1.00  7.00           C  
+ANISOU  378  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  379  OXT ACY A  10     -26.255   7.238  13.237  1.00  6.13           O  
+ANISOU  379  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  380  O   HOH A  11     -30.637   6.791  12.801  1.00 15.37           O  
+ANISOU  380  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  381  O   HOH A  12     -30.208   9.081  13.943  1.00 25.87           O  
+ANISOU  381  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  382  O   HOH A  13     -34.757   3.032   1.338  1.00 37.06           O  
+ANISOU  382  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  383  O   HOH A  14     -35.721   2.218  -0.747  1.00 39.09           O  
+ANISOU  383  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  384  O   HOH A  15     -34.502   4.980  -0.208  1.00 49.99           O  
+ANISOU  384  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  385 ZN    ZN A   7       2.924   7.761 -14.007  1.00  6.49          ZN  
+ANISOU  385 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  386  O   HOH A   8       4.816   6.466   9.815  1.00  5.62           O  
+ANISOU  386  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  387  O   HOH A   9       3.394   8.878  10.119  1.00  5.67           O  
+ANISOU  387  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  388  C   ACY A  10       3.794  10.273 -15.284  1.00  6.91           C  
+ANISOU  388  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  389  O   ACY A  10       3.757  11.503 -15.440  1.00  6.40           O  
+ANISOU  389  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  390  CH3 ACY A  10       4.675   9.496 -16.222  1.00  7.00           C  
+ANISOU  390  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  391  OXT ACY A  10       3.154   9.673 -14.394  1.00  6.13           O  
+ANISOU  391  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  392  O   HOH A  11       7.536   9.226 -13.958  1.00 15.37           O  
+ANISOU  392  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  393  O   HOH A  12       7.107  11.516 -15.101  1.00 25.87           O  
+ANISOU  393  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  394  O   HOH A  13      11.656   5.467  -2.496  1.00 37.06           O  
+ANISOU  394  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  395  O   HOH A  14      12.620   4.653  -0.410  1.00 39.09           O  
+ANISOU  395  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  396  O   HOH A  15      11.400   7.415  -0.949  1.00 49.99           O  
+ANISOU  396  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  397 ZN    ZN A   7      -2.924   5.326  14.007  1.00  6.49          ZN  
+ANISOU  397 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  398  O   HOH A   8      -4.816   4.031  -9.815  1.00  5.62           O  
+ANISOU  398  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  399  O   HOH A   9      -3.394   6.443 -10.119  1.00  5.67           O  
+ANISOU  399  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  400  C   ACY A  10      -3.794   7.838  15.284  1.00  6.91           C  
+ANISOU  400  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  401  O   ACY A  10      -3.757   9.068  15.440  1.00  6.40           O  
+ANISOU  401  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  402  CH3 ACY A  10      -4.675   7.061  16.222  1.00  7.00           C  
+ANISOU  402  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  403  OXT ACY A  10      -3.154   7.238  14.394  1.00  6.13           O  
+ANISOU  403  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  404  O   HOH A  11      -7.536   6.791  13.958  1.00 15.37           O  
+ANISOU  404  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  405  O   HOH A  12      -7.107   9.081  15.101  1.00 25.87           O  
+ANISOU  405  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  406  O   HOH A  13     -11.656   3.032   2.496  1.00 37.06           O  
+ANISOU  406  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  407  O   HOH A  14     -12.620   2.218   0.410  1.00 39.09           O  
+ANISOU  407  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  408  O   HOH A  15     -11.400   4.980   0.949  1.00 49.99           O  
+ANISOU  408  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  409 ZN    ZN A   7      26.025   7.761 -12.850  1.00  6.49          ZN  
+ANISOU  409 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  410  O   HOH A   8      27.917   6.466  10.972  1.00  5.62           O  
+ANISOU  410  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  411  O   HOH A   9      26.495   8.878  11.276  1.00  5.67           O  
+ANISOU  411  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  412  C   ACY A  10      26.895  10.273 -14.126  1.00  6.91           C  
+ANISOU  412  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  413  O   ACY A  10      26.858  11.503 -14.282  1.00  6.40           O  
+ANISOU  413  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  414  CH3 ACY A  10      27.776   9.496 -15.065  1.00  7.00           C  
+ANISOU  414  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  415  OXT ACY A  10      26.255   9.673 -13.237  1.00  6.13           O  
+ANISOU  415  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  416  O   HOH A  11      30.637   9.226 -12.801  1.00 15.37           O  
+ANISOU  416  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  417  O   HOH A  12      30.208  11.516 -13.943  1.00 25.87           O  
+ANISOU  417  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  418  O   HOH A  13      34.757   5.467  -1.338  1.00 37.06           O  
+ANISOU  418  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  419  O   HOH A  14      35.721   4.653   0.747  1.00 39.09           O  
+ANISOU  419  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  420  O   HOH A  15      34.502   7.415   0.208  1.00 49.99           O  
+ANISOU  420  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  421 ZN    ZN A   7      20.177   5.326  15.165  1.00  6.49          ZN  
+ANISOU  421 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  422  O   HOH A   8      18.285   4.031  -8.657  1.00  5.62           O  
+ANISOU  422  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  423  O   HOH A   9      19.707   6.443  -8.961  1.00  5.67           O  
+ANISOU  423  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  424  C   ACY A  10      19.307   7.838  16.441  1.00  6.91           C  
+ANISOU  424  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  425  O   ACY A  10      19.344   9.068  16.597  1.00  6.40           O  
+ANISOU  425  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  426  CH3 ACY A  10      18.426   7.061  17.380  1.00  7.00           C  
+ANISOU  426  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  427  OXT ACY A  10      19.947   7.238  15.552  1.00  6.13           O  
+ANISOU  427  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  428  O   HOH A  11      15.565   6.791  15.116  1.00 15.37           O  
+ANISOU  428  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  429  O   HOH A  12      15.994   9.081  16.258  1.00 25.87           O  
+ANISOU  429  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  430  O   HOH A  13      11.445   3.032   3.653  1.00 37.06           O  
+ANISOU  430  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  431  O   HOH A  14      10.481   2.218   1.568  1.00 39.09           O  
+ANISOU  431  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  432  O   HOH A  15      11.701   4.980   2.107  1.00 49.99           O  
+ANISOU  432  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  433 ZN    ZN A   7     -23.873  -1.979 -35.992  1.00  6.49          ZN  
+ANISOU  433 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  434  O   HOH A   8     -21.981  -3.274 -12.171  1.00  5.62           O  
+ANISOU  434  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  435  O   HOH A   9     -23.403  -0.862 -11.866  1.00  5.67           O  
+ANISOU  435  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  436  C   ACY A  10     -23.003   0.533 -37.269  1.00  6.91           C  
+ANISOU  436  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  437  O   ACY A  10     -23.039   1.763 -37.425  1.00  6.40           O  
+ANISOU  437  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  438  CH3 ACY A  10     -22.122  -0.244 -38.207  1.00  7.00           C  
+ANISOU  438  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  439  OXT ACY A  10     -23.643  -0.067 -36.379  1.00  6.13           O  
+ANISOU  439  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  440  O   HOH A  11     -19.260  -0.514 -35.943  1.00 15.37           O  
+ANISOU  440  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  441  O   HOH A  12     -19.690   1.776 -37.086  1.00 25.87           O  
+ANISOU  441  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  442  O   HOH A  13     -15.140  -4.273 -24.481  1.00 37.06           O  
+ANISOU  442  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  443  O   HOH A  14     -14.176  -5.087 -22.395  1.00 39.09           O  
+ANISOU  443  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  444  O   HOH A  15     -15.396  -2.325 -22.934  1.00 49.99           O  
+ANISOU  444  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  445 ZN    ZN A   7     -29.720  -4.414  -7.978  1.00  6.49          ZN  
+ANISOU  445 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  446  O   HOH A   8     -31.612  -5.709 -31.800  1.00  5.62           O  
+ANISOU  446  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  447  O   HOH A   9     -30.191  -3.297 -32.104  1.00  5.67           O  
+ANISOU  447  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  448  C   ACY A  10     -30.591  -1.902  -6.701  1.00  6.91           C  
+ANISOU  448  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  449  O   ACY A  10     -30.554  -0.672  -6.545  1.00  6.40           O  
+ANISOU  449  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  450  CH3 ACY A  10     -31.471  -2.679  -5.763  1.00  7.00           C  
+ANISOU  450  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  451  OXT ACY A  10     -29.950  -2.502  -7.591  1.00  6.13           O  
+ANISOU  451  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  452  O   HOH A  11     -34.333  -2.949  -8.027  1.00 15.37           O  
+ANISOU  452  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  453  O   HOH A  12     -33.904  -0.659  -6.884  1.00 25.87           O  
+ANISOU  453  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  454  O   HOH A  13     -38.453  -6.708 -19.489  1.00 37.06           O  
+ANISOU  454  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  455  O   HOH A  14     -39.417  -7.522 -21.575  1.00 39.09           O  
+ANISOU  455  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  456  O   HOH A  15     -38.197  -4.760 -21.036  1.00 49.99           O  
+ANISOU  456  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  457 ZN    ZN A   7      -0.772  -1.979 -34.835  1.00  6.49          ZN  
+ANISOU  457 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  458  O   HOH A   8       1.120  -3.274 -11.013  1.00  5.62           O  
+ANISOU  458  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  459  O   HOH A   9      -0.302  -0.862 -10.709  1.00  5.67           O  
+ANISOU  459  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  460  C   ACY A  10       0.099   0.533 -36.112  1.00  6.91           C  
+ANISOU  460  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  461  O   ACY A  10       0.062   1.763 -36.268  1.00  6.40           O  
+ANISOU  461  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  462  CH3 ACY A  10       0.979  -0.244 -37.050  1.00  7.00           C  
+ANISOU  462  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  463  OXT ACY A  10      -0.542  -0.067 -35.222  1.00  6.13           O  
+ANISOU  463  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  464  O   HOH A  11       3.841  -0.514 -34.786  1.00 15.37           O  
+ANISOU  464  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  465  O   HOH A  12       3.411   1.776 -35.929  1.00 25.87           O  
+ANISOU  465  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  466  O   HOH A  13       7.961  -4.273 -23.323  1.00 37.06           O  
+ANISOU  466  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  467  O   HOH A  14       8.925  -5.087 -21.238  1.00 39.09           O  
+ANISOU  467  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  468  O   HOH A  15       7.705  -2.325 -21.777  1.00 49.99           O  
+ANISOU  468  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  469 ZN    ZN A   7      -6.619  -4.414  -6.820  1.00  6.49          ZN  
+ANISOU  469 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  470  O   HOH A   8      -8.511  -5.709 -30.642  1.00  5.62           O  
+ANISOU  470  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  471  O   HOH A   9      -7.090  -3.297 -30.946  1.00  5.67           O  
+ANISOU  471  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  472  C   ACY A  10      -7.490  -1.902  -5.544  1.00  6.91           C  
+ANISOU  472  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  473  O   ACY A  10      -7.453  -0.672  -5.388  1.00  6.40           O  
+ANISOU  473  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  474  CH3 ACY A  10      -8.370  -2.679  -4.605  1.00  7.00           C  
+ANISOU  474  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  475  OXT ACY A  10      -6.849  -2.502  -6.433  1.00  6.13           O  
+ANISOU  475  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  476  O   HOH A  11     -11.232  -2.949  -6.869  1.00 15.37           O  
+ANISOU  476  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  477  O   HOH A  12     -10.803  -0.659  -5.727  1.00 25.87           O  
+ANISOU  477  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  478  O   HOH A  13     -15.352  -6.708 -18.332  1.00 37.06           O  
+ANISOU  478  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  479  O   HOH A  14     -16.316  -7.522 -20.417  1.00 39.09           O  
+ANISOU  479  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  480  O   HOH A  15     -15.096  -4.760 -19.878  1.00 49.99           O  
+ANISOU  480  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  481 ZN    ZN A   7      22.329  -1.979 -33.677  1.00  6.49          ZN  
+ANISOU  481 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  482  O   HOH A   8      24.221  -3.274  -9.856  1.00  5.62           O  
+ANISOU  482  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  483  O   HOH A   9      22.799  -0.862  -9.552  1.00  5.67           O  
+ANISOU  483  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  484  C   ACY A  10      23.200   0.533 -34.954  1.00  6.91           C  
+ANISOU  484  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  485  O   ACY A  10      23.163   1.763 -35.110  1.00  6.40           O  
+ANISOU  485  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  486  CH3 ACY A  10      24.080  -0.244 -35.892  1.00  7.00           C  
+ANISOU  486  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  487  OXT ACY A  10      22.559  -0.067 -34.065  1.00  6.13           O  
+ANISOU  487  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  488  O   HOH A  11      26.942  -0.514 -33.629  1.00 15.37           O  
+ANISOU  488  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  489  O   HOH A  12      26.512   1.776 -34.771  1.00 25.87           O  
+ANISOU  489  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  490  O   HOH A  13      31.062  -4.273 -22.166  1.00 37.06           O  
+ANISOU  490  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  491  O   HOH A  14      32.026  -5.087 -20.080  1.00 39.09           O  
+ANISOU  491  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  492  O   HOH A  15      30.806  -2.325 -20.620  1.00 49.99           O  
+ANISOU  492  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  493 ZN    ZN A   7      16.482  -4.414  -5.663  1.00  6.49          ZN  
+ANISOU  493 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  494  O   HOH A   8      14.590  -5.709 -29.485  1.00  5.62           O  
+ANISOU  494  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  495  O   HOH A   9      16.011  -3.297 -29.789  1.00  5.67           O  
+ANISOU  495  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  496  C   ACY A  10      15.611  -1.902  -4.386  1.00  6.91           C  
+ANISOU  496  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  497  O   ACY A  10      15.648  -0.672  -4.230  1.00  6.40           O  
+ANISOU  497  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  498  CH3 ACY A  10      14.731  -2.679  -3.448  1.00  7.00           C  
+ANISOU  498  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  499  OXT ACY A  10      16.252  -2.502  -5.276  1.00  6.13           O  
+ANISOU  499  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  500  O   HOH A  11      11.869  -2.949  -5.712  1.00 15.37           O  
+ANISOU  500  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  501  O   HOH A  12      12.298  -0.659  -4.569  1.00 25.87           O  
+ANISOU  501  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  502  O   HOH A  13       7.749  -6.708 -17.174  1.00 37.06           O  
+ANISOU  502  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  503  O   HOH A  14       6.785  -7.522 -19.260  1.00 39.09           O  
+ANISOU  503  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  504  O   HOH A  15       8.005  -4.760 -18.721  1.00 49.99           O  
+ANISOU  504  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  505 ZN    ZN A   7     -23.873   2.891 -35.992  1.00  6.49          ZN  
+ANISOU  505 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  506  O   HOH A   8     -21.981   1.596 -12.171  1.00  5.62           O  
+ANISOU  506  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  507  O   HOH A   9     -23.403   4.008 -11.866  1.00  5.67           O  
+ANISOU  507  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  508  C   ACY A  10     -23.003   5.403 -37.269  1.00  6.91           C  
+ANISOU  508  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  509  O   ACY A  10     -23.039   6.633 -37.425  1.00  6.40           O  
+ANISOU  509  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  510  CH3 ACY A  10     -22.122   4.626 -38.207  1.00  7.00           C  
+ANISOU  510  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  511  OXT ACY A  10     -23.643   4.803 -36.379  1.00  6.13           O  
+ANISOU  511  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  512  O   HOH A  11     -19.260   4.356 -35.943  1.00 15.37           O  
+ANISOU  512  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  513  O   HOH A  12     -19.690   6.646 -37.086  1.00 25.87           O  
+ANISOU  513  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  514  O   HOH A  13     -15.140   0.597 -24.481  1.00 37.06           O  
+ANISOU  514  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  515  O   HOH A  14     -14.176  -0.217 -22.395  1.00 39.09           O  
+ANISOU  515  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  516  O   HOH A  15     -15.396   2.545 -22.934  1.00 49.99           O  
+ANISOU  516  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  517 ZN    ZN A   7     -29.720   0.456  -7.978  1.00  6.49          ZN  
+ANISOU  517 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  518  O   HOH A   8     -31.612  -0.839 -31.800  1.00  5.62           O  
+ANISOU  518  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  519  O   HOH A   9     -30.191   1.573 -32.104  1.00  5.67           O  
+ANISOU  519  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  520  C   ACY A  10     -30.591   2.968  -6.701  1.00  6.91           C  
+ANISOU  520  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  521  O   ACY A  10     -30.554   4.198  -6.545  1.00  6.40           O  
+ANISOU  521  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  522  CH3 ACY A  10     -31.471   2.191  -5.763  1.00  7.00           C  
+ANISOU  522  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  523  OXT ACY A  10     -29.950   2.368  -7.591  1.00  6.13           O  
+ANISOU  523  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  524  O   HOH A  11     -34.333   1.921  -8.027  1.00 15.37           O  
+ANISOU  524  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  525  O   HOH A  12     -33.904   4.211  -6.884  1.00 25.87           O  
+ANISOU  525  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  526  O   HOH A  13     -38.453  -1.838 -19.489  1.00 37.06           O  
+ANISOU  526  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  527  O   HOH A  14     -39.417  -2.652 -21.575  1.00 39.09           O  
+ANISOU  527  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  528  O   HOH A  15     -38.197   0.110 -21.036  1.00 49.99           O  
+ANISOU  528  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  529 ZN    ZN A   7      -0.772   2.891 -34.835  1.00  6.49          ZN  
+ANISOU  529 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  530  O   HOH A   8       1.120   1.596 -11.013  1.00  5.62           O  
+ANISOU  530  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  531  O   HOH A   9      -0.302   4.008 -10.709  1.00  5.67           O  
+ANISOU  531  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  532  C   ACY A  10       0.099   5.403 -36.112  1.00  6.91           C  
+ANISOU  532  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  533  O   ACY A  10       0.062   6.633 -36.268  1.00  6.40           O  
+ANISOU  533  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  534  CH3 ACY A  10       0.979   4.626 -37.050  1.00  7.00           C  
+ANISOU  534  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  535  OXT ACY A  10      -0.542   4.803 -35.222  1.00  6.13           O  
+ANISOU  535  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  536  O   HOH A  11       3.841   4.356 -34.786  1.00 15.37           O  
+ANISOU  536  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  537  O   HOH A  12       3.411   6.646 -35.929  1.00 25.87           O  
+ANISOU  537  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  538  O   HOH A  13       7.961   0.597 -23.323  1.00 37.06           O  
+ANISOU  538  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  539  O   HOH A  14       8.925  -0.217 -21.238  1.00 39.09           O  
+ANISOU  539  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  540  O   HOH A  15       7.705   2.545 -21.777  1.00 49.99           O  
+ANISOU  540  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  541 ZN    ZN A   7      -6.619   0.456  -6.820  1.00  6.49          ZN  
+ANISOU  541 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  542  O   HOH A   8      -8.511  -0.839 -30.642  1.00  5.62           O  
+ANISOU  542  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  543  O   HOH A   9      -7.090   1.573 -30.946  1.00  5.67           O  
+ANISOU  543  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  544  C   ACY A  10      -7.490   2.968  -5.544  1.00  6.91           C  
+ANISOU  544  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  545  O   ACY A  10      -7.453   4.198  -5.388  1.00  6.40           O  
+ANISOU  545  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  546  CH3 ACY A  10      -8.370   2.191  -4.605  1.00  7.00           C  
+ANISOU  546  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  547  OXT ACY A  10      -6.849   2.368  -6.433  1.00  6.13           O  
+ANISOU  547  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  548  O   HOH A  11     -11.232   1.921  -6.869  1.00 15.37           O  
+ANISOU  548  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  549  O   HOH A  12     -10.803   4.211  -5.727  1.00 25.87           O  
+ANISOU  549  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  550  O   HOH A  13     -15.352  -1.838 -18.332  1.00 37.06           O  
+ANISOU  550  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  551  O   HOH A  14     -16.316  -2.652 -20.417  1.00 39.09           O  
+ANISOU  551  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  552  O   HOH A  15     -15.096   0.110 -19.878  1.00 49.99           O  
+ANISOU  552  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  553 ZN    ZN A   7      22.329   2.891 -33.677  1.00  6.49          ZN  
+ANISOU  553 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  554  O   HOH A   8      24.221   1.596  -9.856  1.00  5.62           O  
+ANISOU  554  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  555  O   HOH A   9      22.799   4.008  -9.552  1.00  5.67           O  
+ANISOU  555  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  556  C   ACY A  10      23.200   5.403 -34.954  1.00  6.91           C  
+ANISOU  556  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  557  O   ACY A  10      23.163   6.633 -35.110  1.00  6.40           O  
+ANISOU  557  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  558  CH3 ACY A  10      24.080   4.626 -35.892  1.00  7.00           C  
+ANISOU  558  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  559  OXT ACY A  10      22.559   4.803 -34.065  1.00  6.13           O  
+ANISOU  559  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  560  O   HOH A  11      26.942   4.356 -33.629  1.00 15.37           O  
+ANISOU  560  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  561  O   HOH A  12      26.512   6.646 -34.771  1.00 25.87           O  
+ANISOU  561  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  562  O   HOH A  13      31.062   0.597 -22.166  1.00 37.06           O  
+ANISOU  562  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  563  O   HOH A  14      32.026  -0.217 -20.080  1.00 39.09           O  
+ANISOU  563  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  564  O   HOH A  15      30.806   2.545 -20.620  1.00 49.99           O  
+ANISOU  564  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  565 ZN    ZN A   7      16.482   0.456  -5.663  1.00  6.49          ZN  
+ANISOU  565 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  566  O   HOH A   8      14.590  -0.839 -29.485  1.00  5.62           O  
+ANISOU  566  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  567  O   HOH A   9      16.011   1.573 -29.789  1.00  5.67           O  
+ANISOU  567  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  568  C   ACY A  10      15.611   2.968  -4.386  1.00  6.91           C  
+ANISOU  568  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  569  O   ACY A  10      15.648   4.198  -4.230  1.00  6.40           O  
+ANISOU  569  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  570  CH3 ACY A  10      14.731   2.191  -3.448  1.00  7.00           C  
+ANISOU  570  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  571  OXT ACY A  10      16.252   2.368  -5.276  1.00  6.13           O  
+ANISOU  571  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  572  O   HOH A  11      11.869   1.921  -5.712  1.00 15.37           O  
+ANISOU  572  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  573  O   HOH A  12      12.298   4.211  -4.569  1.00 25.87           O  
+ANISOU  573  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  574  O   HOH A  13       7.749  -1.838 -17.174  1.00 37.06           O  
+ANISOU  574  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  575  O   HOH A  14       6.785  -2.652 -19.260  1.00 39.09           O  
+ANISOU  575  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  576  O   HOH A  15       8.005   0.110 -18.721  1.00 49.99           O  
+ANISOU  576  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  577 ZN    ZN A   7     -23.873   7.761 -35.992  1.00  6.49          ZN  
+ANISOU  577 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  578  O   HOH A   8     -21.981   6.466 -12.171  1.00  5.62           O  
+ANISOU  578  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  579  O   HOH A   9     -23.403   8.878 -11.866  1.00  5.67           O  
+ANISOU  579  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  580  C   ACY A  10     -23.003  10.273 -37.269  1.00  6.91           C  
+ANISOU  580  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  581  O   ACY A  10     -23.039  11.503 -37.425  1.00  6.40           O  
+ANISOU  581  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  582  CH3 ACY A  10     -22.122   9.496 -38.207  1.00  7.00           C  
+ANISOU  582  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  583  OXT ACY A  10     -23.643   9.673 -36.379  1.00  6.13           O  
+ANISOU  583  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  584  O   HOH A  11     -19.260   9.226 -35.943  1.00 15.37           O  
+ANISOU  584  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  585  O   HOH A  12     -19.690  11.516 -37.086  1.00 25.87           O  
+ANISOU  585  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  586  O   HOH A  13     -15.140   5.467 -24.481  1.00 37.06           O  
+ANISOU  586  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  587  O   HOH A  14     -14.176   4.653 -22.395  1.00 39.09           O  
+ANISOU  587  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  588  O   HOH A  15     -15.396   7.415 -22.934  1.00 49.99           O  
+ANISOU  588  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  589 ZN    ZN A   7     -29.720   5.326  -7.978  1.00  6.49          ZN  
+ANISOU  589 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  590  O   HOH A   8     -31.612   4.031 -31.800  1.00  5.62           O  
+ANISOU  590  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  591  O   HOH A   9     -30.191   6.443 -32.104  1.00  5.67           O  
+ANISOU  591  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  592  C   ACY A  10     -30.591   7.838  -6.701  1.00  6.91           C  
+ANISOU  592  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  593  O   ACY A  10     -30.554   9.068  -6.545  1.00  6.40           O  
+ANISOU  593  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  594  CH3 ACY A  10     -31.471   7.061  -5.763  1.00  7.00           C  
+ANISOU  594  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  595  OXT ACY A  10     -29.950   7.238  -7.591  1.00  6.13           O  
+ANISOU  595  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  596  O   HOH A  11     -34.333   6.791  -8.027  1.00 15.37           O  
+ANISOU  596  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  597  O   HOH A  12     -33.904   9.081  -6.884  1.00 25.87           O  
+ANISOU  597  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  598  O   HOH A  13     -38.453   3.032 -19.489  1.00 37.06           O  
+ANISOU  598  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  599  O   HOH A  14     -39.417   2.218 -21.575  1.00 39.09           O  
+ANISOU  599  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  600  O   HOH A  15     -38.197   4.980 -21.036  1.00 49.99           O  
+ANISOU  600  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  601 ZN    ZN A   7      -0.772   7.761 -34.835  1.00  6.49          ZN  
+ANISOU  601 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  602  O   HOH A   8       1.120   6.466 -11.013  1.00  5.62           O  
+ANISOU  602  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  603  O   HOH A   9      -0.302   8.878 -10.709  1.00  5.67           O  
+ANISOU  603  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  604  C   ACY A  10       0.099  10.273 -36.112  1.00  6.91           C  
+ANISOU  604  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  605  O   ACY A  10       0.062  11.503 -36.268  1.00  6.40           O  
+ANISOU  605  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  606  CH3 ACY A  10       0.979   9.496 -37.050  1.00  7.00           C  
+ANISOU  606  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  607  OXT ACY A  10      -0.542   9.673 -35.222  1.00  6.13           O  
+ANISOU  607  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  608  O   HOH A  11       3.841   9.226 -34.786  1.00 15.37           O  
+ANISOU  608  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  609  O   HOH A  12       3.411  11.516 -35.929  1.00 25.87           O  
+ANISOU  609  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  610  O   HOH A  13       7.961   5.467 -23.323  1.00 37.06           O  
+ANISOU  610  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  611  O   HOH A  14       8.925   4.653 -21.238  1.00 39.09           O  
+ANISOU  611  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  612  O   HOH A  15       7.705   7.415 -21.777  1.00 49.99           O  
+ANISOU  612  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  613 ZN    ZN A   7      -6.619   5.326  -6.820  1.00  6.49          ZN  
+ANISOU  613 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  614  O   HOH A   8      -8.511   4.031 -30.642  1.00  5.62           O  
+ANISOU  614  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  615  O   HOH A   9      -7.090   6.443 -30.946  1.00  5.67           O  
+ANISOU  615  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  616  C   ACY A  10      -7.490   7.838  -5.544  1.00  6.91           C  
+ANISOU  616  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  617  O   ACY A  10      -7.453   9.068  -5.388  1.00  6.40           O  
+ANISOU  617  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  618  CH3 ACY A  10      -8.370   7.061  -4.605  1.00  7.00           C  
+ANISOU  618  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  619  OXT ACY A  10      -6.849   7.238  -6.433  1.00  6.13           O  
+ANISOU  619  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  620  O   HOH A  11     -11.232   6.791  -6.869  1.00 15.37           O  
+ANISOU  620  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  621  O   HOH A  12     -10.803   9.081  -5.727  1.00 25.87           O  
+ANISOU  621  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  622  O   HOH A  13     -15.352   3.032 -18.332  1.00 37.06           O  
+ANISOU  622  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  623  O   HOH A  14     -16.316   2.218 -20.417  1.00 39.09           O  
+ANISOU  623  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  624  O   HOH A  15     -15.096   4.980 -19.878  1.00 49.99           O  
+ANISOU  624  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  625 ZN    ZN A   7      22.329   7.761 -33.677  1.00  6.49          ZN  
+ANISOU  625 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  626  O   HOH A   8      24.221   6.466  -9.856  1.00  5.62           O  
+ANISOU  626  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  627  O   HOH A   9      22.799   8.878  -9.552  1.00  5.67           O  
+ANISOU  627  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  628  C   ACY A  10      23.200  10.273 -34.954  1.00  6.91           C  
+ANISOU  628  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  629  O   ACY A  10      23.163  11.503 -35.110  1.00  6.40           O  
+ANISOU  629  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  630  CH3 ACY A  10      24.080   9.496 -35.892  1.00  7.00           C  
+ANISOU  630  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  631  OXT ACY A  10      22.559   9.673 -34.065  1.00  6.13           O  
+ANISOU  631  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  632  O   HOH A  11      26.942   9.226 -33.629  1.00 15.37           O  
+ANISOU  632  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  633  O   HOH A  12      26.512  11.516 -34.771  1.00 25.87           O  
+ANISOU  633  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  634  O   HOH A  13      31.062   5.467 -22.166  1.00 37.06           O  
+ANISOU  634  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  635  O   HOH A  14      32.026   4.653 -20.080  1.00 39.09           O  
+ANISOU  635  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  636  O   HOH A  15      30.806   7.415 -20.620  1.00 49.99           O  
+ANISOU  636  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+HETATM  637 ZN    ZN A   7      16.482   5.326  -5.663  1.00  6.49          ZN  
+ANISOU  637 ZN    ZN A   7      784    821    860    -54     33     -6      ZN  
+HETATM  638  O   HOH A   8      14.590   4.031 -29.485  1.00  5.62           O  
+ANISOU  638  O   HOH A   8      682    921    531     -3     99    -98       O  
+HETATM  639  O   HOH A   9      16.011   6.443 -29.789  1.00  5.67           O  
+ANISOU  639  O   HOH A   9      664    744    747     78    -92    -79       O  
+HETATM  640  C   ACY A  10      15.611   7.838  -4.386  1.00  6.91           C  
+ANISOU  640  C   ACY A  10      850    912    865    -52    -40     25       C  
+HETATM  641  O   ACY A  10      15.648   9.068  -4.230  1.00  6.40           O  
+ANISOU  641  O   ACY A  10      765    812    853     78    -65    147       O  
+HETATM  642  CH3 ACY A  10      14.731   7.061  -3.448  1.00  7.00           C  
+ANISOU  642  CH3 ACY A  10      882    946    832    -65    -43      6       C  
+HETATM  643  OXT ACY A  10      16.252   7.238  -5.276  1.00  6.13           O  
+ANISOU  643  OXT ACY A  10      798    706    827   -127      2    -40       O  
+HETATM  644  O   HOH A  11      11.869   6.791  -5.712  1.00 15.37           O  
+ANISOU  644  O   HOH A  11     1819   2319   1702   -118      1      0       O  
+HETATM  645  O   HOH A  12      12.298   9.081  -4.569  1.00 25.87           O  
+ANISOU  645  O   HOH A  12     3544   3345   2941   -113    -31    -55       O  
+HETATM  646  O   HOH A  13       7.749   3.032 -17.174  1.00 37.06           O  
+ANISOU  646  O   HOH A  13     4669   4811   4602     -8    -10    -69       O  
+HETATM  647  O   HOH A  14       6.785   2.218 -19.260  1.00 39.09           O  
+ANISOU  647  O   HOH A  14     4948   5054   4851    -31     83      1       O  
+HETATM  648  O   HOH A  15       8.005   4.980 -18.721  1.00 49.99           O  
+ANISOU  648  O   HOH A  15     6356   6344   6294    -19     13    -16       O  
+CONECT    1    7
+CONECT    4    5    6    7
+CONECT    5    4
+CONECT    6    4
+CONECT    7    1    4
+CONECT   13   19
+CONECT   16   17   18   19
+CONECT   17   16
+CONECT   18   16
+CONECT   19   13   16
+CONECT   25   31
+CONECT   28   29   30   31
+CONECT   29   28
+CONECT   30   28
+CONECT   31   25   28
+CONECT   37   43
+CONECT   40   41   42   43
+CONECT   41   40
+CONECT   42   40
+CONECT   43   37   40
+CONECT   49   55
+CONECT   52   53   54   55
+CONECT   53   52
+CONECT   54   52
+CONECT   55   49   52
+CONECT   61   67
+CONECT   64   65   66   67
+CONECT   65   64
+CONECT   66   64
+CONECT   67   61   64
+CONECT   73   79
+CONECT   76   77   78   79
+CONECT   77   76
+CONECT   78   76
+CONECT   79   73   76
+CONECT   85   91
+CONECT   88   89   90   91
+CONECT   89   88
+CONECT   90   88
+CONECT   91   85   88
+CONECT   97  103
+CONECT  100  101  102  103
+CONECT  101  100
+CONECT  102  100
+CONECT  103   97  100
+CONECT  109  115
+CONECT  112  113  114  115
+CONECT  113  112
+CONECT  114  112
+CONECT  115  109  112
+CONECT  121  127
+CONECT  124  125  126  127
+CONECT  125  124
+CONECT  126  124
+CONECT  127  121  124
+CONECT  133  139
+CONECT  136  137  138  139
+CONECT  137  136
+CONECT  138  136
+CONECT  139  133  136
+CONECT  145  151
+CONECT  148  149  150  151
+CONECT  149  148
+CONECT  150  148
+CONECT  151  145  148
+CONECT  157  163
+CONECT  160  161  162  163
+CONECT  161  160
+CONECT  162  160
+CONECT  163  157  160
+CONECT  169  175
+CONECT  172  173  174  175
+CONECT  173  172
+CONECT  174  172
+CONECT  175  169  172
+CONECT  181  187
+CONECT  184  185  186  187
+CONECT  185  184
+CONECT  186  184
+CONECT  187  181  184
+CONECT  193  199
+CONECT  196  197  198  199
+CONECT  197  196
+CONECT  198  196
+CONECT  199  193  196
+CONECT  205  211
+CONECT  208  209  210  211
+CONECT  209  208
+CONECT  210  208
+CONECT  211  205  208
+CONECT  217  223
+CONECT  220  221  222  223
+CONECT  221  220
+CONECT  222  220
+CONECT  223  217  220
+CONECT  229  235
+CONECT  232  233  234  235
+CONECT  233  232
+CONECT  234  232
+CONECT  235  229  232
+CONECT  241  247
+CONECT  244  245  246  247
+CONECT  245  244
+CONECT  246  244
+CONECT  247  241  244
+CONECT  253  259
+CONECT  256  257  258  259
+CONECT  257  256
+CONECT  258  256
+CONECT  259  253  256
+CONECT  265  271
+CONECT  268  269  270  271
+CONECT  269  268
+CONECT  270  268
+CONECT  271  265  268
+CONECT  277  283
+CONECT  280  281  282  283
+CONECT  281  280
+CONECT  282  280
+CONECT  283  277  280
+CONECT  289  295
+CONECT  292  293  294  295
+CONECT  293  292
+CONECT  294  292
+CONECT  295  289  292
+CONECT  301  307
+CONECT  304  305  306  307
+CONECT  305  304
+CONECT  306  304
+CONECT  307  301  304
+CONECT  313  319
+CONECT  316  317  318  319
+CONECT  317  316
+CONECT  318  316
+CONECT  319  313  316
+CONECT  325  331
+CONECT  328  329  330  331
+CONECT  329  328
+CONECT  330  328
+CONECT  331  325  328
+CONECT  337  343
+CONECT  340  341  342  343
+CONECT  341  340
+CONECT  342  340
+CONECT  343  337  340
+CONECT  349  355
+CONECT  352  353  354  355
+CONECT  353  352
+CONECT  354  352
+CONECT  355  349  352
+CONECT  361  367
+CONECT  364  365  366  367
+CONECT  365  364
+CONECT  366  364
+CONECT  367  361  364
+CONECT  373  379
+CONECT  376  377  378  379
+CONECT  377  376
+CONECT  378  376
+CONECT  379  373  376
+CONECT  385  391
+CONECT  388  389  390  391
+CONECT  389  388
+CONECT  390  388
+CONECT  391  385  388
+CONECT  397  403
+CONECT  400  401  402  403
+CONECT  401  400
+CONECT  402  400
+CONECT  403  397  400
+CONECT  409  415
+CONECT  412  413  414  415
+CONECT  413  412
+CONECT  414  412
+CONECT  415  409  412
+CONECT  421  427
+CONECT  424  425  426  427
+CONECT  425  424
+CONECT  426  424
+CONECT  427  421  424
+CONECT  433  439
+CONECT  436  437  438  439
+CONECT  437  436
+CONECT  438  436
+CONECT  439  433  436
+CONECT  445  451
+CONECT  448  449  450  451
+CONECT  449  448
+CONECT  450  448
+CONECT  451  445  448
+CONECT  457  463
+CONECT  460  461  462  463
+CONECT  461  460
+CONECT  462  460
+CONECT  463  457  460
+CONECT  469  475
+CONECT  472  473  474  475
+CONECT  473  472
+CONECT  474  472
+CONECT  475  469  472
+CONECT  481  487
+CONECT  484  485  486  487
+CONECT  485  484
+CONECT  486  484
+CONECT  487  481  484
+CONECT  493  499
+CONECT  496  497  498  499
+CONECT  497  496
+CONECT  498  496
+CONECT  499  493  496
+CONECT  505  511
+CONECT  508  509  510  511
+CONECT  509  508
+CONECT  510  508
+CONECT  511  505  508
+CONECT  517  523
+CONECT  520  521  522  523
+CONECT  521  520
+CONECT  522  520
+CONECT  523  517  520
+CONECT  529  535
+CONECT  532  533  534  535
+CONECT  533  532
+CONECT  534  532
+CONECT  535  529  532
+CONECT  541  547
+CONECT  544  545  546  547
+CONECT  545  544
+CONECT  546  544
+CONECT  547  541  544
+CONECT  553  559
+CONECT  556  557  558  559
+CONECT  557  556
+CONECT  558  556
+CONECT  559  553  556
+CONECT  565  571
+CONECT  568  569  570  571
+CONECT  569  568
+CONECT  570  568
+CONECT  571  565  568
+CONECT  577  583
+CONECT  580  581  582  583
+CONECT  581  580
+CONECT  582  580
+CONECT  583  577  580
+CONECT  589  595
+CONECT  592  593  594  595
+CONECT  593  592
+CONECT  594  592
+CONECT  595  589  592
+CONECT  601  607
+CONECT  604  605  606  607
+CONECT  605  604
+CONECT  606  604
+CONECT  607  601  604
+CONECT  613  619
+CONECT  616  617  618  619
+CONECT  617  616
+CONECT  618  616
+CONECT  619  613  616
+CONECT  625  631
+CONECT  628  629  630  631
+CONECT  629  628
+CONECT  630  628
+CONECT  631  625  628
+CONECT  637  643
+CONECT  640  641  642  643
+CONECT  641  640
+CONECT  642  640
+CONECT  643  637  640
+END

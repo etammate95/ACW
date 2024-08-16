@@ -1,0 +1,59 @@
+Evaluation of 5WKD
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+24
+Sidechains: (2N4Q6S)+(2N4Q6S)
+Sc: 0.76
+B.Area: 166.7
+SDi: 1.84
+Class: 1
+
+Buried area details:
+Sheets: 1+24
+residue	type	s.ch.	b.b.	total
+1	G	0.0	1.8	1.8
+2	N	64.0	0.2	64.2
+3	N	0.0	3.5	3.5
+4	Q	72.6	0.0	72.6
+5	G	0.0	4.2	4.2
+6	S	21.8	0.0	21.8
+7	N	0.0	0.0	0.0
+1	G	0.0	1.6	1.6
+2	N	63.0	0.0	63.0
+3	N	0.0	3.3	3.3
+4	Q	72.3	0.0	72.3
+5	G	0.2	3.6	3.8
+6	S	21.4	0.0	21.4
+7	N	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+20
+Sidechains: (1G3N5G7N)+(1G3N5G7N)
+Sc: 0.92
+B.Area: 164.1
+SDi: 1.39
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	G	16.5	6.8	23.3
+2	N	0.0	0.6	0.6
+3	N	56.7	0.0	56.7
+4	Q	0.0	1.3	1.3
+5	G	17.0	4.7	21.7
+6	S	0.0	2.0	2.0
+7	N	58.2	0.0	58.2
+1	G	16.8	6.6	23.4
+2	N	0.0	0.7	0.7
+3	N	56.5	0.0	56.5
+4	Q	0.0	1.7	1.7
+5	G	17.5	5.2	22.7
+6	S	0.0	1.6	1.6
+7	N	57.9	0.0	57.9
+
+

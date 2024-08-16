@@ -1,0 +1,76 @@
+Evaluation of 3FTL
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+2
+Sidechains: (1N6T)+(1N6T)
+Sc: 0.71
+B.Area: 145.8
+SDi: 1.51
+Class: 1
+
+Buried area details:
+Sheets: 1+2
+residue	type	s.ch.	b.b.	total
+1	N	36.8	0.0	36.8
+2	V	0.0	0.0	0.0
+3	G	0.0	0.0	0.0
+4	S	9.0	11.8	20.8
+5	N	0.0	0.7	0.7
+6	T	54.9	0.0	54.9
+7	Y	0.0	32.3	32.3
+1	N	37.2	0.0	37.2
+2	V	0.0	0.0	0.0
+3	G	0.0	0.0	0.0
+4	S	8.7	13.7	22.4
+5	N	0.0	0.7	0.7
+6	T	53.2	0.2	53.4
+7	Y	0.0	32.6	32.6
+
+
+Interface 2
+Sheets: 1+35, 2+20
+Sidechains: (2V3G5N7Y)+(2V3G5N7Y)
+Sc: 0.86
+B.Area: 123.1
+SDi: 1.36
+Class: 1
+
+Buried area details:
+Sheets: 1+35
+residue	type	s.ch.	b.b.	total
+1	N	0.0	0.0	0.0
+2	V	24.7	1.7	26.4
+3	G	11.3	4.8	16.1
+4	S	0.0	0.0	0.0
+5	N	17.7	0.0	17.7
+6	T	0.0	0.0	0.0
+7	Y	62.1	0.0	62.1
+1	N	0.0	0.0	0.0
+2	V	25.1	1.5	26.6
+3	G	11.3	4.3	15.6
+4	S	0.0	0.0	0.0
+5	N	17.7	0.0	17.7
+6	T	0.0	0.0	0.0
+7	Y	63.7	0.0	63.7
+
+Sheets: 2+20
+residue	type	s.ch.	b.b.	total
+1	N	0.0	0.0	0.0
+2	V	24.5	1.7	26.2
+3	G	11.5	4.7	16.2
+4	S	0.0	0.0	0.0
+5	N	16.0	0.0	16.0
+6	T	0.0	0.0	0.0
+7	Y	64.8	0.0	64.8
+1	N	0.0	0.0	0.0
+2	V	23.5	1.5	25.0
+3	G	12.5	5.3	17.8
+4	S	0.0	0.0	0.0
+5	N	15.5	0.0	15.5
+6	T	0.0	0.0	0.0
+7	Y	64.5	0.1	64.6
+
+

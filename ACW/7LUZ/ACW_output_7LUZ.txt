@@ -1,0 +1,55 @@
+Evaluation of 7LUZ
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+5
+Sidechains: (2Q4V)+(2Q4V)
+Sc: 0.87
+B.Area: 101.4
+SDi: 2.54
+Class: 1
+
+Buried area details:
+Sheets: 1+5
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	Q	75.5	2.3	77.8
+3	T	0.0	3.0	3.0
+4	V	20.0	0.0	20.0
+5	T	0.0	0.0	0.0
+6	K	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	Q	75.7	2.3	78.0
+3	T	0.0	3.5	3.5
+4	V	20.3	0.0	20.3
+5	T	0.0	0.0	0.0
+6	K	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+10
+Sidechains: (3T5T)+(3T5T)
+Sc: 0.85
+B.Area: 97.7
+SDi: 1.01
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	G	2.7	9.3	12.0
+2	Q	0.0	0.0	0.0
+3	T	41.2	0.0	41.2
+4	V	0.0	0.0	0.0
+5	T	31.8	0.0	31.8
+6	K	0.0	11.6	11.6
+1	G	2.4	9.6	12.0
+2	Q	0.0	0.0	0.0
+3	T	42.1	0.0	42.1
+4	V	0.0	0.0	0.0
+5	T	32.3	0.0	32.3
+6	K	0.0	12.1	12.1
+
+

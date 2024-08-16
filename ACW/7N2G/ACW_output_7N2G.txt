@@ -1,0 +1,112 @@
+Evaluation of 7N2G
+Main class is 4
+Secondary class is 1
+Packing is 3D
+The number of interfaces is 3
+
+Interface 1
+Sheets: 1+20, 32+1
+Sidechains: (2I5A7T)+(3G4L6Q)
+Sc: 0.74
+B.Area: 139.8
+SDi: 1.34
+Class: 4
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	Q	0.0	20.4	20.4
+2	I	51.8	0.0	51.8
+3	G	0.0	0.0	0.0
+4	L	0.0	0.0	0.0
+5	A	16.3	0.0	16.3
+6	Q	0.0	0.0	0.0
+7	T	41.0	0.0	41.0
+8	Q	0.0	4.5	4.5
+1	Q	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	G	16.5	9.7	26.2
+4	L	64.1	0.2	64.3
+5	A	0.0	0.2	0.2
+6	Q	54.9	0.0	54.9
+7	T	0.0	0.0	0.0
+8	Q	0.0	0.0	0.0
+
+Sheets: 32+1
+residue	type	s.ch.	b.b.	total
+1	Q	0.0	19.9	19.9
+2	I	53.0	0.0	53.0
+3	G	0.0	0.0	0.0
+4	L	0.0	0.0	0.0
+5	A	16.3	0.0	16.3
+6	Q	0.0	0.0	0.0
+7	T	40.8	0.0	40.8
+8	Q	0.0	4.7	4.7
+1	Q	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	G	16.3	10.3	26.6
+4	L	63.5	0.2	63.7
+5	A	0.0	0.2	0.2
+6	Q	54.9	0.0	54.9
+7	T	0.0	0.0	0.0
+8	Q	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+19
+Sidechains: (6Q8Q)+(6Q8Q)
+Sc: 0.83
+B.Area: 130.2
+SDi: 2.08
+Class: 1
+
+Buried area details:
+Sheets: 1+19
+residue	type	s.ch.	b.b.	total
+1	Q	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	G	0.0	0.0	0.0
+4	L	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	Q	36.5	1.2	37.7
+7	T	0.0	3.6	3.6
+8	Q	75.5	13.0	88.5
+1	Q	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	G	0.0	0.0	0.0
+4	L	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	Q	36.8	0.8	37.6
+7	T	0.0	3.5	3.5
+8	Q	75.9	13.5	89.4
+
+
+Interface 3
+Sheets: 1+23
+Sidechains: (1Q3G)+(1Q3G)
+Sc: 0.76
+B.Area: 88.5
+SDi: 2.05
+Class: 1
+
+Buried area details:
+Sheets: 1+23
+residue	type	s.ch.	b.b.	total
+1	Q	68.4	0.0	68.4
+2	I	0.0	7.5	7.5
+3	G	10.4	1.5	11.9
+4	L	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	Q	0.0	0.0	0.0
+7	T	0.0	0.0	0.0
+8	Q	0.0	0.0	0.0
+1	Q	69.8	0.2	70.0
+2	I	0.0	7.7	7.7
+3	G	10.5	1.3	11.8
+4	L	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	Q	0.0	0.0	0.0
+7	T	0.0	0.0	0.0
+8	Q	0.0	0.0	0.0
+
+

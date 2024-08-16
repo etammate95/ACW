@@ -1,0 +1,45 @@
+Evaluation of 5WKB
+Main class is 4
+Packing is 2D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+20, 24+1
+Sidechains: (1N3G4E)+(2F5F)
+Sc: 0.85
+B.Area: 137.1
+SDi: 1.45
+Class: 4
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	N	43.3	2.7	46.0
+2	F	0.0	12.0	12.0
+3	G	25.5	6.8	32.3
+4	E	52.9	0.0	52.9
+5	F	0.0	0.0	0.0
+6	S	0.0	0.0	0.0
+1	N	0.5	22.1	22.6
+2	F	38.3	0.0	38.3
+3	G	0.0	0.0	0.0
+4	E	0.0	0.0	0.0
+5	F	48.8	0.0	48.8
+6	S	0.0	19.9	19.9
+
+Sheets: 24+1
+residue	type	s.ch.	b.b.	total
+1	N	44.0	2.6	46.6
+2	F	0.0	11.6	11.6
+3	G	26.2	7.3	33.5
+4	E	52.8	0.0	52.8
+5	F	0.0	0.0	0.0
+6	S	0.0	0.0	0.0
+1	N	0.5	22.7	23.2
+2	F	38.0	0.0	38.0
+3	G	0.0	0.0	0.0
+4	E	0.0	0.0	0.0
+5	F	49.6	0.0	49.6
+6	S	0.0	20.1	20.1
+
+

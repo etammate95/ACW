@@ -1,0 +1,63 @@
+Evaluation of 6BXV
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+18
+Sidechains: (2Y4S)+(2Y4S)
+Sc: 0.82
+B.Area: 123.8
+SDi: 1.42
+Class: 1
+
+Buried area details:
+Sheets: 1+18
+residue	type	s.ch.	b.b.	total
+1	S	0.0	0.0	0.0
+2	Y	68.2	18.3	86.5
+3	S	0.0	6.4	6.4
+4	S	24.7	0.5	25.2
+5	Y	0.0	0.0	0.0
+6	G	0.0	0.0	0.0
+7	Q	0.0	0.0	0.0
+8	S	5.8	0.0	5.8
+1	S	0.0	0.0	0.0
+2	Y	68.4	18.0	86.4
+3	S	0.0	6.7	6.7
+4	S	24.2	0.5	24.7
+5	Y	0.0	0.0	0.0
+6	G	0.0	0.0	0.0
+7	Q	0.0	0.0	0.0
+8	S	6.2	0.0	6.2
+
+
+Interface 2
+Sheets: 1+17
+Sidechains: (6G7Q)+(6G7Q)
+Sc: 0.77
+B.Area: 81.1
+SDi: 1.53
+Class: 1
+
+Buried area details:
+Sheets: 1+17
+residue	type	s.ch.	b.b.	total
+1	S	0.0	0.0	0.0
+2	Y	0.0	0.0	0.0
+3	S	0.0	0.0	0.0
+4	S	0.0	0.0	0.0
+5	Y	0.0	11.0	11.0
+6	G	5.4	5.5	10.9
+7	Q	58.5	1.2	59.7
+8	S	0.0	0.0	0.0
+1	S	0.0	0.0	0.0
+2	Y	0.0	0.0	0.0
+3	S	0.0	0.0	0.0
+4	S	0.0	0.0	0.0
+5	Y	0.0	11.4	11.4
+6	G	5.3	5.7	11.0
+7	Q	57.3	1.0	58.3
+8	S	0.0	0.0	0.0
+
+

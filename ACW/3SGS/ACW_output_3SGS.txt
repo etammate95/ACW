@@ -1,0 +1,45 @@
+Evaluation of 3SGS
+Main class is 4
+Packing is 2D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+10, 16+1
+Sidechains: (2D4I6V)+(3V5E)
+Sc: 0.85
+B.Area: 105.5
+SDi: 1.54
+Class: 4
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	D	32.6	0.0	32.6
+3	V	0.0	0.0	0.0
+4	I	46.9	0.0	46.9
+5	E	0.0	0.0	0.0
+6	V	18.9	0.0	18.9
+1	G	0.0	0.0	0.0
+2	D	0.0	0.0	0.0
+3	V	55.3	0.2	55.5
+4	I	0.0	0.3	0.3
+5	E	56.6	0.0	56.6
+6	V	0.0	0.0	0.0
+
+Sheets: 16+1
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	D	32.7	0.0	32.7
+3	V	0.0	0.0	0.0
+4	I	47.4	0.0	47.4
+5	E	0.0	0.0	0.0
+6	V	18.4	0.0	18.4
+1	G	0.0	0.0	0.0
+2	D	0.0	0.0	0.0
+3	V	56.3	0.2	56.5
+4	I	0.0	0.3	0.3
+5	E	55.8	0.0	55.8
+6	V	0.0	0.0	0.0
+
+

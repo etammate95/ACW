@@ -1,0 +1,30 @@
+Evaluation of 6BXX
+Main class is 1
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2Y4G5F)+(2Y4G5F)
+Sc: 0.86
+B.Area: 105.5
+SDi: 1.51
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	Y	53.0	0.0	53.0
+3	N	0.0	0.0	0.0
+4	G	7.2	22.0	29.2
+5	F	23.4	0.0	23.4
+6	G	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	Y	53.3	0.0	53.3
+3	N	0.0	0.0	0.0
+4	G	7.7	22.2	29.9
+5	F	22.7	0.0	22.7
+6	G	0.0	0.0	0.0
+
+

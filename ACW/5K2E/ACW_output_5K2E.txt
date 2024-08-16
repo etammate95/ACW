@@ -1,0 +1,30 @@
+Evaluation of 5K2E
+Main class is 1
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+10
+Sidechains: (1N3Q5N)+(1N3Q5N)
+Sc: 0.83
+B.Area: 146.0
+SDi: 1.58
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	N	45.9	1.6	47.5
+2	N	0.0	7.3	7.3
+3	Q	60.1	0.5	60.6
+4	Q	0.0	0.0	0.0
+5	N	30.9	0.0	30.9
+6	Y	0.0	0.0	0.0
+1	N	45.6	1.8	47.4
+2	N	0.0	7.5	7.5
+3	Q	59.8	0.5	60.3
+4	Q	0.0	0.0	0.0
+5	N	30.3	0.0	30.3
+6	Y	0.0	0.0	0.0
+
+

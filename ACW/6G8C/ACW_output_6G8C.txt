@@ -1,0 +1,55 @@
+Evaluation of 6G8C
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (1I3Q5G6G)+(1I3Q5G6G)
+Sc: 0.78
+B.Area: 147.2
+SDi: 1.48
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	I	37.6	0.0	37.6
+2	Y	0.0	0.0	0.0
+3	Q	57.4	0.8	58.2
+4	Y	0.0	7.7	7.7
+5	G	22.0	7.8	29.8
+6	G	9.7	3.2	12.9
+1	I	38.0	0.0	38.0
+2	Y	0.0	0.0	0.0
+3	Q	57.6	1.2	58.8
+4	Y	0.0	7.5	7.5
+5	G	22.2	8.5	30.7
+6	G	9.7	3.2	12.9
+
+
+Interface 2
+Sheets: 1+17
+Sidechains: (2Y4Y)+(2Y4Y)
+Sc: 0.83
+B.Area: 91.2
+SDi: 1.4
+Class: 1
+
+Buried area details:
+Sheets: 1+17
+residue	type	s.ch.	b.b.	total
+1	I	0.0	0.0	0.0
+2	Y	61.5	0.0	61.5
+3	Q	0.0	0.0	0.0
+4	Y	29.6	0.0	29.6
+5	G	0.0	0.0	0.0
+6	G	0.0	0.0	0.0
+1	I	0.0	0.0	0.0
+2	Y	61.7	0.0	61.7
+3	Q	0.0	0.0	0.0
+4	Y	29.5	0.0	29.5
+5	G	0.0	0.0	0.0
+6	G	0.0	0.0	0.0
+
+

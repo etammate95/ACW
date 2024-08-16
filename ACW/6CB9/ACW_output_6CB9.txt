@@ -1,0 +1,55 @@
+Evaluation of 6CB9
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+19
+Sidechains: (2A4Q6S)+(2A4Q6S)
+Sc: 0.84
+B.Area: 145.6
+SDi: 1.65
+Class: 1
+
+Buried area details:
+Sheets: 1+19
+residue	type	s.ch.	b.b.	total
+1	A	0.0	6.2	6.2
+2	A	43.3	1.7	45.0
+3	L	0.0	3.8	3.8
+4	Q	65.3	0.0	65.3
+5	S	0.0	0.3	0.3
+6	S	25.1	0.0	25.1
+1	A	0.0	6.5	6.5
+2	A	43.2	1.7	44.9
+3	L	0.0	3.4	3.4
+4	Q	64.9	0.0	64.9
+5	S	0.0	0.2	0.2
+6	S	25.7	0.0	25.7
+
+
+Interface 2
+Sheets: 1+31
+Sidechains: (1A3L5S)+(1A3L5S)
+Sc: 0.77
+B.Area: 139.6
+SDi: 1.65
+Class: 1
+
+Buried area details:
+Sheets: 1+31
+residue	type	s.ch.	b.b.	total
+1	A	19.7	0.0	19.7
+2	A	0.0	0.0	0.0
+3	L	66.6	1.6	68.2
+4	Q	0.0	6.5	6.5
+5	S	44.7	0.3	45.0
+6	S	0.0	0.0	0.0
+1	A	19.6	0.0	19.6
+2	A	0.0	0.0	0.0
+3	L	66.8	1.6	68.4
+4	Q	0.0	6.5	6.5
+5	S	44.5	0.5	45.0
+6	S	0.0	0.0	0.0
+
+

@@ -1,0 +1,67 @@
+Evaluation of 7N2I
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2S4V6A8F)+(2S4V6A8F)
+Sc: 0.85
+B.Area: 170.5
+SDi: 1.35
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	S	31.0	2.1	33.1
+3	T	0.0	1.8	1.8
+4	V	55.5	0.5	56.0
+5	Y	0.0	0.0	0.0
+6	A	15.0	0.3	15.3
+7	P	0.0	0.0	0.0
+8	F	57.2	0.0	57.2
+9	T	0.0	8.5	8.5
+1	G	0.0	0.0	0.0
+2	S	34.5	2.1	36.6
+3	T	0.0	3.6	3.6
+4	V	57.7	0.5	58.2
+5	Y	0.0	0.0	0.0
+6	A	15.0	0.3	15.3
+7	P	0.0	0.0	0.0
+8	F	47.6	0.0	47.6
+9	T	0.0	7.7	7.7
+
+
+Interface 2
+Sheets: 1+17
+Sidechains: (3T5Y)+(3T5Y)
+Sc: 0.79
+B.Area: 96.4
+SDi: 1.59
+Class: 1
+
+Buried area details:
+Sheets: 1+17
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	25.9	0.0	25.9
+4	V	0.0	0.0	0.0
+5	Y	67.8	0.0	67.8
+6	A	0.0	0.0	0.0
+7	P	2.5	0.0	2.5
+8	F	0.0	0.0	0.0
+9	T	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	25.8	0.0	25.8
+4	V	0.0	0.0	0.0
+5	Y	68.4	0.0	68.4
+6	A	0.0	0.0	0.0
+7	P	2.3	0.0	2.3
+8	F	0.0	0.0	0.0
+9	T	0.0	0.0	0.0
+
+

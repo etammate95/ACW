@@ -1,0 +1,501 @@
+ATOM      1  N   GLY A   1      15.235 -12.479  14.493  1.00  2.32           N  
+ANISOU    1  N   GLY A   1      321    213    348     49     37    134       N  
+ATOM      2  CA  GLY A   1      15.847 -12.446  15.809  1.00  2.25           C  
+ANISOU    2  CA  GLY A   1      279    216    359     72     33    123       C  
+ATOM      3  C   GLY A   1      15.831 -11.021  16.313  1.00  2.15           C  
+ANISOU    3  C   GLY A   1      269    228    321     72     43     76       C  
+ATOM      4  O   GLY A   1      15.594 -10.093  15.536  1.00  2.42           O  
+ANISOU    4  O   GLY A   1      262    311    346     76     10     50       O  
+ATOM      5  N   GLY A   2      16.081 -10.833  17.602  1.00  1.96           N  
+ANISOU    5  N   GLY A   2      228    246    272     10     47     94       N  
+ATOM      6  CA  GLY A   2      16.075  -9.485  18.137  1.00  2.31           C  
+ANISOU    6  CA  GLY A   2      267    305    307     -2     99     95       C  
+ATOM      7  C   GLY A   2      16.563  -9.447  19.564  1.00  1.90           C  
+ANISOU    7  C   GLY A   2      212    260    249      1     33     63       C  
+ATOM      8  O   GLY A   2      16.906 -10.476  20.152  1.00  1.91           O  
+ANISOU    8  O   GLY A   2      201    259    266     32     22     90       O  
+ATOM      9  N   TYR A   3      16.592  -8.245  20.124  1.00  1.57           N  
+ANISOU    9  N   TYR A   3      179    224    195    -17     -1      2       N  
+ATOM     10  CA  TYR A   3      17.010  -8.076  21.503  1.00  1.69           C  
+ANISOU   10  CA  TYR A   3      176    240    227      1    -12     40       C  
+ATOM     11  C   TYR A   3      16.404  -6.783  22.029  1.00  1.67           C  
+ANISOU   11  C   TYR A   3      145    249    242    -14    -19     36       C  
+ATOM     12  O   TYR A   3      16.054  -5.876  21.264  1.00  1.83           O  
+ANISOU   12  O   TYR A   3      164    290    243     26    -33     74       O  
+ATOM     13  CB  TYR A   3      18.556  -8.084  21.638  1.00  1.95           C  
+ANISOU   13  CB  TYR A   3      270    198    271     -3      1     36       C  
+ATOM     14  CG  TYR A   3      19.257  -7.155  20.667  1.00  2.24           C  
+ANISOU   14  CG  TYR A   3      348    176    327     -9     15     28       C  
+ATOM     15  CD1 TYR A   3      19.619  -7.594  19.399  1.00  2.31           C  
+ANISOU   15  CD1 TYR A   3      364    172    342     38     65      5       C  
+ATOM     16  CD2 TYR A   3      19.541  -5.833  21.009  1.00  2.27           C  
+ANISOU   16  CD2 TYR A   3      377    169    318    -51     -7     32       C  
+ATOM     17  CE1 TYR A   3      20.234  -6.748  18.494  1.00  2.48           C  
+ANISOU   17  CE1 TYR A   3      394    194    353     22     33    -23       C  
+ATOM     18  CE2 TYR A   3      20.161  -4.980  20.114  1.00  2.47           C  
+ANISOU   18  CE2 TYR A   3      419    196    322    -50    -44     13       C  
+ATOM     19  CZ  TYR A   3      20.501  -5.437  18.859  1.00  2.36           C  
+ANISOU   19  CZ  TYR A   3      366    234    297    -19    -72    -27       C  
+ATOM     20  OH  TYR A   3      21.095  -4.567  17.972  1.00  2.82           O  
+ANISOU   20  OH  TYR A   3      441    311    321    -40    -30    -73       O  
+ATOM     21  N   LEU A   4      16.267  -6.728  23.343  1.00  1.54           N  
+ANISOU   21  N   LEU A   4      143    223    220      5     58     25       N  
+ATOM     22  CA  LEU A   4      15.684  -5.594  24.042  1.00  2.21           C  
+ANISOU   22  CA  LEU A   4      205    319    315     25     62     17       C  
+ATOM     23  C   LEU A   4      16.409  -5.445  25.370  1.00  2.31           C  
+ANISOU   23  C   LEU A   4      198    402    277      4      9     94       C  
+ATOM     24  O   LEU A   4      16.660  -6.448  26.035  1.00  3.17           O  
+ANISOU   24  O   LEU A   4      268    577    359     52     -6    246       O  
+ATOM     25  CB  LEU A   4      14.184  -5.826  24.267  1.00  3.59           C  
+ANISOU   25  CB  LEU A   4      395    438    528     46     99   -123       C  
+ATOM     26  CG  LEU A   4      13.384  -4.808  25.082  1.00  4.92           C  
+ANISOU   26  CG  LEU A   4      609    566    695     89     27   -205       C  
+ATOM     27  CD1 LEU A   4      13.370  -3.453  24.378  1.00  5.07           C  
+ANISOU   27  CD1 LEU A   4      622    595    711    196   -106   -140       C  
+ATOM     28  CD2 LEU A   4      11.955  -5.307  25.318  1.00  6.08           C  
+ANISOU   28  CD2 LEU A   4      820    679    810     45     70   -294       C  
+ATOM     29  N   LEU A   5      16.772  -4.216  25.737  1.00  1.81           N  
+ANISOU   29  N   LEU A   5      193    253    241    -67     55     26       N  
+ATOM     30  CA  LEU A   5      17.255  -3.901  27.082  1.00  1.81           C  
+ANISOU   30  CA  LEU A   5      188    217    281     10     23      2       C  
+ATOM     31  C   LEU A   5      16.440  -2.744  27.632  1.00  1.59           C  
+ANISOU   31  C   LEU A   5      156    216    232    -57     -2     42       C  
+ATOM     32  O   LEU A   5      16.074  -1.835  26.875  1.00  1.45           O  
+ANISOU   32  O   LEU A   5      142    188    219      7    -29     79       O  
+ATOM     33  CB  LEU A   5      18.738  -3.520  27.082  1.00  2.16           C  
+ANISOU   33  CB  LEU A   5      247    215    358     40     17    -26       C  
+ATOM     34  CG  LEU A   5      19.741  -4.565  26.595  1.00  3.22           C  
+ANISOU   34  CG  LEU A   5      433    328    462    114    -14    -57       C  
+ATOM     35  CD1 LEU A   5      21.151  -3.983  26.569  1.00  3.81           C  
+ANISOU   35  CD1 LEU A   5      593    361    494     66      6    -84       C  
+ATOM     36  CD2 LEU A   5      19.691  -5.821  27.467  1.00  3.82           C  
+ANISOU   36  CD2 LEU A   5      499    390    561    177    -71    -79       C  
+ATOM     37  N   GLY A   6      16.175  -2.766  28.938  1.00  1.92           N  
+ANISOU   37  N   GLY A   6      210    314    206     19     30     37       N  
+ATOM     38  CA  GLY A   6      15.457  -1.686  29.598  1.00  2.29           C  
+ANISOU   38  CA  GLY A   6      280    359    232     73     70     34       C  
+ATOM     39  C   GLY A   6      15.890  -1.490  31.041  1.00  2.48           C  
+ANISOU   39  C   GLY A   6      279    381    282     45     11     25       C  
+ATOM     40  O   GLY A   6      16.568  -2.354  31.625  1.00  2.56           O  
+ANISOU   40  O   GLY A   6      280    373    318    -29     25     65       O  
+ATOM     41  OXT GLY A   6      15.560  -0.441  31.621  1.00  3.33           O1-
+ANISOU   41  OXT GLY A   6      463    490    314     45     29     51       O1-
+TER
+ATOM     42  N   GLY B   1      16.586   6.498  32.753  1.00  3.08           N  
+ANISOU   42  N   GLY B   1      234    611    327    -87     47     81       N  
+ATOM     43  CA  GLY B   1      17.095   5.268  32.154  1.00  3.11           C  
+ANISOU   43  CA  GLY B   1      252    636    293   -105     38    128       C  
+ATOM     44  C   GLY B   1      16.727   5.249  30.694  1.00  3.14           C  
+ANISOU   44  C   GLY B   1      212    700    279    -83    -39    150       C  
+ATOM     45  O   GLY B   1      16.681   6.302  30.064  1.00  4.41           O  
+ANISOU   45  O   GLY B   1      309    943    424    -91    -11    266       O  
+ATOM     46  N   GLY B   2      16.453   4.074  30.145  1.00  2.50           N  
+ANISOU   46  N   GLY B   2      206    524    220    -83     32     91       N  
+ATOM     47  CA  GLY B   2      16.091   4.023  28.749  1.00  2.72           C  
+ANISOU   47  CA  GLY B   2      287    472    273    -92     86    110       C  
+ATOM     48  C   GLY B   2      15.884   2.622  28.229  1.00  2.12           C  
+ANISOU   48  C   GLY B   2      240    352    215    -26     33     52       C  
+ATOM     49  O   GLY B   2      15.656   1.684  28.998  1.00  1.87           O  
+ANISOU   49  O   GLY B   2      207    326    178    -49    -48     16       O  
+ATOM     50  N   TYR B   3      15.970   2.509  26.909  1.00  1.52           N  
+ANISOU   50  N   TYR B   3      179    208    190      9     16     69       N  
+ATOM     51  CA  TYR B   3      15.737   1.264  26.195  1.00  1.39           C  
+ANISOU   51  CA  TYR B   3      174    163    190     -5     -8     42       C  
+ATOM     52  C   TYR B   3      16.651   1.150  24.998  1.00  1.59           C  
+ANISOU   52  C   TYR B   3      204    184    216     32    -33     66       C  
+ATOM     53  O   TYR B   3      17.000   2.151  24.371  1.00  1.57           O  
+ANISOU   53  O   TYR B   3      158    226    212     -2    -56     71       O  
+ATOM     54  CB  TYR B   3      14.294   1.164  25.692  1.00  1.77           C  
+ANISOU   54  CB  TYR B   3      315    161    195     -4     -5     55       C  
+ATOM     55  CG  TYR B   3      13.265   1.190  26.780  1.00  1.92           C  
+ANISOU   55  CG  TYR B   3      326    174    228    -37     -4     36       C  
+ATOM     56  CD1 TYR B   3      13.100   0.100  27.625  1.00  2.21           C  
+ANISOU   56  CD1 TYR B   3      392    222    227    -74     16     24       C  
+ATOM     57  CD2 TYR B   3      12.455   2.301  26.965  1.00  2.25           C  
+ANISOU   57  CD2 TYR B   3      349    233    272     41     51     32       C  
+ATOM     58  CE1 TYR B   3      12.158   0.123  28.638  1.00  2.05           C  
+ANISOU   58  CE1 TYR B   3      305    235    240     34     17     -4       C  
+ATOM     59  CE2 TYR B   3      11.509   2.333  27.964  1.00  2.37           C  
+ANISOU   59  CE2 TYR B   3      386    249    267     53      7     25       C  
+ATOM     60  CZ  TYR B   3      11.367   1.247  28.802  1.00  2.27           C  
+ANISOU   60  CZ  TYR B   3      363    256    245     37     37    -37       C  
+ATOM     61  OH  TYR B   3      10.413   1.284  29.797  1.00  2.63           O  
+ANISOU   61  OH  TYR B   3      391    323    283     10     60    -83       O  
+ATOM     62  N   LEU B   4      16.986  -0.092  24.664  1.00  1.46           N  
+ANISOU   62  N   LEU B   4      173    194    187     78     -8     31       N  
+ATOM     63  CA  LEU B   4      17.644  -0.433  23.413  1.00  1.50           C  
+ANISOU   63  CA  LEU B   4      183    190    197     34    -10     19       C  
+ATOM     64  C   LEU B   4      16.849  -1.545  22.750  1.00  1.69           C  
+ANISOU   64  C   LEU B   4      191    191    261    -12    -12     21       C  
+ATOM     65  O   LEU B   4      16.548  -2.541  23.403  1.00  2.25           O  
+ANISOU   65  O   LEU B   4      249    307    298    -81    -40     95       O  
+ATOM     66  CB  LEU B   4      19.083  -0.895  23.652  1.00  2.33           C  
+ANISOU   66  CB  LEU B   4      372    224    288     66    102     -2       C  
+ATOM     67  CG  LEU B   4      19.833  -1.352  22.399  1.00  3.21           C  
+ANISOU   67  CG  LEU B   4      575    297    347     59    129    -30       C  
+ATOM     68  CD1 LEU B   4      20.088  -0.163  21.477  1.00  3.50           C  
+ANISOU   68  CD1 LEU B   4      652    356    321     -5     93    -73       C  
+ATOM     69  CD2 LEU B   4      21.121  -2.053  22.778  1.00  3.93           C  
+ANISOU   69  CD2 LEU B   4      711    335    446    119    262     -7       C  
+ATOM     70  N   LEU B   5      16.520  -1.375  21.469  1.00  1.50           N  
+ANISOU   70  N   LEU B   5      149    141    278    -39    -30      7       N  
+ATOM     71  CA  LEU B   5      15.812  -2.387  20.701  1.00  1.47           C  
+ANISOU   71  CA  LEU B   5      181    105    272    -31    -15     -6       C  
+ATOM     72  C   LEU B   5      16.603  -2.708  19.441  1.00  1.57           C  
+ANISOU   72  C   LEU B   5      214    133    249     18    -36      6       C  
+ATOM     73  O   LEU B   5      16.955  -1.805  18.680  1.00  1.89           O  
+ANISOU   73  O   LEU B   5      237    207    272     33    -28     20       O  
+ATOM     74  CB  LEU B   5      14.408  -1.898  20.326  1.00  1.93           C  
+ANISOU   74  CB  LEU B   5      204    110    421    -21      7     -4       C  
+ATOM     75  CG  LEU B   5      13.588  -2.843  19.442  1.00  2.68           C  
+ANISOU   75  CG  LEU B   5      280    149    589     15    -23      3       C  
+ATOM     76  CD1 LEU B   5      13.077  -4.034  20.242  1.00  3.30           C  
+ANISOU   76  CD1 LEU B   5      370    206    678    -40    -52    -30       C  
+ATOM     77  CD2 LEU B   5      12.432  -2.089  18.795  1.00  3.17           C  
+ANISOU   77  CD2 LEU B   5      337    183    683     30     32     54       C  
+ATOM     78  N   GLY B   6      16.881  -3.987  19.215  1.00  1.68           N  
+ANISOU   78  N   GLY B   6      250    152    235     45    -22    -24       N  
+ATOM     79  CA  GLY B   6      17.573  -4.398  18.008  1.00  1.93           C  
+ANISOU   79  CA  GLY B   6      299    202    232     83    -57     -3       C  
+ATOM     80  C   GLY B   6      16.750  -4.263  16.754  1.00  2.38           C  
+ANISOU   80  C   GLY B   6      389    243    273     42    -54    -36       C  
+ATOM     81  O   GLY B   6      17.348  -4.137  15.674  1.00  3.16           O  
+ANISOU   81  O   GLY B   6      593    311    295     32     13    -11       O  
+ATOM     82  OXT GLY B   6      15.513  -4.290  16.828  1.00  2.55           O1-
+ANISOU   82  OXT GLY B   6      398    246    324     57    -36     25       O1-
+TER
+ATOM     83  N   GLY C   1      15.235  -0.870  14.493  1.00  2.32           N  
+ANISOU   83  N   GLY C   1      321    213    348     49     37    134       N  
+ATOM     84  CA  GLY C   1      15.847  -0.837  15.809  1.00  2.25           C  
+ANISOU   84  CA  GLY C   1      279    216    359     72     33    123       C  
+ATOM     85  C   GLY C   1      15.831   0.588  16.313  1.00  2.15           C  
+ANISOU   85  C   GLY C   1      269    228    321     72     43     76       C  
+ATOM     86  O   GLY C   1      15.594   1.516  15.536  1.00  2.42           O  
+ANISOU   86  O   GLY C   1      262    311    346     76     10     50       O  
+ATOM     87  N   GLY C   2      16.081   0.776  17.602  1.00  1.96           N  
+ANISOU   87  N   GLY C   2      228    246    272     10     47     94       N  
+ATOM     88  CA  GLY C   2      16.075   2.124  18.137  1.00  2.31           C  
+ANISOU   88  CA  GLY C   2      267    305    307     -2     99     95       C  
+ATOM     89  C   GLY C   2      16.563   2.162  19.564  1.00  1.90           C  
+ANISOU   89  C   GLY C   2      212    260    249      1     33     63       C  
+ATOM     90  O   GLY C   2      16.906   1.133  20.152  1.00  1.91           O  
+ANISOU   90  O   GLY C   2      201    259    266     32     22     90       O  
+ATOM     91  N   TYR C   3      16.592   3.364  20.124  1.00  1.57           N  
+ANISOU   91  N   TYR C   3      179    224    195    -17     -1      2       N  
+ATOM     92  CA  TYR C   3      17.010   3.533  21.503  1.00  1.69           C  
+ANISOU   92  CA  TYR C   3      176    240    227      1    -12     40       C  
+ATOM     93  C   TYR C   3      16.404   4.826  22.029  1.00  1.67           C  
+ANISOU   93  C   TYR C   3      145    249    242    -14    -19     36       C  
+ATOM     94  O   TYR C   3      16.054   5.733  21.264  1.00  1.83           O  
+ANISOU   94  O   TYR C   3      164    290    243     26    -33     74       O  
+ATOM     95  CB  TYR C   3      18.556   3.525  21.638  1.00  1.95           C  
+ANISOU   95  CB  TYR C   3      270    198    271     -3      1     36       C  
+ATOM     96  CG  TYR C   3      19.257   4.454  20.667  1.00  2.24           C  
+ANISOU   96  CG  TYR C   3      348    176    327     -9     15     28       C  
+ATOM     97  CD1 TYR C   3      19.619   4.015  19.399  1.00  2.31           C  
+ANISOU   97  CD1 TYR C   3      364    172    342     38     65      5       C  
+ATOM     98  CD2 TYR C   3      19.541   5.776  21.009  1.00  2.27           C  
+ANISOU   98  CD2 TYR C   3      377    169    318    -51     -7     32       C  
+ATOM     99  CE1 TYR C   3      20.234   4.861  18.494  1.00  2.48           C  
+ANISOU   99  CE1 TYR C   3      394    194    353     22     33    -23       C  
+ATOM    100  CE2 TYR C   3      20.161   6.629  20.114  1.00  2.47           C  
+ANISOU  100  CE2 TYR C   3      419    196    322    -50    -44     13       C  
+ATOM    101  CZ  TYR C   3      20.501   6.172  18.859  1.00  2.36           C  
+ANISOU  101  CZ  TYR C   3      366    234    297    -19    -72    -27       C  
+ATOM    102  OH  TYR C   3      21.095   7.042  17.972  1.00  2.82           O  
+ANISOU  102  OH  TYR C   3      441    311    321    -40    -30    -73       O  
+ATOM    103  N   LEU C   4      16.267   4.881  23.343  1.00  1.54           N  
+ANISOU  103  N   LEU C   4      143    223    220      5     58     25       N  
+ATOM    104  CA  LEU C   4      15.684   6.015  24.042  1.00  2.21           C  
+ANISOU  104  CA  LEU C   4      205    319    315     25     62     17       C  
+ATOM    105  C   LEU C   4      16.409   6.164  25.370  1.00  2.31           C  
+ANISOU  105  C   LEU C   4      198    402    277      4      9     94       C  
+ATOM    106  O   LEU C   4      16.660   5.161  26.035  1.00  3.17           O  
+ANISOU  106  O   LEU C   4      268    577    359     52     -6    246       O  
+ATOM    107  CB  LEU C   4      14.184   5.783  24.267  1.00  3.59           C  
+ANISOU  107  CB  LEU C   4      395    438    528     46     99   -123       C  
+ATOM    108  CG  LEU C   4      13.384   6.801  25.082  1.00  4.92           C  
+ANISOU  108  CG  LEU C   4      609    566    695     89     27   -205       C  
+ATOM    109  CD1 LEU C   4      13.370   8.156  24.378  1.00  5.07           C  
+ANISOU  109  CD1 LEU C   4      622    595    711    196   -106   -140       C  
+ATOM    110  CD2 LEU C   4      11.955   6.302  25.318  1.00  6.08           C  
+ANISOU  110  CD2 LEU C   4      820    679    810     45     70   -294       C  
+ATOM    111  N   LEU C   5      16.772   7.393  25.737  1.00  1.81           N  
+ANISOU  111  N   LEU C   5      193    253    241    -67     55     26       N  
+ATOM    112  CA  LEU C   5      17.255   7.708  27.082  1.00  1.81           C  
+ANISOU  112  CA  LEU C   5      188    217    281     10     23      2       C  
+ATOM    113  C   LEU C   5      16.440   8.865  27.632  1.00  1.59           C  
+ANISOU  113  C   LEU C   5      156    216    232    -57     -2     42       C  
+ATOM    114  O   LEU C   5      16.074   9.774  26.875  1.00  1.45           O  
+ANISOU  114  O   LEU C   5      142    188    219      7    -29     79       O  
+ATOM    115  CB  LEU C   5      18.738   8.089  27.082  1.00  2.16           C  
+ANISOU  115  CB  LEU C   5      247    215    358     40     17    -26       C  
+ATOM    116  CG  LEU C   5      19.741   7.044  26.595  1.00  3.22           C  
+ANISOU  116  CG  LEU C   5      433    328    462    114    -14    -57       C  
+ATOM    117  CD1 LEU C   5      21.151   7.626  26.569  1.00  3.81           C  
+ANISOU  117  CD1 LEU C   5      593    361    494     66      6    -84       C  
+ATOM    118  CD2 LEU C   5      19.691   5.788  27.467  1.00  3.82           C  
+ANISOU  118  CD2 LEU C   5      499    390    561    177    -71    -79       C  
+ATOM    119  N   GLY C   6      16.175   8.843  28.938  1.00  1.92           N  
+ANISOU  119  N   GLY C   6      210    314    206     19     30     37       N  
+ATOM    120  CA  GLY C   6      15.457   9.923  29.598  1.00  2.29           C  
+ANISOU  120  CA  GLY C   6      280    359    232     73     70     34       C  
+ATOM    121  C   GLY C   6      15.890  10.119  31.041  1.00  2.48           C  
+ANISOU  121  C   GLY C   6      279    381    282     45     11     25       C  
+ATOM    122  O   GLY C   6      16.568   9.255  31.625  1.00  2.56           O  
+ANISOU  122  O   GLY C   6      280    373    318    -29     25     65       O  
+ATOM    123  OXT GLY C   6      15.560  11.168  31.621  1.00  3.33           O1-
+ANISOU  123  OXT GLY C   6      463    490    314     45     29     51       O1-
+TER
+ATOM    124  N   GLY D   1      16.586  18.107  32.753  1.00  3.08           N  
+ANISOU  124  N   GLY D   1      234    611    327    -87     47     81       N  
+ATOM    125  CA  GLY D   1      17.095  16.877  32.154  1.00  3.11           C  
+ANISOU  125  CA  GLY D   1      252    636    293   -105     38    128       C  
+ATOM    126  C   GLY D   1      16.727  16.858  30.694  1.00  3.14           C  
+ANISOU  126  C   GLY D   1      212    700    279    -83    -39    150       C  
+ATOM    127  O   GLY D   1      16.681  17.911  30.064  1.00  4.41           O  
+ANISOU  127  O   GLY D   1      309    943    424    -91    -11    266       O  
+ATOM    128  N   GLY D   2      16.453  15.683  30.145  1.00  2.50           N  
+ANISOU  128  N   GLY D   2      206    524    220    -83     32     91       N  
+ATOM    129  CA  GLY D   2      16.091  15.632  28.749  1.00  2.72           C  
+ANISOU  129  CA  GLY D   2      287    472    273    -92     86    110       C  
+ATOM    130  C   GLY D   2      15.884  14.231  28.229  1.00  2.12           C  
+ANISOU  130  C   GLY D   2      240    352    215    -26     33     52       C  
+ATOM    131  O   GLY D   2      15.656  13.293  28.998  1.00  1.87           O  
+ANISOU  131  O   GLY D   2      207    326    178    -49    -48     16       O  
+ATOM    132  N   TYR D   3      15.970  14.118  26.909  1.00  1.52           N  
+ANISOU  132  N   TYR D   3      179    208    190      9     16     69       N  
+ATOM    133  CA  TYR D   3      15.737  12.873  26.195  1.00  1.39           C  
+ANISOU  133  CA  TYR D   3      174    163    190     -5     -8     42       C  
+ATOM    134  C   TYR D   3      16.651  12.759  24.998  1.00  1.59           C  
+ANISOU  134  C   TYR D   3      204    184    216     32    -33     66       C  
+ATOM    135  O   TYR D   3      17.000  13.760  24.371  1.00  1.57           O  
+ANISOU  135  O   TYR D   3      158    226    212     -2    -56     71       O  
+ATOM    136  CB  TYR D   3      14.294  12.773  25.692  1.00  1.77           C  
+ANISOU  136  CB  TYR D   3      315    161    195     -4     -5     55       C  
+ATOM    137  CG  TYR D   3      13.265  12.799  26.780  1.00  1.92           C  
+ANISOU  137  CG  TYR D   3      326    174    228    -37     -4     36       C  
+ATOM    138  CD1 TYR D   3      13.100  11.709  27.625  1.00  2.21           C  
+ANISOU  138  CD1 TYR D   3      392    222    227    -74     16     24       C  
+ATOM    139  CD2 TYR D   3      12.455  13.910  26.965  1.00  2.25           C  
+ANISOU  139  CD2 TYR D   3      349    233    272     41     51     32       C  
+ATOM    140  CE1 TYR D   3      12.158  11.732  28.638  1.00  2.05           C  
+ANISOU  140  CE1 TYR D   3      305    235    240     34     17     -4       C  
+ATOM    141  CE2 TYR D   3      11.509  13.942  27.964  1.00  2.37           C  
+ANISOU  141  CE2 TYR D   3      386    249    267     53      7     25       C  
+ATOM    142  CZ  TYR D   3      11.367  12.856  28.802  1.00  2.27           C  
+ANISOU  142  CZ  TYR D   3      363    256    245     37     37    -37       C  
+ATOM    143  OH  TYR D   3      10.413  12.893  29.797  1.00  2.63           O  
+ANISOU  143  OH  TYR D   3      391    323    283     10     60    -83       O  
+ATOM    144  N   LEU D   4      16.986  11.517  24.664  1.00  1.46           N  
+ANISOU  144  N   LEU D   4      173    194    187     78     -8     31       N  
+ATOM    145  CA  LEU D   4      17.644  11.176  23.413  1.00  1.50           C  
+ANISOU  145  CA  LEU D   4      183    190    197     34    -10     19       C  
+ATOM    146  C   LEU D   4      16.849  10.064  22.750  1.00  1.69           C  
+ANISOU  146  C   LEU D   4      191    191    261    -12    -12     21       C  
+ATOM    147  O   LEU D   4      16.548   9.068  23.403  1.00  2.25           O  
+ANISOU  147  O   LEU D   4      249    307    298    -81    -40     95       O  
+ATOM    148  CB  LEU D   4      19.083  10.714  23.652  1.00  2.33           C  
+ANISOU  148  CB  LEU D   4      372    224    288     66    102     -2       C  
+ATOM    149  CG  LEU D   4      19.833  10.257  22.399  1.00  3.21           C  
+ANISOU  149  CG  LEU D   4      575    297    347     59    129    -30       C  
+ATOM    150  CD1 LEU D   4      20.088  11.446  21.477  1.00  3.50           C  
+ANISOU  150  CD1 LEU D   4      652    356    321     -5     93    -73       C  
+ATOM    151  CD2 LEU D   4      21.121   9.556  22.778  1.00  3.93           C  
+ANISOU  151  CD2 LEU D   4      711    335    446    119    262     -7       C  
+ATOM    152  N   LEU D   5      16.520  10.234  21.469  1.00  1.50           N  
+ANISOU  152  N   LEU D   5      149    141    278    -39    -30      7       N  
+ATOM    153  CA  LEU D   5      15.812   9.222  20.701  1.00  1.47           C  
+ANISOU  153  CA  LEU D   5      181    105    272    -31    -15     -6       C  
+ATOM    154  C   LEU D   5      16.603   8.901  19.441  1.00  1.57           C  
+ANISOU  154  C   LEU D   5      214    133    249     18    -36      6       C  
+ATOM    155  O   LEU D   5      16.955   9.804  18.680  1.00  1.89           O  
+ANISOU  155  O   LEU D   5      237    207    272     33    -28     20       O  
+ATOM    156  CB  LEU D   5      14.408   9.711  20.326  1.00  1.93           C  
+ANISOU  156  CB  LEU D   5      204    110    421    -21      7     -4       C  
+ATOM    157  CG  LEU D   5      13.588   8.766  19.442  1.00  2.68           C  
+ANISOU  157  CG  LEU D   5      280    149    589     15    -23      3       C  
+ATOM    158  CD1 LEU D   5      13.077   7.575  20.242  1.00  3.30           C  
+ANISOU  158  CD1 LEU D   5      370    206    678    -40    -52    -30       C  
+ATOM    159  CD2 LEU D   5      12.432   9.520  18.795  1.00  3.17           C  
+ANISOU  159  CD2 LEU D   5      337    183    683     30     32     54       C  
+ATOM    160  N   GLY D   6      16.881   7.622  19.215  1.00  1.68           N  
+ANISOU  160  N   GLY D   6      250    152    235     45    -22    -24       N  
+ATOM    161  CA  GLY D   6      17.573   7.211  18.008  1.00  1.93           C  
+ANISOU  161  CA  GLY D   6      299    202    232     83    -57     -3       C  
+ATOM    162  C   GLY D   6      16.750   7.346  16.754  1.00  2.38           C  
+ANISOU  162  C   GLY D   6      389    243    273     42    -54    -36       C  
+ATOM    163  O   GLY D   6      17.348   7.472  15.674  1.00  3.16           O  
+ANISOU  163  O   GLY D   6      593    311    295     32     13    -11       O  
+ATOM    164  OXT GLY D   6      15.513   7.319  16.828  1.00  2.55           O1-
+ANISOU  164  OXT GLY D   6      398    246    324     57    -36     25       O1-
+TER
+ATOM    165  N   GLY E   1      15.235  10.739  14.493  1.00  2.32           N  
+ANISOU  165  N   GLY E   1      321    213    348     49     37    134       N  
+ATOM    166  CA  GLY E   1      15.847  10.772  15.809  1.00  2.25           C  
+ANISOU  166  CA  GLY E   1      279    216    359     72     33    123       C  
+ATOM    167  C   GLY E   1      15.831  12.197  16.313  1.00  2.15           C  
+ANISOU  167  C   GLY E   1      269    228    321     72     43     76       C  
+ATOM    168  O   GLY E   1      15.594  13.125  15.536  1.00  2.42           O  
+ANISOU  168  O   GLY E   1      262    311    346     76     10     50       O  
+ATOM    169  N   GLY E   2      16.081  12.385  17.602  1.00  1.96           N  
+ANISOU  169  N   GLY E   2      228    246    272     10     47     94       N  
+ATOM    170  CA  GLY E   2      16.075  13.733  18.137  1.00  2.31           C  
+ANISOU  170  CA  GLY E   2      267    305    307     -2     99     95       C  
+ATOM    171  C   GLY E   2      16.563  13.771  19.564  1.00  1.90           C  
+ANISOU  171  C   GLY E   2      212    260    249      1     33     63       C  
+ATOM    172  O   GLY E   2      16.906  12.742  20.152  1.00  1.91           O  
+ANISOU  172  O   GLY E   2      201    259    266     32     22     90       O  
+ATOM    173  N   TYR E   3      16.592  14.973  20.124  1.00  1.57           N  
+ANISOU  173  N   TYR E   3      179    224    195    -17     -1      2       N  
+ATOM    174  CA  TYR E   3      17.010  15.142  21.503  1.00  1.69           C  
+ANISOU  174  CA  TYR E   3      176    240    227      1    -12     40       C  
+ATOM    175  C   TYR E   3      16.404  16.435  22.029  1.00  1.67           C  
+ANISOU  175  C   TYR E   3      145    249    242    -14    -19     36       C  
+ATOM    176  O   TYR E   3      16.054  17.342  21.264  1.00  1.83           O  
+ANISOU  176  O   TYR E   3      164    290    243     26    -33     74       O  
+ATOM    177  CB  TYR E   3      18.556  15.134  21.638  1.00  1.95           C  
+ANISOU  177  CB  TYR E   3      270    198    271     -3      1     36       C  
+ATOM    178  CG  TYR E   3      19.257  16.063  20.667  1.00  2.24           C  
+ANISOU  178  CG  TYR E   3      348    176    327     -9     15     28       C  
+ATOM    179  CD1 TYR E   3      19.619  15.624  19.399  1.00  2.31           C  
+ANISOU  179  CD1 TYR E   3      364    172    342     38     65      5       C  
+ATOM    180  CD2 TYR E   3      19.541  17.385  21.009  1.00  2.27           C  
+ANISOU  180  CD2 TYR E   3      377    169    318    -51     -7     32       C  
+ATOM    181  CE1 TYR E   3      20.234  16.470  18.494  1.00  2.48           C  
+ANISOU  181  CE1 TYR E   3      394    194    353     22     33    -23       C  
+ATOM    182  CE2 TYR E   3      20.161  18.238  20.114  1.00  2.47           C  
+ANISOU  182  CE2 TYR E   3      419    196    322    -50    -44     13       C  
+ATOM    183  CZ  TYR E   3      20.501  17.781  18.859  1.00  2.36           C  
+ANISOU  183  CZ  TYR E   3      366    234    297    -19    -72    -27       C  
+ATOM    184  OH  TYR E   3      21.095  18.651  17.972  1.00  2.82           O  
+ANISOU  184  OH  TYR E   3      441    311    321    -40    -30    -73       O  
+ATOM    185  N   LEU E   4      16.267  16.490  23.343  1.00  1.54           N  
+ANISOU  185  N   LEU E   4      143    223    220      5     58     25       N  
+ATOM    186  CA  LEU E   4      15.684  17.624  24.042  1.00  2.21           C  
+ANISOU  186  CA  LEU E   4      205    319    315     25     62     17       C  
+ATOM    187  C   LEU E   4      16.409  17.773  25.370  1.00  2.31           C  
+ANISOU  187  C   LEU E   4      198    402    277      4      9     94       C  
+ATOM    188  O   LEU E   4      16.660  16.770  26.035  1.00  3.17           O  
+ANISOU  188  O   LEU E   4      268    577    359     52     -6    246       O  
+ATOM    189  CB  LEU E   4      14.184  17.392  24.267  1.00  3.59           C  
+ANISOU  189  CB  LEU E   4      395    438    528     46     99   -123       C  
+ATOM    190  CG  LEU E   4      13.384  18.410  25.082  1.00  4.92           C  
+ANISOU  190  CG  LEU E   4      609    566    695     89     27   -205       C  
+ATOM    191  CD1 LEU E   4      13.370  19.765  24.378  1.00  5.07           C  
+ANISOU  191  CD1 LEU E   4      622    595    711    196   -106   -140       C  
+ATOM    192  CD2 LEU E   4      11.955  17.911  25.318  1.00  6.08           C  
+ANISOU  192  CD2 LEU E   4      820    679    810     45     70   -294       C  
+ATOM    193  N   LEU E   5      16.772  19.002  25.737  1.00  1.81           N  
+ANISOU  193  N   LEU E   5      193    253    241    -67     55     26       N  
+ATOM    194  CA  LEU E   5      17.255  19.317  27.082  1.00  1.81           C  
+ANISOU  194  CA  LEU E   5      188    217    281     10     23      2       C  
+ATOM    195  C   LEU E   5      16.440  20.474  27.632  1.00  1.59           C  
+ANISOU  195  C   LEU E   5      156    216    232    -57     -2     42       C  
+ATOM    196  O   LEU E   5      16.074  21.383  26.875  1.00  1.45           O  
+ANISOU  196  O   LEU E   5      142    188    219      7    -29     79       O  
+ATOM    197  CB  LEU E   5      18.738  19.698  27.082  1.00  2.16           C  
+ANISOU  197  CB  LEU E   5      247    215    358     40     17    -26       C  
+ATOM    198  CG  LEU E   5      19.741  18.653  26.595  1.00  3.22           C  
+ANISOU  198  CG  LEU E   5      433    328    462    114    -14    -57       C  
+ATOM    199  CD1 LEU E   5      21.151  19.235  26.569  1.00  3.81           C  
+ANISOU  199  CD1 LEU E   5      593    361    494     66      6    -84       C  
+ATOM    200  CD2 LEU E   5      19.691  17.397  27.467  1.00  3.82           C  
+ANISOU  200  CD2 LEU E   5      499    390    561    177    -71    -79       C  
+ATOM    201  N   GLY E   6      16.175  20.452  28.938  1.00  1.92           N  
+ANISOU  201  N   GLY E   6      210    314    206     19     30     37       N  
+ATOM    202  CA  GLY E   6      15.457  21.532  29.598  1.00  2.29           C  
+ANISOU  202  CA  GLY E   6      280    359    232     73     70     34       C  
+ATOM    203  C   GLY E   6      15.890  21.728  31.041  1.00  2.48           C  
+ANISOU  203  C   GLY E   6      279    381    282     45     11     25       C  
+ATOM    204  O   GLY E   6      16.568  20.864  31.625  1.00  2.56           O  
+ANISOU  204  O   GLY E   6      280    373    318    -29     25     65       O  
+ATOM    205  OXT GLY E   6      15.560  22.777  31.621  1.00  3.33           O1-
+ANISOU  205  OXT GLY E   6      463    490    314     45     29     51       O1-
+TER
+ATOM    206  N   GLY F   1      16.586  29.716  32.753  1.00  3.08           N  
+ANISOU  206  N   GLY F   1      234    611    327    -87     47     81       N  
+ATOM    207  CA  GLY F   1      17.095  28.486  32.154  1.00  3.11           C  
+ANISOU  207  CA  GLY F   1      252    636    293   -105     38    128       C  
+ATOM    208  C   GLY F   1      16.727  28.467  30.694  1.00  3.14           C  
+ANISOU  208  C   GLY F   1      212    700    279    -83    -39    150       C  
+ATOM    209  O   GLY F   1      16.681  29.520  30.064  1.00  4.41           O  
+ANISOU  209  O   GLY F   1      309    943    424    -91    -11    266       O  
+ATOM    210  N   GLY F   2      16.453  27.292  30.145  1.00  2.50           N  
+ANISOU  210  N   GLY F   2      206    524    220    -83     32     91       N  
+ATOM    211  CA  GLY F   2      16.091  27.241  28.749  1.00  2.72           C  
+ANISOU  211  CA  GLY F   2      287    472    273    -92     86    110       C  
+ATOM    212  C   GLY F   2      15.884  25.840  28.229  1.00  2.12           C  
+ANISOU  212  C   GLY F   2      240    352    215    -26     33     52       C  
+ATOM    213  O   GLY F   2      15.656  24.902  28.998  1.00  1.87           O  
+ANISOU  213  O   GLY F   2      207    326    178    -49    -48     16       O  
+ATOM    214  N   TYR F   3      15.970  25.727  26.909  1.00  1.52           N  
+ANISOU  214  N   TYR F   3      179    208    190      9     16     69       N  
+ATOM    215  CA  TYR F   3      15.737  24.482  26.195  1.00  1.39           C  
+ANISOU  215  CA  TYR F   3      174    163    190     -5     -8     42       C  
+ATOM    216  C   TYR F   3      16.651  24.368  24.998  1.00  1.59           C  
+ANISOU  216  C   TYR F   3      204    184    216     32    -33     66       C  
+ATOM    217  O   TYR F   3      17.000  25.369  24.371  1.00  1.57           O  
+ANISOU  217  O   TYR F   3      158    226    212     -2    -56     71       O  
+ATOM    218  CB  TYR F   3      14.294  24.382  25.692  1.00  1.77           C  
+ANISOU  218  CB  TYR F   3      315    161    195     -4     -5     55       C  
+ATOM    219  CG  TYR F   3      13.265  24.408  26.780  1.00  1.92           C  
+ANISOU  219  CG  TYR F   3      326    174    228    -37     -4     36       C  
+ATOM    220  CD1 TYR F   3      13.100  23.318  27.625  1.00  2.21           C  
+ANISOU  220  CD1 TYR F   3      392    222    227    -74     16     24       C  
+ATOM    221  CD2 TYR F   3      12.455  25.519  26.965  1.00  2.25           C  
+ANISOU  221  CD2 TYR F   3      349    233    272     41     51     32       C  
+ATOM    222  CE1 TYR F   3      12.158  23.341  28.638  1.00  2.05           C  
+ANISOU  222  CE1 TYR F   3      305    235    240     34     17     -4       C  
+ATOM    223  CE2 TYR F   3      11.509  25.551  27.964  1.00  2.37           C  
+ANISOU  223  CE2 TYR F   3      386    249    267     53      7     25       C  
+ATOM    224  CZ  TYR F   3      11.367  24.465  28.802  1.00  2.27           C  
+ANISOU  224  CZ  TYR F   3      363    256    245     37     37    -37       C  
+ATOM    225  OH  TYR F   3      10.413  24.502  29.797  1.00  2.63           O  
+ANISOU  225  OH  TYR F   3      391    323    283     10     60    -83       O  
+ATOM    226  N   LEU F   4      16.986  23.126  24.664  1.00  1.46           N  
+ANISOU  226  N   LEU F   4      173    194    187     78     -8     31       N  
+ATOM    227  CA  LEU F   4      17.644  22.785  23.413  1.00  1.50           C  
+ANISOU  227  CA  LEU F   4      183    190    197     34    -10     19       C  
+ATOM    228  C   LEU F   4      16.849  21.673  22.750  1.00  1.69           C  
+ANISOU  228  C   LEU F   4      191    191    261    -12    -12     21       C  
+ATOM    229  O   LEU F   4      16.548  20.677  23.403  1.00  2.25           O  
+ANISOU  229  O   LEU F   4      249    307    298    -81    -40     95       O  
+ATOM    230  CB  LEU F   4      19.083  22.323  23.652  1.00  2.33           C  
+ANISOU  230  CB  LEU F   4      372    224    288     66    102     -2       C  
+ATOM    231  CG  LEU F   4      19.833  21.866  22.399  1.00  3.21           C  
+ANISOU  231  CG  LEU F   4      575    297    347     59    129    -30       C  
+ATOM    232  CD1 LEU F   4      20.088  23.055  21.477  1.00  3.50           C  
+ANISOU  232  CD1 LEU F   4      652    356    321     -5     93    -73       C  
+ATOM    233  CD2 LEU F   4      21.121  21.165  22.778  1.00  3.93           C  
+ANISOU  233  CD2 LEU F   4      711    335    446    119    262     -7       C  
+ATOM    234  N   LEU F   5      16.520  21.843  21.469  1.00  1.50           N  
+ANISOU  234  N   LEU F   5      149    141    278    -39    -30      7       N  
+ATOM    235  CA  LEU F   5      15.812  20.831  20.701  1.00  1.47           C  
+ANISOU  235  CA  LEU F   5      181    105    272    -31    -15     -6       C  
+ATOM    236  C   LEU F   5      16.603  20.510  19.441  1.00  1.57           C  
+ANISOU  236  C   LEU F   5      214    133    249     18    -36      6       C  
+ATOM    237  O   LEU F   5      16.955  21.413  18.680  1.00  1.89           O  
+ANISOU  237  O   LEU F   5      237    207    272     33    -28     20       O  
+ATOM    238  CB  LEU F   5      14.408  21.320  20.326  1.00  1.93           C  
+ANISOU  238  CB  LEU F   5      204    110    421    -21      7     -4       C  
+ATOM    239  CG  LEU F   5      13.588  20.375  19.442  1.00  2.68           C  
+ANISOU  239  CG  LEU F   5      280    149    589     15    -23      3       C  
+ATOM    240  CD1 LEU F   5      13.077  19.184  20.242  1.00  3.30           C  
+ANISOU  240  CD1 LEU F   5      370    206    678    -40    -52    -30       C  
+ATOM    241  CD2 LEU F   5      12.432  21.129  18.795  1.00  3.17           C  
+ANISOU  241  CD2 LEU F   5      337    183    683     30     32     54       C  
+ATOM    242  N   GLY F   6      16.881  19.231  19.215  1.00  1.68           N  
+ANISOU  242  N   GLY F   6      250    152    235     45    -22    -24       N  
+ATOM    243  CA  GLY F   6      17.573  18.820  18.008  1.00  1.93           C  
+ANISOU  243  CA  GLY F   6      299    202    232     83    -57     -3       C  
+ATOM    244  C   GLY F   6      16.750  18.955  16.754  1.00  2.38           C  
+ANISOU  244  C   GLY F   6      389    243    273     42    -54    -36       C  
+ATOM    245  O   GLY F   6      17.348  19.081  15.674  1.00  3.16           O  
+ANISOU  245  O   GLY F   6      593    311    295     32     13    -11       O  
+ATOM    246  OXT GLY F   6      15.513  18.928  16.828  1.00  2.55           O1-
+ANISOU  246  OXT GLY F   6      398    246    324     57    -36     25       O1-
+TER
+END    O1-
+TER   
+END

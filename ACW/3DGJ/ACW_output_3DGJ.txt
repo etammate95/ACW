@@ -1,0 +1,77 @@
+Evaluation of 3DGJ
+Main class is 1
+Secondary class is 4
+Packing is 3D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (3F4G5A7L)+(3F4G5A7L)
+Sc: 0.9
+B.Area: 126.4
+SDi: 1.33
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	N	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	F	34.0	29.5	63.5
+4	G	9.5	3.5	13.0
+5	A	27.5	3.7	31.2
+6	I	0.0	0.0	0.0
+7	L	18.3	0.0	18.3
+1	N	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	F	31.7	29.7	61.4
+4	G	10.0	4.0	14.0
+5	A	27.0	4.0	31.0
+6	I	0.0	0.0	0.0
+7	L	20.6	0.0	20.6
+
+
+Interface 2
+Sheets: 1+18, 22+1
+Sidechains: (1N3F)+(6I)
+Sc: 0.6
+B.Area: 66.7
+SDi: 1.48
+Class: 4
+
+Buried area details:
+Sheets: 1+18
+residue	type	s.ch.	b.b.	total
+1	N	34.9	0.0	34.9
+2	N	0.0	0.0	0.0
+3	F	32.7	0.0	32.7
+4	G	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	I	0.0	0.0	0.0
+7	L	0.0	0.0	0.0
+1	N	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	F	0.0	0.0	0.0
+4	G	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	I	37.3	0.8	38.1
+7	L	0.0	28.4	28.4
+
+Sheets: 22+1
+residue	type	s.ch.	b.b.	total
+1	N	35.2	0.0	35.2
+2	N	0.0	0.0	0.0
+3	F	31.8	0.0	31.8
+4	G	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	I	0.0	0.0	0.0
+7	L	0.0	0.0	0.0
+1	N	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	F	0.0	0.0	0.0
+4	G	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	I	36.9	0.3	37.2
+7	L	0.0	28.6	28.6
+
+

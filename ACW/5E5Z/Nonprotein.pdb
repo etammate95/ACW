@@ -1,0 +1,109 @@
+HETATM    1  O   HOH A 101       8.084   1.052  -4.771  1.00 12.67           O  
+ANISOU    1  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM    2  O   HOH A 101       1.671  -8.557 -23.279  1.00 12.67           O  
+ANISOU    2  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM    3  O   HOH A 101      -4.857 -13.362 -13.982  1.00 12.67           O  
+ANISOU    3  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM    4  O   HOH A 101      -1.556  -8.557  -4.526  1.00 12.67           O  
+ANISOU    4  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM    5  O   HOH A 101      -8.084 -13.362   4.771  1.00 12.67           O  
+ANISOU    5  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM    6  O   HOH A 101      -4.782  -8.557  14.227  1.00 12.67           O  
+ANISOU    6  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM    7  O   HOH A 101     -11.311 -13.362  23.524  1.00 12.67           O  
+ANISOU    7  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM    8  O   HOH A 101       1.671   1.052 -23.279  1.00 12.67           O  
+ANISOU    8  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM    9  O   HOH A 101      -4.857  -3.753 -13.982  1.00 12.67           O  
+ANISOU    9  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   10  O   HOH A 101      -1.556   1.052  -4.526  1.00 12.67           O  
+ANISOU   10  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   11  O   HOH A 101      -8.084  -3.753   4.771  1.00 12.67           O  
+ANISOU   11  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   12  O   HOH A 101      -4.782   1.052  14.227  1.00 12.67           O  
+ANISOU   12  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   13  O   HOH A 101     -11.311  -3.753  23.524  1.00 12.67           O  
+ANISOU   13  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   14  O   HOH A 101       1.671  10.661 -23.279  1.00 12.67           O  
+ANISOU   14  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   15  O   HOH A 101      -4.857   5.857 -13.982  1.00 12.67           O  
+ANISOU   15  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   16  O   HOH A 101      -1.556  10.661  -4.526  1.00 12.67           O  
+ANISOU   16  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   17  O   HOH A 101      -8.084   5.857   4.771  1.00 12.67           O  
+ANISOU   17  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   18  O   HOH A 101      -4.782  10.661  14.227  1.00 12.67           O  
+ANISOU   18  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   19  O   HOH A 101     -11.311   5.857  23.524  1.00 12.67           O  
+ANISOU   19  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   20  O   HOH A 101      11.311  -8.557 -23.524  1.00 12.67           O  
+ANISOU   20  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   21  O   HOH A 101       4.782 -13.362 -14.227  1.00 12.67           O  
+ANISOU   21  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   22  O   HOH A 101       8.084  -8.557  -4.771  1.00 12.67           O  
+ANISOU   22  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   23  O   HOH A 101       1.556 -13.362   4.526  1.00 12.67           O  
+ANISOU   23  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   24  O   HOH A 101       4.857  -8.557  13.982  1.00 12.67           O  
+ANISOU   24  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   25  O   HOH A 101      -1.671 -13.362  23.279  1.00 12.67           O  
+ANISOU   25  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   26  O   HOH A 101      11.311   1.052 -23.524  1.00 12.67           O  
+ANISOU   26  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   27  O   HOH A 101       4.782  -3.753 -14.227  1.00 12.67           O  
+ANISOU   27  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   28  O   HOH A 101       1.556  -3.753   4.526  1.00 12.67           O  
+ANISOU   28  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   29  O   HOH A 101       4.857   1.052  13.982  1.00 12.67           O  
+ANISOU   29  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   30  O   HOH A 101      -1.671  -3.753  23.279  1.00 12.67           O  
+ANISOU   30  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   31  O   HOH A 101      11.311  10.661 -23.524  1.00 12.67           O  
+ANISOU   31  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   32  O   HOH A 101       4.782   5.857 -14.227  1.00 12.67           O  
+ANISOU   32  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   33  O   HOH A 101       8.084  10.661  -4.771  1.00 12.67           O  
+ANISOU   33  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   34  O   HOH A 101       1.556   5.857   4.526  1.00 12.67           O  
+ANISOU   34  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   35  O   HOH A 101       4.857  10.661  13.982  1.00 12.67           O  
+ANISOU   35  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   36  O   HOH A 101      -1.671   5.857  23.279  1.00 12.67           O  
+ANISOU   36  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   37  O   HOH A 101      20.951  -8.557 -23.770  1.00 12.67           O  
+ANISOU   37  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   38  O   HOH A 101      14.422 -13.362 -14.473  1.00 12.67           O  
+ANISOU   38  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   39  O   HOH A 101      17.724  -8.557  -5.016  1.00 12.67           O  
+ANISOU   39  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   40  O   HOH A 101      11.195 -13.362   4.281  1.00 12.67           O  
+ANISOU   40  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   41  O   HOH A 101      14.497  -8.557  13.737  1.00 12.67           O  
+ANISOU   41  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   42  O   HOH A 101       7.969 -13.362  23.034  1.00 12.67           O  
+ANISOU   42  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   43  O   HOH A 101      20.951   1.052 -23.770  1.00 12.67           O  
+ANISOU   43  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   44  O   HOH A 101      14.422  -3.753 -14.473  1.00 12.67           O  
+ANISOU   44  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   45  O   HOH A 101      17.724   1.052  -5.016  1.00 12.67           O  
+ANISOU   45  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   46  O   HOH A 101      11.195  -3.753   4.281  1.00 12.67           O  
+ANISOU   46  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   47  O   HOH A 101      14.497   1.052  13.737  1.00 12.67           O  
+ANISOU   47  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   48  O   HOH A 101       7.969  -3.753  23.034  1.00 12.67           O  
+ANISOU   48  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   49  O   HOH A 101      20.951  10.661 -23.770  1.00 12.67           O  
+ANISOU   49  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   50  O   HOH A 101      14.422   5.857 -14.473  1.00 12.67           O  
+ANISOU   50  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   51  O   HOH A 101      17.724  10.661  -5.016  1.00 12.67           O  
+ANISOU   51  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   52  O   HOH A 101      11.195   5.857   4.281  1.00 12.67           O  
+ANISOU   52  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   53  O   HOH A 101      14.497  10.661  13.737  1.00 12.67           O  
+ANISOU   53  O   HOH A 101     1605   1605   1605      0      0      0       O  
+HETATM   54  O   HOH A 101       7.969   5.857  23.034  1.00 12.67           O  
+ANISOU   54  O   HOH A 101     1605   1605   1605      0      0      0       O  
+END

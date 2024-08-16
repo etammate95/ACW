@@ -1,0 +1,47 @@
+Evaluation of 5ZCK
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+19
+Sidechains: (2Q4G)+(2Q4G)
+Sc: 0.8
+B.Area: 88.2
+SDi: 1.94
+Class: 1
+
+Buried area details:
+Sheets: 1+19
+residue	type	s.ch.	b.b.	total
+1	V	0.0	0.0	0.0
+2	Q	68.1	1.5	69.6
+3	V	0.0	6.4	6.4
+4	G	9.9	2.2	12.1
+1	V	0.0	0.0	0.0
+2	Q	68.0	1.6	69.6
+3	V	0.0	6.6	6.6
+4	G	10.0	2.0	12.0
+
+
+Interface 2
+Sheets: 1+31
+Sidechains: (1V3V)+(1V3V)
+Sc: 0.92
+B.Area: 83.8
+SDi: 1.44
+Class: 1
+
+Buried area details:
+Sheets: 1+31
+residue	type	s.ch.	b.b.	total
+1	V	32.5	0.0	32.5
+2	Q	0.0	0.0	0.0
+3	V	50.8	0.0	50.8
+4	G	0.0	0.2	0.2
+1	V	33.2	0.0	33.2
+2	Q	0.0	0.0	0.0
+3	V	50.8	0.0	50.8
+4	G	0.0	0.1	0.1
+
+

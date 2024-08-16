@@ -1,0 +1,71 @@
+Evaluation of 6UOP
+Main class is 4
+Secondary class is 1
+Packing is 3D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20, 32+1
+Sidechains: (1A3A)+(2V4A5G)
+Sc: 0.86
+B.Area: 149.2
+SDi: 1.71
+Class: 4
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	A	40.8	1.6	42.4
+2	V	0.0	4.4	4.4
+3	A	40.7	2.7	43.4
+4	A	0.0	7.9	7.9
+5	G	0.0	4.4	4.4
+6	A	0.0	43.1	43.1
+1	A	0.0	25.3	25.3
+2	V	63.4	0.0	63.4
+3	A	0.0	1.7	1.7
+4	A	40.8	2.2	43.0
+5	G	15.0	3.6	18.6
+6	A	0.0	0.0	0.0
+
+Sheets: 32+1
+residue	type	s.ch.	b.b.	total
+1	A	40.6	1.7	42.3
+2	V	0.0	4.9	4.9
+3	A	41.0	2.7	43.7
+4	A	0.0	7.9	7.9
+5	G	0.0	4.0	4.0
+6	A	0.0	43.3	43.3
+1	A	0.0	25.7	25.7
+2	V	64.8	0.2	65.0
+3	A	0.0	1.3	1.3
+4	A	41.0	1.3	42.3
+5	G	14.8	4.2	19.0
+6	A	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+19
+Sidechains: (5G6A)+(5G6A)
+Sc: 0.81
+B.Area: 55.0
+SDi: 1.39
+Class: 1
+
+Buried area details:
+Sheets: 1+19
+residue	type	s.ch.	b.b.	total
+1	A	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	A	0.0	0.0	0.0
+4	A	0.0	0.0	0.0
+5	G	16.9	7.3	24.2
+6	A	24.5	6.4	30.9
+1	A	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	A	0.0	0.0	0.0
+4	A	0.0	0.0	0.0
+5	G	16.8	6.7	23.5
+6	A	25.0	6.3	31.3
+
+

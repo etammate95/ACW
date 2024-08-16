@@ -1,0 +1,325 @@
+HETATM    1  O   HOH A 301     -18.278   6.153   4.333  1.00  5.78           O  
+ANISOU    1  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM    2  O   HOH A 302     -22.028   2.054  18.810  1.00  9.96           O  
+ANISOU    2  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM    3  O   HOH A 303     -18.735   7.443  21.903  1.00  6.17           O  
+ANISOU    3  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM    4  O   HOH A 301       0.310   3.436 -16.677  1.00  5.78           O  
+ANISOU    4  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM    5  O   HOH A 302      -3.440  -0.663  -2.199  1.00  9.96           O  
+ANISOU    5  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM    6  O   HOH A 303      -0.147   4.726   0.893  1.00  6.17           O  
+ANISOU    6  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM    7  O   HOH A 301      10.059   3.407  -4.170  1.00  5.78           O  
+ANISOU    7  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM    8  O   HOH A 302       5.739   7.506 -18.487  1.00  9.96           O  
+ANISOU    8  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM    9  O   HOH A 303       8.907   2.117 -21.708  1.00  6.17           O  
+ANISOU    9  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   10  O   HOH A 301       0.719   1.373   3.957  1.00  5.78           O  
+ANISOU   10  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   11  O   HOH A 302      -3.031  -2.726  18.434  1.00  9.96           O  
+ANISOU   11  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   12  O   HOH A 303       0.262   2.663  21.526  1.00  6.17           O  
+ANISOU   12  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   13  O   HOH A 301      10.468   1.344  16.463  1.00  5.78           O  
+ANISOU   13  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   14  O   HOH A 302       6.148   5.443   2.146  1.00  9.96           O  
+ANISOU   14  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   15  O   HOH A 303       9.316   0.054  -1.075  1.00  6.17           O  
+ANISOU   15  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   16  O   HOH A 301       1.128  -0.690  24.590  1.00  5.78           O  
+ANISOU   16  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   17  O   HOH A 302      -2.622  -4.789  39.067  1.00  9.96           O  
+ANISOU   17  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   18  O   HOH A 303       0.671   0.600  42.159  1.00  6.17           O  
+ANISOU   18  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   19  O   HOH A 301      10.877  -0.720  37.096  1.00  5.78           O  
+ANISOU   19  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   20  O   HOH A 302       6.557   3.379  22.779  1.00  9.96           O  
+ANISOU   20  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   21  O   HOH A 303       9.725  -2.010  19.558  1.00  6.17           O  
+ANISOU   21  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   22  O   HOH A 301     -18.687   3.436 -16.300  1.00  5.78           O  
+ANISOU   22  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   23  O   HOH A 302     -22.437  -0.663  -1.823  1.00  9.96           O  
+ANISOU   23  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   24  O   HOH A 303     -19.144   4.726   1.270  1.00  6.17           O  
+ANISOU   24  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   25  O   HOH A 301      -8.937   3.407  -3.794  1.00  5.78           O  
+ANISOU   25  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   26  O   HOH A 302     -13.258   7.506 -18.111  1.00  9.96           O  
+ANISOU   26  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   27  O   HOH A 303     -10.090   2.117 -21.331  1.00  6.17           O  
+ANISOU   27  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   28  O   HOH A 301     -18.278   1.373   4.333  1.00  5.78           O  
+ANISOU   28  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   29  O   HOH A 302     -22.028  -2.726  18.810  1.00  9.96           O  
+ANISOU   29  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   30  O   HOH A 303     -18.735   2.663  21.903  1.00  6.17           O  
+ANISOU   30  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   31  O   HOH A 301      -8.528   1.344  16.839  1.00  5.78           O  
+ANISOU   31  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   32  O   HOH A 302     -12.849   5.443   2.522  1.00  9.96           O  
+ANISOU   32  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   33  O   HOH A 303      -9.681   0.054  -0.698  1.00  6.17           O  
+ANISOU   33  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   34  O   HOH A 301     -17.869  -0.690  24.966  1.00  5.78           O  
+ANISOU   34  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   35  O   HOH A 302     -21.619  -4.789  39.443  1.00  9.96           O  
+ANISOU   35  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   36  O   HOH A 303     -18.326   0.600  42.536  1.00  6.17           O  
+ANISOU   36  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   37  O   HOH A 301      -8.119  -0.720  37.472  1.00  5.78           O  
+ANISOU   37  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   38  O   HOH A 302     -12.440   3.379  23.155  1.00  9.96           O  
+ANISOU   38  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   39  O   HOH A 303      -9.272  -2.010  19.935  1.00  6.17           O  
+ANISOU   39  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   40  O   HOH A 301     -37.683   3.436 -15.923  1.00  5.78           O  
+ANISOU   40  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   41  O   HOH A 302     -41.433  -0.663  -1.446  1.00  9.96           O  
+ANISOU   41  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   42  O   HOH A 303     -38.140   4.726   1.646  1.00  6.17           O  
+ANISOU   42  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   43  O   HOH A 301     -27.933   3.407  -3.417  1.00  5.78           O  
+ANISOU   43  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   44  O   HOH A 302     -32.254   7.506 -17.734  1.00  9.96           O  
+ANISOU   44  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   45  O   HOH A 303     -29.086   2.117 -20.955  1.00  6.17           O  
+ANISOU   45  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   46  O   HOH A 301     -37.274   1.373   4.710  1.00  5.78           O  
+ANISOU   46  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   47  O   HOH A 302     -41.024  -2.726  19.187  1.00  9.96           O  
+ANISOU   47  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   48  O   HOH A 303     -37.731   2.663  22.279  1.00  6.17           O  
+ANISOU   48  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   49  O   HOH A 301     -27.524   1.344  17.216  1.00  5.78           O  
+ANISOU   49  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   50  O   HOH A 302     -31.845   5.443   2.899  1.00  9.96           O  
+ANISOU   50  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   51  O   HOH A 303     -28.677   0.054  -0.322  1.00  6.17           O  
+ANISOU   51  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   52  O   HOH A 301     -36.865  -0.690  25.343  1.00  5.78           O  
+ANISOU   52  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   53  O   HOH A 302     -40.615  -4.789  39.820  1.00  9.96           O  
+ANISOU   53  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   54  O   HOH A 303     -37.322   0.600  42.912  1.00  6.17           O  
+ANISOU   54  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   55  O   HOH A 301     -27.115  -0.720  37.849  1.00  5.78           O  
+ANISOU   55  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   56  O   HOH A 302     -31.436   3.379  23.532  1.00  9.96           O  
+ANISOU   56  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   57  O   HOH A 303     -28.268  -2.010  20.311  1.00  6.17           O  
+ANISOU   57  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   58  O   HOH A 301       0.310   8.216 -16.677  1.00  5.78           O  
+ANISOU   58  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   59  O   HOH A 302      -3.440   4.117  -2.199  1.00  9.96           O  
+ANISOU   59  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   60  O   HOH A 303      -0.147   9.506   0.893  1.00  6.17           O  
+ANISOU   60  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   61  O   HOH A 301      10.059   8.187  -4.170  1.00  5.78           O  
+ANISOU   61  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   62  O   HOH A 302       5.739  12.286 -18.487  1.00  9.96           O  
+ANISOU   62  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   63  O   HOH A 303       8.907   6.897 -21.708  1.00  6.17           O  
+ANISOU   63  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   64  O   HOH A 301       0.719   6.153   3.957  1.00  5.78           O  
+ANISOU   64  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   65  O   HOH A 302      -3.031   2.054  18.434  1.00  9.96           O  
+ANISOU   65  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   66  O   HOH A 303       0.262   7.443  21.526  1.00  6.17           O  
+ANISOU   66  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   67  O   HOH A 301      10.468   6.124  16.463  1.00  5.78           O  
+ANISOU   67  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   68  O   HOH A 302       6.148  10.223   2.146  1.00  9.96           O  
+ANISOU   68  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   69  O   HOH A 303       9.316   4.834  -1.075  1.00  6.17           O  
+ANISOU   69  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   70  O   HOH A 301       1.128   4.090  24.590  1.00  5.78           O  
+ANISOU   70  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   71  O   HOH A 302      -2.622  -0.009  39.067  1.00  9.96           O  
+ANISOU   71  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   72  O   HOH A 303       0.671   5.380  42.159  1.00  6.17           O  
+ANISOU   72  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   73  O   HOH A 301      10.877   4.060  37.096  1.00  5.78           O  
+ANISOU   73  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   74  O   HOH A 302       6.557   8.159  22.779  1.00  9.96           O  
+ANISOU   74  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   75  O   HOH A 303       9.725   2.770  19.558  1.00  6.17           O  
+ANISOU   75  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   76  O   HOH A 301     -18.687   8.216 -16.300  1.00  5.78           O  
+ANISOU   76  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   77  O   HOH A 302     -22.437   4.117  -1.823  1.00  9.96           O  
+ANISOU   77  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   78  O   HOH A 303     -19.144   9.506   1.270  1.00  6.17           O  
+ANISOU   78  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   79  O   HOH A 301      -8.937   8.187  -3.794  1.00  5.78           O  
+ANISOU   79  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   80  O   HOH A 302     -13.258  12.286 -18.111  1.00  9.96           O  
+ANISOU   80  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   81  O   HOH A 303     -10.090   6.897 -21.331  1.00  6.17           O  
+ANISOU   81  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   82  O   HOH A 301      -8.528   6.124  16.839  1.00  5.78           O  
+ANISOU   82  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   83  O   HOH A 302     -12.849  10.223   2.522  1.00  9.96           O  
+ANISOU   83  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   84  O   HOH A 303      -9.681   4.834  -0.698  1.00  6.17           O  
+ANISOU   84  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   85  O   HOH A 301     -17.869   4.090  24.966  1.00  5.78           O  
+ANISOU   85  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   86  O   HOH A 302     -21.619  -0.009  39.443  1.00  9.96           O  
+ANISOU   86  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   87  O   HOH A 303     -18.326   5.380  42.536  1.00  6.17           O  
+ANISOU   87  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   88  O   HOH A 301      -8.119   4.060  37.472  1.00  5.78           O  
+ANISOU   88  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   89  O   HOH A 302     -12.440   8.159  23.155  1.00  9.96           O  
+ANISOU   89  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   90  O   HOH A 303      -9.272   2.770  19.935  1.00  6.17           O  
+ANISOU   90  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   91  O   HOH A 301     -37.683   8.216 -15.923  1.00  5.78           O  
+ANISOU   91  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   92  O   HOH A 302     -41.433   4.117  -1.446  1.00  9.96           O  
+ANISOU   92  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   93  O   HOH A 303     -38.140   9.506   1.646  1.00  6.17           O  
+ANISOU   93  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   94  O   HOH A 301     -27.933   8.187  -3.417  1.00  5.78           O  
+ANISOU   94  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   95  O   HOH A 302     -32.254  12.286 -17.734  1.00  9.96           O  
+ANISOU   95  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   96  O   HOH A 303     -29.086   6.897 -20.955  1.00  6.17           O  
+ANISOU   96  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM   97  O   HOH A 301     -37.274   6.153   4.710  1.00  5.78           O  
+ANISOU   97  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM   98  O   HOH A 302     -41.024   2.054  19.187  1.00  9.96           O  
+ANISOU   98  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM   99  O   HOH A 303     -37.731   7.443  22.279  1.00  6.17           O  
+ANISOU   99  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  100  O   HOH A 301     -27.524   6.124  17.216  1.00  5.78           O  
+ANISOU  100  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  101  O   HOH A 302     -31.845  10.223   2.899  1.00  9.96           O  
+ANISOU  101  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  102  O   HOH A 303     -28.677   4.834  -0.322  1.00  6.17           O  
+ANISOU  102  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  103  O   HOH A 301     -36.865   4.090  25.343  1.00  5.78           O  
+ANISOU  103  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  104  O   HOH A 302     -40.615  -0.009  39.820  1.00  9.96           O  
+ANISOU  104  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  105  O   HOH A 303     -37.322   5.380  42.912  1.00  6.17           O  
+ANISOU  105  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  106  O   HOH A 301     -27.115   4.060  37.849  1.00  5.78           O  
+ANISOU  106  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  107  O   HOH A 302     -31.436   8.159  23.532  1.00  9.96           O  
+ANISOU  107  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  108  O   HOH A 303     -28.268   2.770  20.311  1.00  6.17           O  
+ANISOU  108  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  109  O   HOH A 301       0.310  12.996 -16.677  1.00  5.78           O  
+ANISOU  109  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  110  O   HOH A 302      -3.440   8.897  -2.199  1.00  9.96           O  
+ANISOU  110  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  111  O   HOH A 303      -0.147  14.286   0.893  1.00  6.17           O  
+ANISOU  111  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  112  O   HOH A 301      10.059  12.967  -4.170  1.00  5.78           O  
+ANISOU  112  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  113  O   HOH A 302       5.739  17.066 -18.487  1.00  9.96           O  
+ANISOU  113  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  114  O   HOH A 303       8.907  11.677 -21.708  1.00  6.17           O  
+ANISOU  114  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  115  O   HOH A 301       0.719  10.933   3.957  1.00  5.78           O  
+ANISOU  115  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  116  O   HOH A 302      -3.031   6.834  18.434  1.00  9.96           O  
+ANISOU  116  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  117  O   HOH A 303       0.262  12.223  21.526  1.00  6.17           O  
+ANISOU  117  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  118  O   HOH A 301      10.468  10.904  16.463  1.00  5.78           O  
+ANISOU  118  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  119  O   HOH A 302       6.148  15.003   2.146  1.00  9.96           O  
+ANISOU  119  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  120  O   HOH A 303       9.316   9.614  -1.075  1.00  6.17           O  
+ANISOU  120  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  121  O   HOH A 301       1.128   8.870  24.590  1.00  5.78           O  
+ANISOU  121  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  122  O   HOH A 302      -2.622   4.771  39.067  1.00  9.96           O  
+ANISOU  122  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  123  O   HOH A 303       0.671  10.160  42.159  1.00  6.17           O  
+ANISOU  123  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  124  O   HOH A 301      10.877   8.840  37.096  1.00  5.78           O  
+ANISOU  124  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  125  O   HOH A 302       6.557  12.939  22.779  1.00  9.96           O  
+ANISOU  125  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  126  O   HOH A 303       9.725   7.550  19.558  1.00  6.17           O  
+ANISOU  126  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  127  O   HOH A 301     -18.687  12.996 -16.300  1.00  5.78           O  
+ANISOU  127  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  128  O   HOH A 302     -22.437   8.897  -1.823  1.00  9.96           O  
+ANISOU  128  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  129  O   HOH A 303     -19.144  14.286   1.270  1.00  6.17           O  
+ANISOU  129  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  130  O   HOH A 301      -8.937  12.967  -3.794  1.00  5.78           O  
+ANISOU  130  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  131  O   HOH A 302     -13.258  17.066 -18.111  1.00  9.96           O  
+ANISOU  131  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  132  O   HOH A 303     -10.090  11.677 -21.331  1.00  6.17           O  
+ANISOU  132  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  133  O   HOH A 301     -18.278  10.933   4.333  1.00  5.78           O  
+ANISOU  133  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  134  O   HOH A 302     -22.028   6.834  18.810  1.00  9.96           O  
+ANISOU  134  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  135  O   HOH A 303     -18.735  12.223  21.903  1.00  6.17           O  
+ANISOU  135  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  136  O   HOH A 301      -8.528  10.904  16.839  1.00  5.78           O  
+ANISOU  136  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  137  O   HOH A 302     -12.849  15.003   2.522  1.00  9.96           O  
+ANISOU  137  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  138  O   HOH A 303      -9.681   9.614  -0.698  1.00  6.17           O  
+ANISOU  138  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  139  O   HOH A 301     -17.869   8.870  24.966  1.00  5.78           O  
+ANISOU  139  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  140  O   HOH A 302     -21.619   4.771  39.443  1.00  9.96           O  
+ANISOU  140  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  141  O   HOH A 303     -18.326  10.160  42.536  1.00  6.17           O  
+ANISOU  141  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  142  O   HOH A 301      -8.119   8.840  37.472  1.00  5.78           O  
+ANISOU  142  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  143  O   HOH A 302     -12.440  12.939  23.155  1.00  9.96           O  
+ANISOU  143  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  144  O   HOH A 303      -9.272   7.550  19.935  1.00  6.17           O  
+ANISOU  144  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  145  O   HOH A 301     -37.683  12.996 -15.923  1.00  5.78           O  
+ANISOU  145  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  146  O   HOH A 302     -41.433   8.897  -1.446  1.00  9.96           O  
+ANISOU  146  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  147  O   HOH A 303     -38.140  14.286   1.646  1.00  6.17           O  
+ANISOU  147  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  148  O   HOH A 301     -27.933  12.967  -3.417  1.00  5.78           O  
+ANISOU  148  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  149  O   HOH A 302     -32.254  17.066 -17.734  1.00  9.96           O  
+ANISOU  149  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  150  O   HOH A 303     -29.086  11.677 -20.955  1.00  6.17           O  
+ANISOU  150  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  151  O   HOH A 301     -37.274  10.933   4.710  1.00  5.78           O  
+ANISOU  151  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  152  O   HOH A 302     -41.024   6.834  19.187  1.00  9.96           O  
+ANISOU  152  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  153  O   HOH A 303     -37.731  12.223  22.279  1.00  6.17           O  
+ANISOU  153  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  154  O   HOH A 301     -27.524  10.904  17.216  1.00  5.78           O  
+ANISOU  154  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  155  O   HOH A 302     -31.845  15.003   2.899  1.00  9.96           O  
+ANISOU  155  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  156  O   HOH A 303     -28.677   9.614  -0.322  1.00  6.17           O  
+ANISOU  156  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  157  O   HOH A 301     -36.865   8.870  25.343  1.00  5.78           O  
+ANISOU  157  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  158  O   HOH A 302     -40.615   4.771  39.820  1.00  9.96           O  
+ANISOU  158  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  159  O   HOH A 303     -37.322  10.160  42.912  1.00  6.17           O  
+ANISOU  159  O   HOH A 303      775    789    781    -69     27     38       O  
+HETATM  160  O   HOH A 301     -27.115   8.840  37.849  1.00  5.78           O  
+ANISOU  160  O   HOH A 301      870    644    680    -20     54     37       O  
+HETATM  161  O   HOH A 302     -31.436  12.939  23.532  1.00  9.96           O  
+ANISOU  161  O   HOH A 302     1706    979   1099    260    300     47       O  
+HETATM  162  O   HOH A 303     -28.268   7.550  20.311  1.00  6.17           O  
+ANISOU  162  O   HOH A 303      775    789    781    -69     27     38       O  
+END

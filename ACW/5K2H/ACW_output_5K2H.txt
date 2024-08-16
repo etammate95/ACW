@@ -1,0 +1,77 @@
+Evaluation of 5K2H
+Main class is 1
+Secondary class is 3
+Packing is 3D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2N4Q6N)+(2N4Q6N)
+Sc: 0.84
+B.Area: 147.2
+SDi: 1.51
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	N	47.4	2.1	49.5
+3	N	0.0	6.1	6.1
+4	Q	60.2	0.3	60.5
+5	Q	0.0	0.0	0.0
+6	N	31.4	0.0	31.4
+7	Y	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	N	46.9	2.0	48.9
+3	N	0.0	6.2	6.2
+4	Q	61.0	0.5	61.5
+5	Q	0.0	0.0	0.0
+6	N	30.4	0.0	30.4
+7	Y	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 19+1, 1+31
+Sidechains: (3N5Q)+(7Y)
+Sc: 0.5
+B.Area: 91.2
+SDi: 1.26
+Class: 3
+
+Buried area details:
+Sheets: 19+1
+residue	type	s.ch.	b.b.	total
+1	G	0.0	25.5	25.5
+2	N	0.0	0.0	0.0
+3	N	31.0	0.0	31.0
+4	Q	0.0	0.0	0.0
+5	Q	29.5	0.0	29.5
+6	N	0.0	0.0	0.0
+7	Y	5.0	0.0	5.0
+1	G	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	N	0.0	0.0	0.0
+4	Q	0.0	0.0	0.0
+5	Q	8.3	0.0	8.3
+6	N	0.0	0.0	0.0
+7	Y	60.4	22.5	82.9
+
+Sheets: 1+31
+residue	type	s.ch.	b.b.	total
+1	G	0.0	24.8	24.8
+2	N	0.0	0.0	0.0
+3	N	29.7	0.0	29.7
+4	Q	0.0	0.0	0.0
+5	Q	30.0	0.0	30.0
+6	N	0.0	0.0	0.0
+7	Y	4.8	0.0	4.8
+1	G	0.0	0.0	0.0
+2	N	0.0	0.0	0.0
+3	N	0.0	0.0	0.0
+4	Q	0.0	0.0	0.0
+5	Q	8.8	0.0	8.8
+6	N	0.0	0.0	0.0
+7	Y	61.9	22.1	84.0
+
+

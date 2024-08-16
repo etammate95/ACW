@@ -1,0 +1,71 @@
+Evaluation of 8ANG
+Main class is 1
+Secondary class is 4
+Packing is 3D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+8
+Sidechains: (1L3I5W)+(1L3I5W)
+Sc: 0.64
+B.Area: 98.0
+SDi: 1.51
+Class: 1
+
+Buried area details:
+Sheets: 1+8
+residue	type	s.ch.	b.b.	total
+1	L	25.5	0.0	25.5
+2	Y	0.0	0.0	0.0
+3	I	26.2	0.0	26.2
+4	Q	0.0	0.0	0.0
+5	W	45.9	0.0	45.9
+6	L	0.0	0.0	0.0
+1	L	26.2	0.0	26.2
+2	Y	0.0	0.0	0.0
+3	I	27.4	0.0	27.4
+4	Q	0.0	0.0	0.0
+5	W	45.1	0.0	45.1
+6	L	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+20, 32+1
+Sidechains: (2Y4Q6L)+(5W)
+Sc: 0.48
+B.Area: 64.6
+SDi: 1.09
+Class: 4
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	L	0.0	0.0	0.0
+2	Y	16.8	0.0	16.8
+3	I	0.0	0.0	0.0
+4	Q	14.4	0.0	14.4
+5	W	0.0	0.0	0.0
+6	L	34.9	0.0	34.9
+1	L	0.0	0.0	0.0
+2	Y	0.0	0.0	0.0
+3	I	0.0	0.0	0.0
+4	Q	0.0	0.0	0.0
+5	W	28.7	0.0	28.7
+6	L	0.0	33.5	33.5
+
+Sheets: 32+1
+residue	type	s.ch.	b.b.	total
+1	L	0.0	0.0	0.0
+2	Y	17.2	0.0	17.2
+3	I	0.0	0.0	0.0
+4	Q	14.3	0.0	14.3
+5	W	0.0	0.0	0.0
+6	L	34.8	0.0	34.8
+1	L	0.0	0.0	0.0
+2	Y	0.0	0.0	0.0
+3	I	0.0	0.0	0.0
+4	Q	0.0	0.0	0.0
+5	W	29.8	0.0	29.8
+6	L	0.0	34.0	34.0
+
+

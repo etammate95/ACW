@@ -1,0 +1,67 @@
+Evaluation of 7RVG
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+10
+Sidechains: (2Y4N6N8F)+(2Y4N6N8F)
+Sc: 0.82
+B.Area: 211.8
+SDi: 1.55
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	Q	0.0	0.0	0.0
+2	Y	29.2	2.5	31.7
+3	S	0.0	6.7	6.7
+4	N	48.3	0.2	48.5
+5	Q	0.0	0.0	0.0
+6	N	42.0	0.0	42.0
+7	S	0.0	0.7	0.7
+8	F	73.8	0.0	73.8
+9	V	8.5	0.0	8.5
+1	Q	0.0	0.0	0.0
+2	Y	29.6	2.4	32.0
+3	S	0.0	6.8	6.8
+4	N	47.7	0.2	47.9
+5	Q	0.0	0.0	0.0
+6	N	40.6	0.0	40.6
+7	S	0.0	0.7	0.7
+8	F	75.4	0.0	75.4
+9	V	8.7	0.0	8.7
+
+
+Interface 2
+Sheets: 1+16
+Sidechains: (1Q3S5Q7S)+(1Q3S5Q7S)
+Sc: 0.85
+B.Area: 206.4
+SDi: 1.89
+Class: 1
+
+Buried area details:
+Sheets: 1+16
+residue	type	s.ch.	b.b.	total
+1	Q	75.2	2.0	77.2
+2	Y	0.0	5.3	5.3
+3	S	35.2	0.3	35.5
+4	N	0.0	0.0	0.0
+5	Q	63.8	2.4	66.2
+6	N	0.0	4.5	4.5
+7	S	17.7	0.2	17.9
+8	F	0.0	0.0	0.0
+9	V	0.0	0.0	0.0
+1	Q	75.6	2.1	77.7
+2	Y	0.0	4.8	4.8
+3	S	36.3	0.2	36.5
+4	N	0.0	0.0	0.0
+5	Q	63.5	2.1	65.6
+6	N	0.0	4.4	4.4
+7	S	17.2	0.2	17.4
+8	F	0.0	0.0	0.0
+9	V	0.0	0.0	0.0
+
+

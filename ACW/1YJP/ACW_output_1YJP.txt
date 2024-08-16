@@ -1,0 +1,32 @@
+Evaluation of 1YJP
+Main class is 1
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+10
+Sidechains: (2N4Q6N)+(2N4Q6N)
+Sc: 0.86
+B.Area: 141.9
+SDi: 1.59
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	N	43.9	2.3	46.2
+3	N	0.0	5.5	5.5
+4	Q	59.3	0.5	59.8
+5	Q	0.0	0.0	0.0
+6	N	30.0	0.0	30.0
+7	Y	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	N	44.0	2.2	46.2
+3	N	0.0	5.6	5.6
+4	Q	59.3	0.5	59.8
+5	Q	0.0	0.0	0.0
+6	N	30.7	0.0	30.7
+7	Y	0.0	0.0	0.0
+
+

@@ -1,0 +1,55 @@
+Evaluation of 3NVF
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+18
+Sidechains: (5G6S)+(5G6S)
+Sc: 0.86
+B.Area: 72.3
+SDi: 1.35
+Class: 1
+
+Buried area details:
+Sheets: 1+18
+residue	type	s.ch.	b.b.	total
+1	I	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	H	0.0	0.0	0.0
+4	F	3.5	11.6	15.1
+5	G	16.8	0.7	17.5
+6	S	38.7	0.3	39.0
+1	I	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	H	0.0	0.0	0.0
+4	F	4.2	12.5	16.7
+5	G	17.2	0.7	17.9
+6	S	38.3	0.3	38.6
+
+
+Interface 2
+Sheets: 1+30
+Sidechains: (2I4F)+(2I4F)
+Sc: 0.73
+B.Area: 69.2
+SDi: 1.74
+Class: 1
+
+Buried area details:
+Sheets: 1+30
+residue	type	s.ch.	b.b.	total
+1	I	0.0	0.0	0.0
+2	I	51.0	0.0	51.0
+3	H	0.0	0.0	0.0
+4	F	18.2	0.0	18.2
+5	G	0.0	0.0	0.0
+6	S	0.0	0.0	0.0
+1	I	0.0	0.0	0.0
+2	I	50.3	0.0	50.3
+3	H	0.0	0.0	0.0
+4	F	19.0	0.0	19.0
+5	G	0.0	0.0	0.0
+6	S	0.0	0.0	0.0
+
+

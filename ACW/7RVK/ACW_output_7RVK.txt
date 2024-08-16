@@ -1,0 +1,49 @@
+Evaluation of 7RVK
+Main class is 2
+Packing is 2D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 3+1, 1+8
+Sidechains: (2S4Q)+(5N7F)
+Sc: 0.81
+B.Area: 102.2
+SDi: 1.6
+Class: 2
+
+Buried area details:
+Sheets: 3+1
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	S	45.5	2.8	48.3
+3	N	0.0	6.2	6.2
+4	Q	49.0	0.3	49.3
+5	N	0.0	0.0	0.0
+6	N	0.0	0.0	0.0
+7	F	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	N	0.0	0.0	0.0
+4	Q	0.0	0.0	0.0
+5	N	21.6	0.0	21.6
+6	N	0.0	0.0	0.0
+7	F	65.7	13.3	79.0
+
+Sheets: 1+8
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	S	45.5	2.8	48.3
+3	N	0.0	6.2	6.2
+4	Q	49.0	0.3	49.3
+5	N	0.0	0.0	0.0
+6	N	0.0	0.0	0.0
+7	F	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	N	0.0	0.0	0.0
+4	Q	0.0	0.0	0.0
+5	N	21.6	0.0	21.6
+6	N	0.0	0.0	0.0
+7	F	65.7	13.3	79.0
+
+

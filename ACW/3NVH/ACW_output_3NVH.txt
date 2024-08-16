@@ -1,0 +1,32 @@
+Evaluation of 3NVH
+Main class is 1
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+20
+Sidechains: (4F5G6N)+(4F5G6N)
+Sc: 0.91
+B.Area: 105.2
+SDi: 1.39
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	M	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	H	0.0	0.0	0.0
+4	F	64.1	7.0	71.1
+5	G	13.7	2.3	16.0
+6	N	18.9	0.3	19.2
+7	D	0.0	0.0	0.0
+1	M	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	H	0.0	0.0	0.0
+4	F	63.5	7.4	70.9
+5	G	13.2	2.0	15.2
+6	N	17.8	0.3	18.1
+7	D	0.0	0.0	0.0
+
+

@@ -1,0 +1,30 @@
+Evaluation of 4NP8
+Main class is 1
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+5
+Sidechains: (1V3I)+(1V3I)
+Sc: 0.89
+B.Area: 80.2
+SDi: 1.73
+Class: 1
+
+Buried area details:
+Sheets: 1+5
+residue	type	s.ch.	b.b.	total
+1	V	55.8	1.5	57.3
+2	Q	0.0	0.0	0.0
+3	I	22.3	0.0	22.3
+4	V	0.0	0.0	0.0
+5	Y	0.0	0.0	0.0
+6	K	0.0	0.0	0.0
+1	V	56.4	1.3	57.7
+2	Q	0.0	0.0	0.0
+3	I	23.0	0.0	23.0
+4	V	0.0	0.0	0.0
+5	Y	0.0	0.0	0.0
+6	K	0.0	0.0	0.0
+
+

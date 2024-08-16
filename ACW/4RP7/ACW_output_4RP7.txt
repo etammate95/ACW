@@ -1,0 +1,55 @@
+Evaluation of 4RP7
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2I4T6E)+(2I4T6E)
+Sc: 0.84
+B.Area: 181.7
+SDi: 1.69
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	T	0.0	19.8	19.8
+2	I	64.6	0.0	64.6
+3	I	0.0	0.0	0.0
+4	T	40.7	0.0	40.7
+5	L	0.0	0.3	0.3
+6	E	54.1	0.7	54.8
+1	T	0.0	20.4	20.4
+2	I	65.2	0.0	65.2
+3	I	0.0	0.0	0.0
+4	T	41.1	0.0	41.1
+5	L	0.0	0.5	0.5
+6	E	55.2	0.7	55.9
+
+
+Interface 2
+Sheets: 1+24
+Sidechains: (1T3I5L)+(1T3I5L)
+Sc: 0.88
+B.Area: 115.0
+SDi: 1.43
+Class: 1
+
+Buried area details:
+Sheets: 1+24
+residue	type	s.ch.	b.b.	total
+1	T	20.1	0.0	20.1
+2	I	0.0	0.0	0.0
+3	I	51.5	0.0	51.5
+4	T	0.0	0.0	0.0
+5	L	42.5	0.0	42.5
+6	E	0.0	0.0	0.0
+1	T	21.1	0.0	21.1
+2	I	0.0	0.0	0.0
+3	I	51.6	0.0	51.6
+4	T	0.0	0.0	0.0
+5	L	43.0	0.0	43.0
+6	E	0.0	0.0	0.0
+
+

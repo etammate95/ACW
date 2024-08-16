@@ -1,0 +1,59 @@
+Evaluation of 4R0U
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+10
+Sidechains: (1T4T6V)+(1T4T6V)
+Sc: 0.87
+B.Area: 156.4
+SDi: 1.46
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	T	23.8	21.8	45.6
+2	G	0.0	0.0	0.0
+3	V	0.0	0.0	0.0
+4	T	24.8	0.0	24.8
+5	A	0.0	0.0	0.0
+6	V	43.8	0.0	43.8
+7	A	0.8	40.9	41.7
+1	T	23.8	21.7	45.5
+2	G	0.0	0.0	0.0
+3	V	0.0	0.0	0.0
+4	T	25.5	0.0	25.5
+5	A	0.0	0.0	0.0
+6	V	43.9	0.0	43.9
+7	A	0.8	41.3	42.1
+
+
+Interface 2
+Sheets: 1+16
+Sidechains: (3V5A7A)+(3V5A7A)
+Sc: 0.9
+B.Area: 142.8
+SDi: 1.67
+Class: 1
+
+Buried area details:
+Sheets: 1+16
+residue	type	s.ch.	b.b.	total
+1	T	0.0	0.0	0.0
+2	G	0.0	0.0	0.0
+3	V	64.9	0.5	65.4
+4	T	0.0	2.5	2.5
+5	A	43.0	2.8	45.8
+6	V	0.0	5.6	5.6
+7	A	18.0	5.0	23.0
+1	T	0.0	0.0	0.0
+2	G	0.0	0.0	0.0
+3	V	65.8	0.4	66.2
+4	T	0.0	2.6	2.6
+5	A	43.7	2.5	46.2
+6	V	0.0	5.7	5.7
+7	A	17.7	5.2	22.9
+
+

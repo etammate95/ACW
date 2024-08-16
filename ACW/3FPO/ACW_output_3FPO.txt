@@ -1,0 +1,45 @@
+Evaluation of 3FPO
+Main class is 4
+Packing is 2D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 10+1, 1+16
+Sidechains: (1H3S5N)+(2S4N6F)
+Sc: 0.83
+B.Area: 131.4
+SDi: 1.39
+Class: 4
+
+Buried area details:
+Sheets: 10+1
+residue	type	s.ch.	b.b.	total
+1	H	42.8	1.9	44.7
+2	S	0.0	5.7	5.7
+3	S	31.5	0.3	31.8
+4	N	0.0	0.0	0.0
+5	N	44.7	0.2	44.9
+6	F	0.0	2.5	2.5
+1	H	0.0	0.0	0.0
+2	S	26.6	0.0	26.6
+3	S	0.0	0.0	0.0
+4	N	31.5	0.0	31.5
+5	N	0.0	0.0	0.0
+6	F	66.6	9.3	75.9
+
+Sheets: 1+16
+residue	type	s.ch.	b.b.	total
+1	H	42.4	2.1	44.5
+2	S	0.0	6.2	6.2
+3	S	31.7	0.3	32.0
+4	N	0.0	0.0	0.0
+5	N	45.6	0.0	45.6
+6	F	0.0	2.4	2.4
+1	H	0.0	0.0	0.0
+2	S	27.0	0.0	27.0
+3	S	0.0	0.0	0.0
+4	N	31.8	0.0	31.8
+5	N	0.0	0.0	0.0
+6	F	65.1	7.8	72.9
+
+

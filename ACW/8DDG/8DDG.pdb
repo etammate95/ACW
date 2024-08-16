@@ -1,0 +1,313 @@
+HEADER    PROTEIN FIBRIL                          18-JUN-22   8DDG              
+TITLE     FYF PEPTIDE FORMS A STANDARD BETA-SHEET                               
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: PHE-TYR-PHE;                                               
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES;                                                      
+SOURCE   3 ORGANISM_SCIENTIFIC: SYNTHETIC CONSTRUCT;                            
+SOURCE   4 ORGANISM_TAXID: 32630                                                
+KEYWDS    RIPPLED BETA-SHEET, RACEMIC PEPTIDE, PROTEIN FIBRIL                   
+EXPDTA    ELECTRON CRYSTALLOGRAPHY                                              
+AUTHOR    M.R.SAWAYA,A.HAZARI,D.E.EISENBERG,N.W.VLAHAKIS                        
+REVDAT   1   28-SEP-22 8DDG    0                                                
+JRNL        AUTH   A.HAZARI,M.R.SAWAYA,N.VLAHAKIS,T.C.JOHNSTONE,D.BOYER,        
+JRNL        AUTH 2 J.RODRIGUEZ,D.EISENBERG,J.A.RASKATOV                         
+JRNL        TITL   THE RIPPLED BETA-SHEET LAYER CONFIGURATION-A NOVEL           
+JRNL        TITL 2 SUPRAMOLECULAR ARCHITECTURE BASED ON PREDICTIONS BY PAULING  
+JRNL        TITL 3 AND COREY.                                                   
+JRNL        REF    CHEM SCI                      V.  13  8947 2022              
+JRNL        REFN                   ISSN 2041-6520                               
+JRNL        PMID   36091211                                                     
+JRNL        DOI    10.1039/D2SC02531K                                           
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    0.90 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : PHENIX                                               
+REMARK   3   AUTHORS     : PAUL ADAMS,PAVEL AFONINE,VINCENT CHEN,IAN            
+REMARK   3               : DAVIS,KRESHNA GOPAL,RALF GROSSE-KUNSTLEVE,           
+REMARK   3               : LI-WEI HUNG,ROBERT IMMORMINO,TOM IOERGER,            
+REMARK   3               : AIRLIE MCCOY,ERIK MCKEE,NIGEL MORIARTY,              
+REMARK   3               : REETAL PAI,RANDY READ,JANE RICHARDSON,               
+REMARK   3               : DAVID RICHARDSON,TOD ROMO,JIM SACCHETTINI,           
+REMARK   3               : NICHOLAS SAUTER,JACOB SMITH,LAURENT                  
+REMARK   3               : STORONI,TOM TERWILLIGER,PETER ZWART                  
+REMARK   3                                                                      
+REMARK   3    REFINEMENT TARGET : GEOSTD + MONOMER LIBRARY + CDL V1.2           
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 0.90                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 5.78                           
+REMARK   3   MIN(FOBS/SIGMA_FOBS)              : 1.410                          
+REMARK   3   COMPLETENESS FOR RANGE        (%) : 71.2                           
+REMARK   3   NUMBER OF REFLECTIONS             : 1232                           
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   R VALUE     (WORKING + TEST SET) : 0.170                           
+REMARK   3   R VALUE            (WORKING SET) : 0.169                           
+REMARK   3   FREE R VALUE                     : 0.185                           
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) : 9.090                           
+REMARK   3   FREE R VALUE TEST SET COUNT      : 112                             
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT (IN BINS).                           
+REMARK   3   BIN  RESOLUTION RANGE  COMPL.    NWORK NFREE   RWORK  RFREE        
+REMARK   3     1  5.7800 -  0.9000    0.71     1120   112  0.1692 0.1851        
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELLING.                                             
+REMARK   3   METHOD USED        : FLAT BULK SOLVENT MODEL                       
+REMARK   3   SOLVENT RADIUS     : 1.10                                          
+REMARK   3   SHRINKAGE RADIUS   : 0.90                                          
+REMARK   3   K_SOL              : NULL                                          
+REMARK   3   B_SOL              : NULL                                          
+REMARK   3                                                                      
+REMARK   3  ERROR ESTIMATES.                                                    
+REMARK   3   COORDINATE ERROR (MAXIMUM-LIKELIHOOD BASED)     : 0.075            
+REMARK   3   PHASE ERROR (DEGREES, MAXIMUM-LIKELIHOOD BASED) : 27.609           
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : 6.87                           
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) : 3.26                           
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) : NULL                                                 
+REMARK   3    B22 (A**2) : NULL                                                 
+REMARK   3    B33 (A**2) : NULL                                                 
+REMARK   3    B12 (A**2) : NULL                                                 
+REMARK   3    B13 (A**2) : NULL                                                 
+REMARK   3    B23 (A**2) : NULL                                                 
+REMARK   3                                                                      
+REMARK   3  TWINNING INFORMATION.                                               
+REMARK   3   FRACTION: NULL                                                     
+REMARK   3   OPERATOR: NULL                                                     
+REMARK   3                                                                      
+REMARK   3  DEVIATIONS FROM IDEAL VALUES.                                       
+REMARK   3                 RMSD          COUNT                                  
+REMARK   3   BOND      :  0.020             37                                  
+REMARK   3   ANGLE     :  1.254             49                                  
+REMARK   3   CHIRALITY :  0.090              3                                  
+REMARK   3   PLANARITY :  0.008              6                                  
+REMARK   3   DIHEDRAL  : 19.201              4                                  
+REMARK   3                                                                      
+REMARK   3  TLS DETAILS                                                         
+REMARK   3   NUMBER OF TLS GROUPS  : NULL                                       
+REMARK   3                                                                      
+REMARK   3  NCS DETAILS                                                         
+REMARK   3   NUMBER OF NCS GROUPS : NULL                                        
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: NULL                                      
+REMARK   4                                                                      
+REMARK   4 8DDG COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 22-JUN-22.                  
+REMARK 100 THE DEPOSITION ID IS D_1000266472.                                   
+REMARK 240                                                                      
+REMARK 240 EXPERIMENTAL DETAILS                                                 
+REMARK 240   RECONSTRUCTION METHOD          : CRYSTALLOGRAPHY                   
+REMARK 240   SAMPLE TYPE                    : 3D ARRAY                          
+REMARK 240   SPECIMEN TYPE                  : NULL                              
+REMARK 240 DATA ACQUISITION                                                     
+REMARK 240   DATE OF DATA COLLECTION        : 14-DEC-21                         
+REMARK 240   TEMPERATURE           (KELVIN) : NULL                              
+REMARK 240   PH                             : NULL                              
+REMARK 240   NUMBER OF CRYSTALS USED        : NULL                              
+REMARK 240   MICROSCOPE MODEL               : FEI TECNAI F30                    
+REMARK 240   DETECTOR TYPE                  : TVIPS TEMCAM-F416 (4K X 4K)       
+REMARK 240   ACCELERATION VOLTAGE (KV)      : 300                               
+REMARK 240   NUMBER OF UNIQUE REFLECTIONS   : 1237                              
+REMARK 240   RESOLUTION RANGE HIGH      (A) : 0.900                             
+REMARK 240   RESOLUTION RANGE LOW       (A) : 18.920                            
+REMARK 240   DATA SCALING SOFTWARE          : XSCALE                            
+REMARK 240   COMPLETENESS FOR RANGE     (%) : 71.0                              
+REMARK 240   DATA REDUNDANCY                : 4.834                             
+REMARK 240 IN THE HIGHEST RESOLUTION SHELL                                      
+REMARK 240   HIGHEST RESOLUTION SHELL, RANGE HIGH (A) :0.90                     
+REMARK 240   HIGHEST RESOLUTION SHELL, RANGE LOW  (A) :1.00                     
+REMARK 240   COMPLETENESS FOR SHELL     (%) : 72.2                              
+REMARK 240   DATA REDUNDANCY IN SHELL       : 4.94                              
+REMARK 240   R MERGE FOR SHELL          (I) : 0.32200                           
+REMARK 240   METHOD USED TO DETERMINE THE STRUCTURE: FOURIER SYNTHESIS          
+REMARK 240   SOFTWARE USED                  : SHELXD                            
+REMARK 240   STARTING MODEL                 : NULL                              
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: C 1 2 1                          
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -X,Y,-Z                                                 
+REMARK 290       3555   X+1/2,Y+1/2,Z                                           
+REMARK 290       4555   -X+1/2,Y+1/2,-Z                                         
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   2  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   2  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1   3  1.000000  0.000000  0.000000       11.57000            
+REMARK 290   SMTRY2   3  0.000000  1.000000  0.000000        2.42000            
+REMARK 290   SMTRY3   3  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   4 -1.000000  0.000000  0.000000       11.57000            
+REMARK 290   SMTRY2   4  0.000000  1.000000  0.000000        2.42000            
+REMARK 290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: PENTAMERIC                        
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   2  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   2  0.000000  1.000000  0.000000       -4.84000            
+REMARK 350   BIOMT3   2  0.000000  0.000000  1.000000        0.00000            
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   3  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   3  0.000000  1.000000  0.000000        4.84000            
+REMARK 350   BIOMT3   3  0.000000  0.000000  1.000000        0.00000            
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   4  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   4  0.000000  1.000000  0.000000       -9.68000            
+REMARK 350   BIOMT3   4  0.000000  0.000000  1.000000        0.00000            
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   5  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   5  0.000000  1.000000  0.000000        9.68000            
+REMARK 350   BIOMT3   5  0.000000  0.000000  1.000000        0.00000            
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: 8DDH   RELATED DB: PDB                                   
+REMARK 900 RELATED ID: 8DDF   RELATED DB: PDB                                   
+DBREF  8DDG A   67    69  PDB    8DDG     8DDG            67     69             
+SEQRES   1 A    3  PHE TYR PHE                                                  
+CRYST1   23.140    4.840   19.790  90.00 107.05  90.00 C 1 2 1       4          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.043215  0.000000  0.013252        0.00000                         
+SCALE2      0.000000  0.206612  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.052853        0.00000                         
+ATOM      1  N   PHE A  67      11.803   3.940   5.910  1.00  3.25           N  
+ANISOU    1  N   PHE A  67      220    226    790     13    -82     11       N  
+ATOM      2  CA  PHE A  67      10.566   4.721   5.737  1.00  2.88           C  
+ANISOU    2  CA  PHE A  67      174    204    718     20    -65   -103       C  
+ATOM      3  C   PHE A  67       9.411   3.846   6.057  1.00  2.56           C  
+ANISOU    3  C   PHE A  67      153    163    656     10    -75     -2       C  
+ATOM      4  O   PHE A  67       9.529   2.642   6.197  1.00  3.33           O  
+ANISOU    4  O   PHE A  67      213    328    724    -62    -58     30       O  
+ATOM      5  CB  PHE A  67      10.427   5.204   4.302  1.00  3.09           C  
+ANISOU    5  CB  PHE A  67      205    312    658    -15    -89   -113       C  
+ATOM      6  CG  PHE A  67      10.166   4.124   3.321  1.00  2.90           C  
+ANISOU    6  CG  PHE A  67      212    268    621     78    -36    -21       C  
+ATOM      7  CD1 PHE A  67       8.883   3.631   3.108  1.00  2.85           C  
+ANISOU    7  CD1 PHE A  67      227    309    547     38    -58   -225       C  
+ATOM      8  CD2 PHE A  67      11.199   3.609   2.587  1.00  3.20           C  
+ANISOU    8  CD2 PHE A  67      182    436    597     35    -65     79       C  
+ATOM      9  CE1 PHE A  67       8.652   2.623   2.204  1.00  3.12           C  
+ANISOU    9  CE1 PHE A  67      322    401    461     11   -133    -66       C  
+ATOM     10  CE2 PHE A  67      10.968   2.625   1.669  1.00  3.67           C  
+ANISOU   10  CE2 PHE A  67      365    454    576    215     21    123       C  
+ATOM     11  CZ  PHE A  67       9.689   2.132   1.473  1.00  3.61           C  
+ANISOU   11  CZ  PHE A  67      424    456    492    143   -126    172       C  
+ATOM     12  H1  PHE A  67      12.498   4.417   5.622  1.00  3.98           H  
+ATOM     13  H2  PHE A  67      11.747   3.186   5.440  1.00  3.98           H  
+ATOM     14  H3  PHE A  67      11.914   3.746   6.771  1.00  3.98           H  
+ATOM     15  HA  PHE A  67      10.582   5.499   6.315  1.00  3.54           H  
+ATOM     16  HB2 PHE A  67       9.687   5.829   4.256  1.00  3.79           H  
+ATOM     17  HB3 PHE A  67      11.251   5.645   4.042  1.00  3.79           H  
+ATOM     18  HD1 PHE A  67       8.170   3.990   3.584  1.00  3.50           H  
+ATOM     19  HD2 PHE A  67      12.062   3.931   2.713  1.00  3.92           H  
+ATOM     20  HE1 PHE A  67       7.795   2.279   2.092  1.00  3.82           H  
+ATOM     21  HE2 PHE A  67      11.675   2.283   1.172  1.00  4.48           H  
+ATOM     22  HZ  PHE A  67       9.539   1.465   0.842  1.00  4.41           H  
+ATOM     23  N   TYR A  68       8.259   4.466   6.125  1.00  3.11           N  
+ANISOU   23  N   TYR A  68      194    216    772      4     -9    -28       N  
+ATOM     24  CA  TYR A  68       7.048   3.684   6.112  1.00  2.82           C  
+ANISOU   24  CA  TYR A  68      189    163    721     17    -75    -43       C  
+ATOM     25  C   TYR A  68       5.952   4.579   5.613  1.00  3.52           C  
+ANISOU   25  C   TYR A  68      218    398    722     68    -84     -9       C  
+ATOM     26  O   TYR A  68       6.110   5.793   5.505  1.00  2.69           O  
+ANISOU   26  O   TYR A  68      183    191    648     -3    -47    -82       O  
+ATOM     27  CB  TYR A  68       6.708   3.153   7.483  1.00  2.58           C  
+ANISOU   27  CB  TYR A  68      166    154    659      6     -4    -78       C  
+ATOM     28  CG  TYR A  68       6.178   4.139   8.455  1.00  2.67           C  
+ANISOU   28  CG  TYR A  68      181    275    557    -74    -11     20       C  
+ATOM     29  CD1 TYR A  68       7.012   5.066   9.063  1.00  2.98           C  
+ANISOU   29  CD1 TYR A  68      170    486    477      9   -113    -30       C  
+ATOM     30  CD2 TYR A  68       4.852   4.116   8.811  1.00  3.48           C  
+ANISOU   30  CD2 TYR A  68      213    510    601   -118      1   -102       C  
+ATOM     31  CE1 TYR A  68       6.529   5.935   9.982  1.00  3.02           C  
+ANISOU   31  CE1 TYR A  68      242    432    473    -63    -93     70       C  
+ATOM     32  CE2 TYR A  68       4.366   4.973   9.714  1.00  4.15           C  
+ANISOU   32  CE2 TYR A  68      265    707    604   -116      7   -235       C  
+ATOM     33  CZ  TYR A  68       5.201   5.890  10.300  1.00  3.31           C  
+ANISOU   33  CZ  TYR A  68      263    444    550   -105     23    -43       C  
+ATOM     34  OH  TYR A  68       4.695   6.750  11.224  1.00  3.65           O  
+ANISOU   34  OH  TYR A  68      379    433    576    -12     42      7       O  
+ATOM     35  H   TYR A  68       8.154   5.318   6.177  1.00  3.81           H  
+ATOM     36  HA  TYR A  68       7.154   2.927   5.516  1.00  3.47           H  
+ATOM     37  HB2 TYR A  68       6.034   2.462   7.381  1.00  3.17           H  
+ATOM     38  HB3 TYR A  68       7.514   2.776   7.870  1.00  3.17           H  
+ATOM     39  HD1 TYR A  68       7.914   5.090   8.837  1.00  3.66           H  
+ATOM     40  HD2 TYR A  68       4.283   3.494   8.417  1.00  4.26           H  
+ATOM     41  HE1 TYR A  68       7.092   6.553  10.390  1.00  3.70           H  
+ATOM     42  HE2 TYR A  68       3.465   4.948   9.945  1.00  5.06           H  
+ATOM     43  HH  TYR A  68       5.235   6.839  11.861  1.00  4.46           H  
+ATOM     44  N   PHE A  69       4.838   3.960   5.312  1.00  2.91           N  
+ANISOU   44  N   PHE A  69      192    176    737      1    -57    -61       N  
+ATOM     45  CA  PHE A  69       3.692   4.732   4.967  1.00  4.02           C  
+ANISOU   45  CA  PHE A  69      222    479    824      3    -51   -131       C  
+ATOM     46  C   PHE A  69       2.463   3.944   5.270  1.00  3.53           C  
+ANISOU   46  C   PHE A  69      222    288    830     18    -36   -150       C  
+ATOM     47  O   PHE A  69       1.404   4.347   4.819  1.00  4.56           O  
+ANISOU   47  O   PHE A  69      281    603    849     99   -113   -193       O  
+ATOM     48  CB  PHE A  69       3.735   5.159   3.519  1.00  3.67           C  
+ANISOU   48  CB  PHE A  69      238    402    754      9    -19   -326       C  
+ATOM     49  CG  PHE A  69       3.787   4.040   2.536  1.00  3.00           C  
+ANISOU   49  CG  PHE A  69      188    242    712     20    -41    -40       C  
+ATOM     50  CD1 PHE A  69       2.636   3.446   2.077  1.00  2.61           C  
+ANISOU   50  CD1 PHE A  69      183    223    584    -13    -95    -53       C  
+ATOM     51  CD2 PHE A  69       4.989   3.614   2.033  1.00  2.91           C  
+ANISOU   51  CD2 PHE A  69      184    258    663    -31     17     77       C  
+ATOM     52  CE1 PHE A  69       2.687   2.453   1.148  1.00  2.87           C  
+ANISOU   52  CE1 PHE A  69      195    299    596    -34   -118     39       C  
+ATOM     53  CE2 PHE A  69       5.037   2.619   1.101  1.00  3.58           C  
+ANISOU   53  CE2 PHE A  69      219    414    729    -77    -48    100       C  
+ATOM     54  CZ  PHE A  69       3.878   2.034   0.656  1.00  3.50           C  
+ANISOU   54  CZ  PHE A  69      246    468    618   -136   -103     20       C  
+ATOM     55  OXT PHE A  69       2.523   2.943   5.983  1.00  4.40           O  
+ANISOU   55  OXT PHE A  69      221    696    756    124     -8     15       O  
+ATOM     56  H   PHE A  69       4.730   3.107   5.302  1.00  3.57           H  
+ATOM     57  HA  PHE A  69       3.671   5.552   5.485  1.00  4.90           H  
+ATOM     58  HB2 PHE A  69       2.939   5.678   3.327  1.00  4.48           H  
+ATOM     59  HB3 PHE A  69       4.527   5.703   3.382  1.00  4.48           H  
+ATOM     60  HD1 PHE A  69       1.812   3.726   2.406  1.00  3.21           H  
+ATOM     61  HD2 PHE A  69       5.778   4.008   2.329  1.00  3.57           H  
+ATOM     62  HE1 PHE A  69       1.899   2.059   0.849  1.00  3.52           H  
+ATOM     63  HE2 PHE A  69       5.858   2.337   0.766  1.00  4.38           H  
+ATOM     64  HZ  PHE A  69       3.910   1.355   0.022  1.00  4.28           H  
+TER      65      PHE A  69                                                      
+MASTER      179    0    0    0    0    0    0    6   35    1    0    1          
+END                                                                             

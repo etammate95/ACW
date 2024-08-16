@@ -1,0 +1,51 @@
+Evaluation of 6DIY
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2T4G)+(2T4G)
+Sc: 0.92
+B.Area: 114.1
+SDi: 1.38
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	Y	0.0	11.8	11.8
+2	T	60.4	0.0	60.4
+3	F	0.0	1.5	1.5
+4	G	19.2	5.0	24.2
+5	Q	0.0	16.8	16.8
+1	Y	0.0	12.0	12.0
+2	T	60.2	0.0	60.2
+3	F	0.0	1.5	1.5
+4	G	19.0	4.8	23.8
+5	Q	0.0	16.2	16.2
+
+
+Interface 2
+Sheets: 1+24
+Sidechains: (1Y3F)+(1Y3F)
+Sc: 0.81
+B.Area: 89.0
+SDi: 1.58
+Class: 1
+
+Buried area details:
+Sheets: 1+24
+residue	type	s.ch.	b.b.	total
+1	Y	60.8	0.0	60.8
+2	T	0.0	0.0	0.0
+3	F	28.5	0.0	28.5
+4	G	0.0	0.0	0.0
+5	Q	0.0	0.0	0.0
+1	Y	59.7	0.0	59.7
+2	T	0.0	0.0	0.0
+3	F	28.9	0.0	28.9
+4	G	0.0	0.0	0.0
+5	Q	0.0	0.0	0.0
+
+

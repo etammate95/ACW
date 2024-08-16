@@ -1,0 +1,217 @@
+HETATM    1  O   HOH X   7       9.871   0.948  -9.447  1.00  6.13           O  
+ANISOU    1  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM    2  O   HOH X   7     -15.999  -3.882  26.070  1.00  6.13           O  
+ANISOU    2  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM    3  O   HOH X   7     -10.979  -0.948  31.282  1.00  6.13           O  
+ANISOU    3  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM    4  O   HOH X   7     -34.669   1.467  41.853  1.00  6.13           O  
+ANISOU    4  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM    5  O   HOH X   7     -15.964  -6.297   7.348  1.00  6.13           O  
+ANISOU    5  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM    6  O   HOH X   7      -3.814  -3.882  30.269  1.00  6.13           O  
+ANISOU    6  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM    7  O   HOH X   7       1.206  -0.948  35.480  1.00  6.13           O  
+ANISOU    7  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM    8  O   HOH X   7     -22.484   1.467  46.051  1.00  6.13           O  
+ANISOU    8  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM    9  O   HOH X   7      -3.779  -6.297  11.547  1.00  6.13           O  
+ANISOU    9  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   10  O   HOH X   7       8.371  -3.882  34.467  1.00  6.13           O  
+ANISOU   10  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   11  O   HOH X   7      13.391  -0.948  39.679  1.00  6.13           O  
+ANISOU   11  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   12  O   HOH X   7     -10.300   1.467  50.250  1.00  6.13           O  
+ANISOU   12  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   13  O   HOH X   7       8.406  -6.297  15.746  1.00  6.13           O  
+ANISOU   13  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   14  O   HOH X   7     -15.999   0.948  26.070  1.00  6.13           O  
+ANISOU   14  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   15  O   HOH X   7     -10.979   3.882  31.282  1.00  6.13           O  
+ANISOU   15  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   16  O   HOH X   7     -34.669   6.297  41.853  1.00  6.13           O  
+ANISOU   16  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   17  O   HOH X   7     -15.964  -1.467   7.348  1.00  6.13           O  
+ANISOU   17  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   18  O   HOH X   7      -3.814   0.948  30.269  1.00  6.13           O  
+ANISOU   18  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   19  O   HOH X   7       1.206   3.882  35.480  1.00  6.13           O  
+ANISOU   19  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   20  O   HOH X   7     -22.484   6.297  46.051  1.00  6.13           O  
+ANISOU   20  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   21  O   HOH X   7      -3.779  -1.467  11.547  1.00  6.13           O  
+ANISOU   21  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   22  O   HOH X   7       8.371   0.948  34.467  1.00  6.13           O  
+ANISOU   22  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   23  O   HOH X   7      13.391   3.882  39.679  1.00  6.13           O  
+ANISOU   23  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   24  O   HOH X   7     -10.300   6.297  50.250  1.00  6.13           O  
+ANISOU   24  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   25  O   HOH X   7       8.406  -1.467  15.746  1.00  6.13           O  
+ANISOU   25  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   26  O   HOH X   7     -15.999   5.778  26.070  1.00  6.13           O  
+ANISOU   26  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   27  O   HOH X   7     -10.979   8.712  31.282  1.00  6.13           O  
+ANISOU   27  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   28  O   HOH X   7     -34.669  11.127  41.853  1.00  6.13           O  
+ANISOU   28  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   29  O   HOH X   7     -15.964   3.363   7.348  1.00  6.13           O  
+ANISOU   29  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   30  O   HOH X   7      -3.814   5.778  30.269  1.00  6.13           O  
+ANISOU   30  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   31  O   HOH X   7       1.206   8.712  35.480  1.00  6.13           O  
+ANISOU   31  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   32  O   HOH X   7     -22.484  11.127  46.051  1.00  6.13           O  
+ANISOU   32  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   33  O   HOH X   7      -3.779   3.363  11.547  1.00  6.13           O  
+ANISOU   33  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   34  O   HOH X   7       8.371   5.778  34.467  1.00  6.13           O  
+ANISOU   34  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   35  O   HOH X   7      13.391   8.712  39.679  1.00  6.13           O  
+ANISOU   35  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   36  O   HOH X   7     -10.300  11.127  50.250  1.00  6.13           O  
+ANISOU   36  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   37  O   HOH X   7       8.406   3.363  15.746  1.00  6.13           O  
+ANISOU   37  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   38  O   HOH X   7      -2.314  -3.882 -13.646  1.00  6.13           O  
+ANISOU   38  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   39  O   HOH X   7       2.706  -0.948  -8.434  1.00  6.13           O  
+ANISOU   39  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   40  O   HOH X   7     -20.984   1.467   2.136  1.00  6.13           O  
+ANISOU   40  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   41  O   HOH X   7      -2.278  -6.297 -32.368  1.00  6.13           O  
+ANISOU   41  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   42  O   HOH X   7       9.871  -3.882  -9.447  1.00  6.13           O  
+ANISOU   42  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   43  O   HOH X   7      14.891  -0.948  -4.236  1.00  6.13           O  
+ANISOU   43  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   44  O   HOH X   7      -8.799   1.467   6.335  1.00  6.13           O  
+ANISOU   44  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   45  O   HOH X   7       9.907  -6.297 -28.169  1.00  6.13           O  
+ANISOU   45  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   46  O   HOH X   7      22.056  -3.882  -5.249  1.00  6.13           O  
+ANISOU   46  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   47  O   HOH X   7      27.076  -0.948  -0.037  1.00  6.13           O  
+ANISOU   47  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   48  O   HOH X   7       3.386   1.467  10.534  1.00  6.13           O  
+ANISOU   48  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   49  O   HOH X   7      22.091  -6.297 -23.971  1.00  6.13           O  
+ANISOU   49  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   50  O   HOH X   7      -2.314   0.948 -13.646  1.00  6.13           O  
+ANISOU   50  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   51  O   HOH X   7       2.706   3.882  -8.434  1.00  6.13           O  
+ANISOU   51  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   52  O   HOH X   7     -20.984   6.297   2.136  1.00  6.13           O  
+ANISOU   52  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   53  O   HOH X   7      -2.278  -1.467 -32.368  1.00  6.13           O  
+ANISOU   53  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   54  O   HOH X   7      14.891   3.882  -4.236  1.00  6.13           O  
+ANISOU   54  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   55  O   HOH X   7      -8.799   6.297   6.335  1.00  6.13           O  
+ANISOU   55  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   56  O   HOH X   7       9.907  -1.467 -28.169  1.00  6.13           O  
+ANISOU   56  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   57  O   HOH X   7      22.056   0.948  -5.249  1.00  6.13           O  
+ANISOU   57  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   58  O   HOH X   7      27.076   3.882  -0.037  1.00  6.13           O  
+ANISOU   58  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   59  O   HOH X   7       3.386   6.297  10.534  1.00  6.13           O  
+ANISOU   59  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   60  O   HOH X   7      22.091  -1.467 -23.971  1.00  6.13           O  
+ANISOU   60  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   61  O   HOH X   7      -2.314   5.778 -13.646  1.00  6.13           O  
+ANISOU   61  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   62  O   HOH X   7       2.706   8.712  -8.434  1.00  6.13           O  
+ANISOU   62  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   63  O   HOH X   7     -20.984  11.127   2.136  1.00  6.13           O  
+ANISOU   63  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   64  O   HOH X   7      -2.278   3.363 -32.368  1.00  6.13           O  
+ANISOU   64  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   65  O   HOH X   7       9.871   5.778  -9.447  1.00  6.13           O  
+ANISOU   65  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   66  O   HOH X   7      14.891   8.712  -4.236  1.00  6.13           O  
+ANISOU   66  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   67  O   HOH X   7      -8.799  11.127   6.335  1.00  6.13           O  
+ANISOU   67  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   68  O   HOH X   7       9.907   3.363 -28.169  1.00  6.13           O  
+ANISOU   68  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   69  O   HOH X   7      22.056   5.778  -5.249  1.00  6.13           O  
+ANISOU   69  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   70  O   HOH X   7      27.076   8.712  -0.037  1.00  6.13           O  
+ANISOU   70  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   71  O   HOH X   7       3.386  11.127  10.534  1.00  6.13           O  
+ANISOU   71  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   72  O   HOH X   7      22.091   3.363 -23.971  1.00  6.13           O  
+ANISOU   72  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   73  O   HOH X   7      11.372  -3.882 -53.362  1.00  6.13           O  
+ANISOU   73  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   74  O   HOH X   7      16.392  -0.948 -48.151  1.00  6.13           O  
+ANISOU   74  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   75  O   HOH X   7      -7.298   1.467 -37.580  1.00  6.13           O  
+ANISOU   75  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   76  O   HOH X   7      11.407  -6.297 -72.084  1.00  6.13           O  
+ANISOU   76  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   77  O   HOH X   7      23.557  -3.882 -49.164  1.00  6.13           O  
+ANISOU   77  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   78  O   HOH X   7      28.577  -0.948 -43.952  1.00  6.13           O  
+ANISOU   78  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   79  O   HOH X   7       4.887   1.467 -33.381  1.00  6.13           O  
+ANISOU   79  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   80  O   HOH X   7      23.592  -6.297 -67.886  1.00  6.13           O  
+ANISOU   80  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   81  O   HOH X   7      35.742  -3.882 -44.965  1.00  6.13           O  
+ANISOU   81  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   82  O   HOH X   7      40.762  -0.948 -39.753  1.00  6.13           O  
+ANISOU   82  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   83  O   HOH X   7      17.072   1.467 -29.182  1.00  6.13           O  
+ANISOU   83  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   84  O   HOH X   7      35.777  -6.297 -63.687  1.00  6.13           O  
+ANISOU   84  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   85  O   HOH X   7      11.372   0.948 -53.362  1.00  6.13           O  
+ANISOU   85  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   86  O   HOH X   7      16.392   3.882 -48.151  1.00  6.13           O  
+ANISOU   86  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   87  O   HOH X   7      -7.298   6.297 -37.580  1.00  6.13           O  
+ANISOU   87  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   88  O   HOH X   7      11.407  -1.467 -72.084  1.00  6.13           O  
+ANISOU   88  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   89  O   HOH X   7      23.557   0.948 -49.164  1.00  6.13           O  
+ANISOU   89  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   90  O   HOH X   7      28.577   3.882 -43.952  1.00  6.13           O  
+ANISOU   90  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   91  O   HOH X   7       4.887   6.297 -33.381  1.00  6.13           O  
+ANISOU   91  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   92  O   HOH X   7      23.592  -1.467 -67.886  1.00  6.13           O  
+ANISOU   92  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   93  O   HOH X   7      35.742   0.948 -44.965  1.00  6.13           O  
+ANISOU   93  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   94  O   HOH X   7      40.762   3.882 -39.753  1.00  6.13           O  
+ANISOU   94  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   95  O   HOH X   7      17.072   6.297 -29.182  1.00  6.13           O  
+ANISOU   95  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   96  O   HOH X   7      35.777  -1.467 -63.687  1.00  6.13           O  
+ANISOU   96  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   97  O   HOH X   7      11.372   5.778 -53.362  1.00  6.13           O  
+ANISOU   97  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   98  O   HOH X   7      16.392   8.712 -48.151  1.00  6.13           O  
+ANISOU   98  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM   99  O   HOH X   7      -7.298  11.127 -37.580  1.00  6.13           O  
+ANISOU   99  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  100  O   HOH X   7      11.407   3.363 -72.084  1.00  6.13           O  
+ANISOU  100  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  101  O   HOH X   7      23.557   5.778 -49.164  1.00  6.13           O  
+ANISOU  101  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  102  O   HOH X   7      28.577   8.712 -43.952  1.00  6.13           O  
+ANISOU  102  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  103  O   HOH X   7       4.887  11.127 -33.381  1.00  6.13           O  
+ANISOU  103  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  104  O   HOH X   7      23.592   3.363 -67.886  1.00  6.13           O  
+ANISOU  104  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  105  O   HOH X   7      35.742   5.778 -44.965  1.00  6.13           O  
+ANISOU  105  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  106  O   HOH X   7      40.762   8.712 -39.753  1.00  6.13           O  
+ANISOU  106  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  107  O   HOH X   7      17.072  11.127 -29.182  1.00  6.13           O  
+ANISOU  107  O   HOH X   7      781    789    756     -3     20    -14       O  
+HETATM  108  O   HOH X   7      35.777   3.363 -63.687  1.00  6.13           O  
+ANISOU  108  O   HOH X   7      781    789    756     -3     20    -14       O  
+END

@@ -1,0 +1,49 @@
+Evaluation of 4NIN
+Main class is 2
+Packing is 2D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+8, 11+1
+Sidechains: (1D3V5S)+(2S4I6L)
+Sc: 0.77
+B.Area: 138.1
+SDi: 1.72
+Class: 2
+
+Buried area details:
+Sheets: 1+8
+residue	type	s.ch.	b.b.	total
+1	D	57.2	1.4	58.6
+2	S	0.0	3.5	3.5
+3	V	53.8	0.0	53.8
+4	I	0.0	0.0	0.0
+5	S	19.0	0.0	19.0
+6	L	0.0	0.0	0.0
+7	S	0.0	0.0	0.0
+1	D	0.0	0.0	0.0
+2	S	24.1	0.0	24.1
+3	V	0.0	1.3	1.3
+4	I	63.9	0.0	63.9
+5	S	0.0	0.0	0.0
+6	L	51.8	0.0	51.8
+7	S	0.0	0.0	0.0
+
+Sheets: 11+1
+residue	type	s.ch.	b.b.	total
+1	D	57.2	1.4	58.6
+2	S	0.0	3.4	3.4
+3	V	53.8	0.0	53.8
+4	I	0.0	0.0	0.0
+5	S	19.0	0.0	19.0
+6	L	0.0	0.0	0.0
+7	S	0.0	0.0	0.0
+1	D	0.0	0.0	0.0
+2	S	24.3	0.0	24.3
+3	V	0.0	1.3	1.3
+4	I	63.9	0.0	63.9
+5	S	0.0	0.0	0.0
+6	L	51.8	0.0	51.8
+7	S	0.0	0.0	0.0
+
+

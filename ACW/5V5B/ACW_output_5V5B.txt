@@ -1,0 +1,71 @@
+Evaluation of 5V5B
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+10
+Sidechains: (2V4I6N)+(2V4I6N)
+Sc: 0.78
+B.Area: 169.1
+SDi: 1.51
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	K	0.0	0.0	0.0
+2	V	68.2	1.7	69.9
+3	Q	0.0	4.1	4.1
+4	I	67.5	0.2	67.7
+5	I	0.0	0.0	0.0
+6	N	22.4	0.0	22.4
+7	K	0.0	0.0	0.0
+8	K	4.8	0.0	4.8
+9	L	0.0	0.0	0.0
+10	D	0.0	0.0	0.0
+1	K	0.0	0.0	0.0
+2	V	68.1	1.0	69.1
+3	Q	0.0	3.8	3.8
+4	I	68.2	0.3	68.5
+5	I	0.0	0.0	0.0
+6	N	22.8	0.0	22.8
+7	K	0.0	0.0	0.0
+8	K	5.0	0.0	5.0
+9	L	0.0	0.0	0.0
+10	D	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+18
+Sidechains: (7K9L)+(7K9L)
+Sc: 0.82
+B.Area: 166.5
+SDi: 1.76
+Class: 1
+
+Buried area details:
+Sheets: 1+18
+residue	type	s.ch.	b.b.	total
+1	K	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	Q	0.0	0.0	0.0
+4	I	0.0	0.0	0.0
+5	I	0.0	0.0	0.0
+6	N	0.0	0.0	0.0
+7	K	55.1	2.8	57.9
+8	K	0.0	5.0	5.0
+9	L	78.0	0.5	78.5
+10	D	0.0	25.8	25.8
+1	K	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	Q	0.0	0.0	0.0
+4	I	0.0	0.0	0.0
+5	I	0.0	0.0	0.0
+6	N	0.0	0.0	0.0
+7	K	54.6	2.5	57.1
+8	K	0.0	5.6	5.6
+9	L	77.3	0.3	77.6
+10	D	0.0	25.3	25.3
+
+

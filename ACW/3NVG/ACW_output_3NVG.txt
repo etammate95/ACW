@@ -1,0 +1,55 @@
+Evaluation of 3NVG
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (4F5G6N)+(4F5G6N)
+Sc: 0.86
+B.Area: 91.0
+SDi: 1.59
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	M	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	H	0.0	0.0	0.0
+4	F	16.5	4.1	20.6
+5	G	19.2	4.5	23.7
+6	N	46.0	0.0	46.0
+1	M	0.0	0.0	0.0
+2	I	0.0	0.0	0.0
+3	H	0.0	0.0	0.0
+4	F	17.2	4.5	21.7
+5	G	19.5	4.4	23.9
+6	N	46.1	0.0	46.1
+
+
+Interface 2
+Sheets: 1+9
+Sidechains: (2I4F)+(2I4F)
+Sc: 0.88
+B.Area: 65.2
+SDi: 1.7
+Class: 1
+
+Buried area details:
+Sheets: 1+9
+residue	type	s.ch.	b.b.	total
+1	M	0.0	0.0	0.0
+2	I	51.4	0.0	51.4
+3	H	0.0	0.0	0.0
+4	F	13.7	0.0	13.7
+5	G	0.0	0.0	0.0
+6	N	0.0	0.0	0.0
+1	M	0.0	0.0	0.0
+2	I	52.6	0.0	52.6
+3	H	0.0	0.0	0.0
+4	F	12.7	0.0	12.7
+5	G	0.0	0.0	0.0
+6	N	0.0	0.0	0.0
+
+

@@ -1,0 +1,45 @@
+Evaluation of 5E5X
+Main class is 2
+Packing is 2D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 8+1, 1+11
+Sidechains: (1A3F5V)+(2N4L6H)
+Sc: 0.79
+B.Area: 159.2
+SDi: 1.64
+Class: 2
+
+Buried area details:
+Sheets: 8+1
+residue	type	s.ch.	b.b.	total
+1	A	18.4	0.7	19.1
+2	N	0.0	0.0	0.0
+3	F	66.2	0.2	66.4
+4	L	0.0	1.2	1.2
+5	V	60.6	0.0	60.6
+6	H	0.0	12.2	12.2
+1	A	0.0	0.0	0.0
+2	N	46.4	0.5	46.9
+3	F	0.0	5.8	5.8
+4	L	66.0	0.0	66.0
+5	V	0.0	0.0	0.0
+6	H	40.1	0.0	40.1
+
+Sheets: 1+11
+residue	type	s.ch.	b.b.	total
+1	A	18.4	0.7	19.1
+2	N	0.0	0.0	0.0
+3	F	66.2	0.2	66.4
+4	L	0.0	1.2	1.2
+5	V	60.6	0.0	60.6
+6	H	0.0	12.2	12.2
+1	A	0.0	0.0	0.0
+2	N	46.4	0.5	46.9
+3	F	0.0	5.8	5.8
+4	L	66.0	0.0	66.0
+5	V	0.0	0.0	0.0
+6	H	40.1	0.0	40.1
+
+

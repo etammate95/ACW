@@ -1,0 +1,24 @@
+Evaluation of 8DDG
+Main class is 1
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+17
+Sidechains: (1F3F)+(1F3F)
+Sc: 0.93
+B.Area: 78.0
+SDi: 1.55
+Class: 1
+
+Buried area details:
+Sheets: 1+17
+residue	type	s.ch.	b.b.	total
+1	F	26.0	0.0	26.0
+2	Y	0.0	0.0	0.0
+3	F	52.3	0.0	52.3
+1	F	25.6	0.0	25.6
+2	Y	0.0	0.0	0.0
+3	F	52.1	0.0	52.1
+
+

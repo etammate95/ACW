@@ -1,0 +1,352 @@
+HETATM    1  C   ACT A 101      -2.070  -0.354  33.700  1.00  3.43           C  
+HETATM    2  O   ACT A 101      -2.891   0.318  34.374  1.00  3.73           O  
+HETATM    3  CH3 ACT A 101      -0.951   0.239  32.916  1.00  3.65           C  
+HETATM    4  OXT ACT A 101      -2.095  -1.628  33.596  1.00  3.42           O  
+HETATM    5 ZN    ZN A 102      -3.314   2.214  34.867  1.00  2.89          ZN  
+HETATM    6  O   HOH A 201      -0.402   4.902  29.312  1.00 10.09           O  
+HETATM    7  O   HOH A 202      -8.892   1.321  15.694  1.00  7.01           O  
+HETATM    8  O   HOH A 203     -11.411   1.333  17.500  1.00 11.29           O  
+HETATM    9  C   ACT A 101      -5.228  -8.231  10.377  1.00  3.43           C  
+HETATM   10  O   ACT A 101      -6.049  -7.559  11.051  1.00  3.73           O  
+HETATM   11  CH3 ACT A 101      -4.109  -7.638   9.593  1.00  3.65           C  
+HETATM   12  OXT ACT A 101      -5.253  -9.505  10.274  1.00  3.42           O  
+HETATM   13 ZN    ZN A 102      -6.472  -5.663  11.544  1.00  2.89          ZN  
+HETATM   14  O   HOH A 201      -3.560  -2.975   5.990  1.00 10.09           O  
+HETATM   15  O   HOH A 202     -12.050  -6.556  -7.629  1.00  7.01           O  
+HETATM   16  O   HOH A 203     -14.569  -6.544  -5.822  1.00 11.29           O  
+HETATM   17  C   ACT A 101       6.940  -6.977  22.934  1.00  3.43           C  
+HETATM   18  O   ACT A 101       6.119  -6.305  23.608  1.00  3.73           O  
+HETATM   19  CH3 ACT A 101       8.059  -6.384  22.150  1.00  3.65           C  
+HETATM   20  OXT ACT A 101       6.914  -8.251  22.831  1.00  3.42           O  
+HETATM   21 ZN    ZN A 102       5.696  -4.409  24.101  1.00  2.89          ZN  
+HETATM   22  O   HOH A 201       8.608  -1.721  18.546  1.00 10.09           O  
+HETATM   23  O   HOH A 202       0.118  -5.302   4.928  1.00  7.01           O  
+HETATM   24  O   HOH A 203      -2.401  -5.290   6.735  1.00 11.29           O  
+HETATM   25  C   ACT A 101      19.108  -5.724  35.491  1.00  3.43           C  
+HETATM   26  O   ACT A 101      18.287  -5.052  36.165  1.00  3.73           O  
+HETATM   27  CH3 ACT A 101      20.226  -5.131  34.707  1.00  3.65           C  
+HETATM   28  OXT ACT A 101      19.082  -6.998  35.387  1.00  3.42           O  
+HETATM   29 ZN    ZN A 102      17.864  -3.156  36.658  1.00  2.89          ZN  
+HETATM   30  O   HOH A 201      20.775  -0.468  31.103  1.00 10.09           O  
+HETATM   31  O   HOH A 202      12.285  -4.049  17.485  1.00  7.01           O  
+HETATM   32  O   HOH A 203       9.767  -4.037  19.292  1.00 11.29           O  
+HETATM   33  C   ACT A 101     -14.238  -6.457  21.143  1.00  3.43           C  
+HETATM   34  O   ACT A 101     -15.059  -5.785  21.817  1.00  3.73           O  
+HETATM   35  CH3 ACT A 101     -13.119  -5.864  20.359  1.00  3.65           C  
+HETATM   36  OXT ACT A 101     -14.263  -7.731  21.039  1.00  3.42           O  
+HETATM   37 ZN    ZN A 102     -15.481  -3.889  22.310  1.00  2.89          ZN  
+HETATM   38  O   HOH A 201     -12.570  -1.201  16.755  1.00 10.09           O  
+HETATM   39  O   HOH A 202     -21.060  -4.782   3.137  1.00  7.01           O  
+HETATM   40  O   HOH A 203     -23.578  -4.770   4.943  1.00 11.29           O  
+HETATM   41  C   ACT A 101      -2.070  -5.204  33.700  1.00  3.43           C  
+HETATM   42  O   ACT A 101      -2.891  -4.532  34.374  1.00  3.73           O  
+HETATM   43  CH3 ACT A 101      -0.951  -4.611  32.916  1.00  3.65           C  
+HETATM   44  OXT ACT A 101      -2.095  -6.478  33.596  1.00  3.42           O  
+HETATM   45 ZN    ZN A 102      -3.314  -2.636  34.867  1.00  2.89          ZN  
+HETATM   46  O   HOH A 201      -0.402   0.052  29.312  1.00 10.09           O  
+HETATM   47  O   HOH A 202      -8.892  -3.529  15.694  1.00  7.01           O  
+HETATM   48  O   HOH A 203     -11.411  -3.517  17.500  1.00 11.29           O  
+HETATM   49  C   ACT A 101      10.098  -3.951  46.257  1.00  3.43           C  
+HETATM   50  O   ACT A 101       9.277  -3.279  46.931  1.00  3.73           O  
+HETATM   51  CH3 ACT A 101      11.217  -3.358  45.473  1.00  3.65           C  
+HETATM   52  OXT ACT A 101      10.072  -5.225  46.153  1.00  3.42           O  
+HETATM   53 ZN    ZN A 102       8.854  -1.383  47.423  1.00  2.89          ZN  
+HETATM   54  O   HOH A 201      11.766   1.305  41.869  1.00 10.09           O  
+HETATM   55  O   HOH A 202       3.276  -2.276  28.251  1.00  7.01           O  
+HETATM   56  O   HOH A 203       0.757  -2.264  30.057  1.00 11.29           O  
+HETATM   57  C   ACT A 101     -23.247  -4.684  31.909  1.00  3.43           C  
+HETATM   58  O   ACT A 101     -24.068  -4.012  32.583  1.00  3.73           O  
+HETATM   59  CH3 ACT A 101     -22.129  -4.091  31.125  1.00  3.65           C  
+HETATM   60  OXT ACT A 101     -23.273  -5.958  31.805  1.00  3.42           O  
+HETATM   61 ZN    ZN A 102     -24.491  -2.116  33.075  1.00  2.89          ZN  
+HETATM   62  O   HOH A 201     -21.580   0.572  27.521  1.00 10.09           O  
+HETATM   63  O   HOH A 202     -30.070  -3.009  13.902  1.00  7.01           O  
+HETATM   64  O   HOH A 203     -32.588  -2.997  15.709  1.00 11.29           O  
+HETATM   65  C   ACT A 101     -11.080  -3.431  44.466  1.00  3.43           C  
+HETATM   66  O   ACT A 101     -11.901  -2.759  45.140  1.00  3.73           O  
+HETATM   67  CH3 ACT A 101      -9.961  -2.838  43.682  1.00  3.65           C  
+HETATM   68  OXT ACT A 101     -11.105  -4.705  44.362  1.00  3.42           O  
+HETATM   69 ZN    ZN A 102     -12.323  -0.863  45.632  1.00  2.89          ZN  
+HETATM   70  O   HOH A 201      -9.412   1.825  40.078  1.00 10.09           O  
+HETATM   71  O   HOH A 202     -17.902  -1.756  26.459  1.00  7.01           O  
+HETATM   72  O   HOH A 203     -20.421  -1.744  28.266  1.00 11.29           O  
+HETATM   73  C   ACT A 101       1.088  -2.177  57.022  1.00  3.43           C  
+HETATM   74  O   ACT A 101       0.267  -1.505  57.697  1.00  3.73           O  
+HETATM   75  CH3 ACT A 101       2.207  -1.584  56.239  1.00  3.65           C  
+HETATM   76  OXT ACT A 101       1.063  -3.451  56.919  1.00  3.42           O  
+HETATM   77 ZN    ZN A 102      -0.156   0.391  58.189  1.00  2.89          ZN  
+HETATM   78  O   HOH A 201       2.756   3.079  52.635  1.00 10.09           O  
+HETATM   79  O   HOH A 202      -5.734  -0.502  39.016  1.00  7.01           O  
+HETATM   80  O   HOH A 203      -8.253  -0.490  40.823  1.00 11.29           O  
+HETATM   81  C   ACT A 101      -5.228  -3.381  10.377  1.00  3.43           C  
+HETATM   82  O   ACT A 101      -6.049  -2.709  11.051  1.00  3.73           O  
+HETATM   83  CH3 ACT A 101      -4.109  -2.788   9.593  1.00  3.65           C  
+HETATM   84  OXT ACT A 101      -5.253  -4.655  10.274  1.00  3.42           O  
+HETATM   85 ZN    ZN A 102      -6.472  -0.813  11.544  1.00  2.89          ZN  
+HETATM   86  O   HOH A 201      -3.560   1.875   5.990  1.00 10.09           O  
+HETATM   87  O   HOH A 202     -12.050  -1.706  -7.629  1.00  7.01           O  
+HETATM   88  O   HOH A 203     -14.569  -1.694  -5.822  1.00 11.29           O  
+HETATM   89  C   ACT A 101       6.940  -2.127  22.934  1.00  3.43           C  
+HETATM   90  O   ACT A 101       6.119  -1.455  23.608  1.00  3.73           O  
+HETATM   91  CH3 ACT A 101       8.059  -1.534  22.150  1.00  3.65           C  
+HETATM   92  OXT ACT A 101       6.914  -3.401  22.831  1.00  3.42           O  
+HETATM   93 ZN    ZN A 102       5.696   0.441  24.101  1.00  2.89          ZN  
+HETATM   94  O   HOH A 201       8.608   3.129  18.546  1.00 10.09           O  
+HETATM   95  O   HOH A 202       0.118  -0.452   4.928  1.00  7.01           O  
+HETATM   96  O   HOH A 203      -2.401  -0.440   6.735  1.00 11.29           O  
+HETATM   97  C   ACT A 101      19.108  -0.874  35.491  1.00  3.43           C  
+HETATM   98  O   ACT A 101      18.287  -0.202  36.165  1.00  3.73           O  
+HETATM   99  CH3 ACT A 101      20.226  -0.281  34.707  1.00  3.65           C  
+HETATM  100  OXT ACT A 101      19.082  -2.148  35.387  1.00  3.42           O  
+HETATM  101 ZN    ZN A 102      17.864   1.694  36.658  1.00  2.89          ZN  
+HETATM  102  O   HOH A 201      20.775   4.382  31.103  1.00 10.09           O  
+HETATM  103  O   HOH A 202      12.285   0.801  17.485  1.00  7.01           O  
+HETATM  104  O   HOH A 203       9.767   0.813  19.292  1.00 11.29           O  
+HETATM  105  C   ACT A 101     -14.238  -1.607  21.143  1.00  3.43           C  
+HETATM  106  O   ACT A 101     -15.059  -0.935  21.817  1.00  3.73           O  
+HETATM  107  CH3 ACT A 101     -13.119  -1.014  20.359  1.00  3.65           C  
+HETATM  108  OXT ACT A 101     -14.263  -2.881  21.039  1.00  3.42           O  
+HETATM  109 ZN    ZN A 102     -15.481   0.961  22.310  1.00  2.89          ZN  
+HETATM  110  O   HOH A 201     -12.570   3.649  16.755  1.00 10.09           O  
+HETATM  111  O   HOH A 202     -21.060   0.068   3.137  1.00  7.01           O  
+HETATM  112  O   HOH A 203     -23.578   0.080   4.943  1.00 11.29           O  
+HETATM  113  C   ACT A 101      10.098   0.899  46.257  1.00  3.43           C  
+HETATM  114  O   ACT A 101       9.277   1.571  46.931  1.00  3.73           O  
+HETATM  115  CH3 ACT A 101      11.217   1.492  45.473  1.00  3.65           C  
+HETATM  116  OXT ACT A 101      10.072  -0.375  46.153  1.00  3.42           O  
+HETATM  117 ZN    ZN A 102       8.854   3.467  47.423  1.00  2.89          ZN  
+HETATM  118  O   HOH A 201      11.766   6.155  41.869  1.00 10.09           O  
+HETATM  119  O   HOH A 202       3.276   2.574  28.251  1.00  7.01           O  
+HETATM  120  O   HOH A 203       0.757   2.586  30.057  1.00 11.29           O  
+HETATM  121  C   ACT A 101     -23.247   0.166  31.909  1.00  3.43           C  
+HETATM  122  O   ACT A 101     -24.068   0.838  32.583  1.00  3.73           O  
+HETATM  123  CH3 ACT A 101     -22.129   0.759  31.125  1.00  3.65           C  
+HETATM  124  OXT ACT A 101     -23.273  -1.108  31.805  1.00  3.42           O  
+HETATM  125 ZN    ZN A 102     -24.491   2.734  33.075  1.00  2.89          ZN  
+HETATM  126  O   HOH A 201     -21.580   5.422  27.521  1.00 10.09           O  
+HETATM  127  O   HOH A 202     -30.070   1.841  13.902  1.00  7.01           O  
+HETATM  128  O   HOH A 203     -32.588   1.853  15.709  1.00 11.29           O  
+HETATM  129  C   ACT A 101     -11.080   1.419  44.466  1.00  3.43           C  
+HETATM  130  O   ACT A 101     -11.901   2.091  45.140  1.00  3.73           O  
+HETATM  131  CH3 ACT A 101      -9.961   2.012  43.682  1.00  3.65           C  
+HETATM  132  OXT ACT A 101     -11.105   0.145  44.362  1.00  3.42           O  
+HETATM  133 ZN    ZN A 102     -12.323   3.987  45.632  1.00  2.89          ZN  
+HETATM  134  O   HOH A 201      -9.412   6.675  40.078  1.00 10.09           O  
+HETATM  135  O   HOH A 202     -17.902   3.094  26.459  1.00  7.01           O  
+HETATM  136  O   HOH A 203     -20.421   3.106  28.266  1.00 11.29           O  
+HETATM  137  C   ACT A 101       1.088   2.673  57.022  1.00  3.43           C  
+HETATM  138  O   ACT A 101       0.267   3.345  57.697  1.00  3.73           O  
+HETATM  139  CH3 ACT A 101       2.207   3.266  56.239  1.00  3.65           C  
+HETATM  140  OXT ACT A 101       1.063   1.399  56.919  1.00  3.42           O  
+HETATM  141 ZN    ZN A 102      -0.156   5.241  58.189  1.00  2.89          ZN  
+HETATM  142  O   HOH A 201       2.756   7.929  52.635  1.00 10.09           O  
+HETATM  143  O   HOH A 202      -5.734   4.348  39.016  1.00  7.01           O  
+HETATM  144  O   HOH A 203      -8.253   4.360  40.823  1.00 11.29           O  
+HETATM  145  C   ACT A 101      -5.228   1.469  10.377  1.00  3.43           C  
+HETATM  146  O   ACT A 101      -6.049   2.141  11.051  1.00  3.73           O  
+HETATM  147  CH3 ACT A 101      -4.109   2.062   9.593  1.00  3.65           C  
+HETATM  148  OXT ACT A 101      -5.253   0.195  10.274  1.00  3.42           O  
+HETATM  149 ZN    ZN A 102      -6.472   4.037  11.544  1.00  2.89          ZN  
+HETATM  150  O   HOH A 201      -3.560   6.725   5.990  1.00 10.09           O  
+HETATM  151  O   HOH A 202     -12.050   3.144  -7.629  1.00  7.01           O  
+HETATM  152  O   HOH A 203     -14.569   3.156  -5.822  1.00 11.29           O  
+HETATM  153  C   ACT A 101       6.940   2.723  22.934  1.00  3.43           C  
+HETATM  154  O   ACT A 101       6.119   3.395  23.608  1.00  3.73           O  
+HETATM  155  CH3 ACT A 101       8.059   3.316  22.150  1.00  3.65           C  
+HETATM  156  OXT ACT A 101       6.914   1.449  22.831  1.00  3.42           O  
+HETATM  157 ZN    ZN A 102       5.696   5.291  24.101  1.00  2.89          ZN  
+HETATM  158  O   HOH A 201       8.608   7.979  18.546  1.00 10.09           O  
+HETATM  159  O   HOH A 202       0.118   4.398   4.928  1.00  7.01           O  
+HETATM  160  O   HOH A 203      -2.401   4.410   6.735  1.00 11.29           O  
+HETATM  161  C   ACT A 101      19.108   3.976  35.491  1.00  3.43           C  
+HETATM  162  O   ACT A 101      18.287   4.648  36.165  1.00  3.73           O  
+HETATM  163  CH3 ACT A 101      20.226   4.569  34.707  1.00  3.65           C  
+HETATM  164  OXT ACT A 101      19.082   2.702  35.387  1.00  3.42           O  
+HETATM  165 ZN    ZN A 102      17.864   6.544  36.658  1.00  2.89          ZN  
+HETATM  166  O   HOH A 201      20.775   9.232  31.103  1.00 10.09           O  
+HETATM  167  O   HOH A 202      12.285   5.651  17.485  1.00  7.01           O  
+HETATM  168  O   HOH A 203       9.767   5.663  19.292  1.00 11.29           O  
+HETATM  169  C   ACT A 101     -14.238   3.243  21.143  1.00  3.43           C  
+HETATM  170  O   ACT A 101     -15.059   3.915  21.817  1.00  3.73           O  
+HETATM  171  CH3 ACT A 101     -13.119   3.836  20.359  1.00  3.65           C  
+HETATM  172  OXT ACT A 101     -14.263   1.969  21.039  1.00  3.42           O  
+HETATM  173 ZN    ZN A 102     -15.481   5.811  22.310  1.00  2.89          ZN  
+HETATM  174  O   HOH A 201     -12.570   8.499  16.755  1.00 10.09           O  
+HETATM  175  O   HOH A 202     -21.060   4.918   3.137  1.00  7.01           O  
+HETATM  176  O   HOH A 203     -23.578   4.930   4.943  1.00 11.29           O  
+HETATM  177  C   ACT A 101      -2.070   4.496  33.700  1.00  3.43           C  
+HETATM  178  O   ACT A 101      -2.891   5.168  34.374  1.00  3.73           O  
+HETATM  179  CH3 ACT A 101      -0.951   5.089  32.916  1.00  3.65           C  
+HETATM  180  OXT ACT A 101      -2.095   3.222  33.596  1.00  3.42           O  
+HETATM  181 ZN    ZN A 102      -3.314   7.064  34.867  1.00  2.89          ZN  
+HETATM  182  O   HOH A 201      -0.402   9.752  29.312  1.00 10.09           O  
+HETATM  183  O   HOH A 202      -8.892   6.171  15.694  1.00  7.01           O  
+HETATM  184  O   HOH A 203     -11.411   6.183  17.500  1.00 11.29           O  
+HETATM  185  C   ACT A 101      10.098   5.749  46.257  1.00  3.43           C  
+HETATM  186  O   ACT A 101       9.277   6.421  46.931  1.00  3.73           O  
+HETATM  187  CH3 ACT A 101      11.217   6.342  45.473  1.00  3.65           C  
+HETATM  188  OXT ACT A 101      10.072   4.475  46.153  1.00  3.42           O  
+HETATM  189 ZN    ZN A 102       8.854   8.317  47.423  1.00  2.89          ZN  
+HETATM  190  O   HOH A 201      11.766  11.005  41.869  1.00 10.09           O  
+HETATM  191  O   HOH A 202       3.276   7.424  28.251  1.00  7.01           O  
+HETATM  192  O   HOH A 203       0.757   7.436  30.057  1.00 11.29           O  
+HETATM  193  C   ACT A 101     -23.247   5.016  31.909  1.00  3.43           C  
+HETATM  194  O   ACT A 101     -24.068   5.688  32.583  1.00  3.73           O  
+HETATM  195  CH3 ACT A 101     -22.129   5.609  31.125  1.00  3.65           C  
+HETATM  196  OXT ACT A 101     -23.273   3.742  31.805  1.00  3.42           O  
+HETATM  197 ZN    ZN A 102     -24.491   7.584  33.075  1.00  2.89          ZN  
+HETATM  198  O   HOH A 201     -21.580  10.272  27.521  1.00 10.09           O  
+HETATM  199  O   HOH A 202     -30.070   6.691  13.902  1.00  7.01           O  
+HETATM  200  O   HOH A 203     -32.588   6.703  15.709  1.00 11.29           O  
+HETATM  201  C   ACT A 101     -11.080   6.269  44.466  1.00  3.43           C  
+HETATM  202  O   ACT A 101     -11.901   6.941  45.140  1.00  3.73           O  
+HETATM  203  CH3 ACT A 101      -9.961   6.862  43.682  1.00  3.65           C  
+HETATM  204  OXT ACT A 101     -11.105   4.995  44.362  1.00  3.42           O  
+HETATM  205 ZN    ZN A 102     -12.323   8.837  45.632  1.00  2.89          ZN  
+HETATM  206  O   HOH A 201      -9.412  11.525  40.078  1.00 10.09           O  
+HETATM  207  O   HOH A 202     -17.902   7.944  26.459  1.00  7.01           O  
+HETATM  208  O   HOH A 203     -20.421   7.956  28.266  1.00 11.29           O  
+HETATM  209  C   ACT A 101       1.088   7.523  57.022  1.00  3.43           C  
+HETATM  210  O   ACT A 101       0.267   8.195  57.697  1.00  3.73           O  
+HETATM  211  CH3 ACT A 101       2.207   8.116  56.239  1.00  3.65           C  
+HETATM  212  OXT ACT A 101       1.063   6.249  56.919  1.00  3.42           O  
+HETATM  213 ZN    ZN A 102      -0.156  10.091  58.189  1.00  2.89          ZN  
+HETATM  214  O   HOH A 201       2.756  12.779  52.635  1.00 10.09           O  
+HETATM  215  O   HOH A 202      -5.734   9.198  39.016  1.00  7.01           O  
+HETATM  216  O   HOH A 203      -8.253   9.210  40.823  1.00 11.29           O  
+CONECT    1    2    3    4
+CONECT    2    1    5
+CONECT    3    1
+CONECT    4    1
+CONECT    5    2
+CONECT    9   10   11   12
+CONECT   10    9   13
+CONECT   11    9
+CONECT   12    9
+CONECT   13   10
+CONECT   17   18   19   20
+CONECT   18   17   21
+CONECT   19   17
+CONECT   20   17
+CONECT   21   18
+CONECT   25   26   27   28
+CONECT   26   25   29
+CONECT   27   25
+CONECT   28   25
+CONECT   29   26
+CONECT   33   34   35   36
+CONECT   34   33   37
+CONECT   35   33
+CONECT   36   33
+CONECT   37   34
+CONECT   41   42   43   44
+CONECT   42   41   45
+CONECT   43   41
+CONECT   44   41
+CONECT   45   42
+CONECT   49   50   51   52
+CONECT   50   49   53
+CONECT   51   49
+CONECT   52   49
+CONECT   53   50
+CONECT   57   58   59   60
+CONECT   58   57   61
+CONECT   59   57
+CONECT   60   57
+CONECT   61   58
+CONECT   65   66   67   68
+CONECT   66   65   69
+CONECT   67   65
+CONECT   68   65
+CONECT   69   66
+CONECT   73   74   75   76
+CONECT   74   73   77
+CONECT   75   73
+CONECT   76   73
+CONECT   77   74
+CONECT   81   82   83   84
+CONECT   82   81   85
+CONECT   83   81
+CONECT   84   81
+CONECT   85   82
+CONECT   89   90   91   92
+CONECT   90   89   93
+CONECT   91   89
+CONECT   92   89
+CONECT   93   90
+CONECT   97   98   99  100
+CONECT   98   97  101
+CONECT   99   97
+CONECT  100   97
+CONECT  101   98
+CONECT  105  106  107  108
+CONECT  106  105  109
+CONECT  107  105
+CONECT  108  105
+CONECT  109  106
+CONECT  113  114  115  116
+CONECT  114  113  117
+CONECT  115  113
+CONECT  116  113
+CONECT  117  114
+CONECT  121  122  123  124
+CONECT  122  121  125
+CONECT  123  121
+CONECT  124  121
+CONECT  125  122
+CONECT  129  130  131  132
+CONECT  130  129  133
+CONECT  131  129
+CONECT  132  129
+CONECT  133  130
+CONECT  137  138  139  140
+CONECT  138  137  141
+CONECT  139  137
+CONECT  140  137
+CONECT  141  138
+CONECT  145  146  147  148
+CONECT  146  145  149
+CONECT  147  145
+CONECT  148  145
+CONECT  149  146
+CONECT  153  154  155  156
+CONECT  154  153  157
+CONECT  155  153
+CONECT  156  153
+CONECT  157  154
+CONECT  161  162  163  164
+CONECT  162  161  165
+CONECT  163  161
+CONECT  164  161
+CONECT  165  162
+CONECT  169  170  171  172
+CONECT  170  169  173
+CONECT  171  169
+CONECT  172  169
+CONECT  173  170
+CONECT  177  178  179  180
+CONECT  178  177  181
+CONECT  179  177
+CONECT  180  177
+CONECT  181  178
+CONECT  185  186  187  188
+CONECT  186  185  189
+CONECT  187  185
+CONECT  188  185
+CONECT  189  186
+CONECT  193  194  195  196
+CONECT  194  193  197
+CONECT  195  193
+CONECT  196  193
+CONECT  197  194
+CONECT  201  202  203  204
+CONECT  202  201  205
+CONECT  203  201
+CONECT  204  201
+CONECT  205  202
+CONECT  209  210  211  212
+CONECT  210  209  213
+CONECT  211  209
+CONECT  212  209
+CONECT  213  210
+END

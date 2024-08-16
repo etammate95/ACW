@@ -1,0 +1,71 @@
+Evaluation of 4ZNN
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+10
+Sidechains: (1G3V6V8T10A)+(1G3V6V8T10A)
+Sc: 0.81
+B.Area: 221.9
+SDi: 1.51
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	G	14.7	13.9	28.6
+2	V	0.0	1.5	1.5
+3	V	41.0	0.0	41.0
+4	H	0.0	0.0	0.0
+5	G	0.0	0.0	0.0
+6	V	27.5	0.0	27.5
+7	T	0.0	0.0	0.0
+8	T	54.6	0.2	54.8
+9	V	0.0	2.3	2.3
+10	A	42.7	22.4	65.1
+1	G	14.8	14.1	28.9
+2	V	0.0	1.5	1.5
+3	V	40.9	0.0	40.9
+4	H	0.0	0.0	0.0
+5	G	0.0	0.0	0.0
+6	V	28.9	0.0	28.9
+7	T	0.0	0.0	0.0
+8	T	54.9	0.2	55.1
+9	V	0.0	2.8	2.8
+10	A	43.3	22.0	65.3
+
+
+Interface 2
+Sheets: 1+16
+Sidechains: (4H5G7T9V)+(4H5G7T9V)
+Sc: 0.79
+B.Area: 172.7
+SDi: 1.37
+Class: 1
+
+Buried area details:
+Sheets: 1+16
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	V	0.0	0.0	0.0
+4	H	41.2	0.0	41.2
+5	G	18.2	3.0	21.2
+6	V	0.0	0.0	0.0
+7	T	41.2	0.0	41.2
+8	T	0.0	0.0	0.0
+9	V	45.2	0.0	45.2
+10	A	0.0	23.8	23.8
+1	G	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	V	0.0	0.0	0.0
+4	H	41.5	0.0	41.5
+5	G	18.3	3.5	21.8
+6	V	0.0	0.0	0.0
+7	T	41.5	0.0	41.5
+8	T	0.0	0.0	0.0
+9	V	44.7	0.0	44.7
+10	A	0.0	23.4	23.4
+
+

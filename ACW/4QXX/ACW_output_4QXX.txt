@@ -1,0 +1,41 @@
+Evaluation of 4QXX
+Main class is 4
+Packing is 2D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+20, 32+1
+Sidechains: (1G3L)+(2N4V)
+Sc: 0.87
+B.Area: 108.0
+SDi: 1.48
+Class: 4
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	G	11.7	28.6	40.3
+2	N	0.0	7.5	7.5
+3	L	61.3	0.2	61.5
+4	V	0.0	0.0	0.0
+5	S	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	N	25.3	0.2	25.5
+3	L	0.0	0.3	0.3
+4	V	56.7	0.0	56.7
+5	S	0.0	25.0	25.0
+
+Sheets: 32+1
+residue	type	s.ch.	b.b.	total
+1	G	11.7	28.3	40.0
+2	N	0.0	7.6	7.6
+3	L	61.3	0.3	61.6
+4	V	0.0	0.0	0.0
+5	S	0.0	0.0	0.0
+1	G	0.0	0.0	0.0
+2	N	24.7	0.2	24.9
+3	L	0.0	0.3	0.3
+4	V	56.4	0.0	56.4
+5	S	0.0	24.9	24.9
+
+

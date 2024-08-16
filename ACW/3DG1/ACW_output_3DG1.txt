@@ -1,0 +1,55 @@
+Evaluation of 3DG1
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2S4N)+(2S4N)
+Sc: 0.85
+B.Area: 127.2
+SDi: 1.43
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	S	0.0	31.3	31.3
+2	S	49.5	0.2	49.7
+3	T	0.0	2.5	2.5
+4	N	42.3	0.3	42.6
+5	V	0.0	0.0	0.0
+6	G	0.0	1.8	1.8
+1	S	0.0	31.0	31.0
+2	S	48.8	0.2	49.0
+3	T	0.0	2.0	2.0
+4	N	42.3	0.2	42.5
+5	V	0.0	0.0	0.0
+6	G	0.0	2.0	2.0
+
+
+Interface 2
+Sheets: 1+17
+Sidechains: (3T5V)+(3T5V)
+Sc: 0.89
+B.Area: 81.4
+SDi: 1.47
+Class: 1
+
+Buried area details:
+Sheets: 1+17
+residue	type	s.ch.	b.b.	total
+1	S	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	32.5	0.0	32.5
+4	N	0.0	0.0	0.0
+5	V	48.7	0.0	48.7
+6	G	0.0	0.0	0.0
+1	S	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	33.4	0.0	33.4
+4	N	0.0	0.0	0.0
+5	V	48.2	0.0	48.2
+6	G	0.0	0.0	0.0
+
+

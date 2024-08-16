@@ -1,0 +1,30 @@
+Evaluation of 5K7N
+Main class is 1
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+5
+Sidechains: (1V3I)+(1V3I)
+Sc: 0.71
+B.Area: 77.0
+SDi: 1.69
+Class: 1
+
+Buried area details:
+Sheets: 1+5
+residue	type	s.ch.	b.b.	total
+1	V	53.8	0.0	53.8
+2	Q	0.0	0.0	0.0
+3	I	23.3	0.0	23.3
+4	V	0.0	0.0	0.0
+5	Y	0.0	0.0	0.0
+6	K	0.0	0.0	0.0
+1	V	53.6	0.2	53.8
+2	Q	0.0	0.0	0.0
+3	I	23.3	0.0	23.3
+4	V	0.0	0.0	0.0
+5	Y	0.0	0.0	0.0
+6	K	0.0	0.0	0.0
+
+

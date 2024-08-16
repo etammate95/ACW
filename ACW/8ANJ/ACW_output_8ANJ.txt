@@ -1,0 +1,55 @@
+Evaluation of 8ANJ
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+10
+Sidechains: (1D3I5W)+(1D3I5W)
+Sc: 0.85
+B.Area: 174.3
+SDi: 1.97
+Class: 1
+
+Buried area details:
+Sheets: 1+10
+residue	type	s.ch.	b.b.	total
+1	D	20.0	2.5	22.5
+2	F	0.0	7.2	7.2
+3	I	67.5	0.0	67.5
+4	N	0.0	0.0	0.0
+5	W	75.3	0.0	75.3
+6	L	0.0	0.0	0.0
+1	D	20.3	2.4	22.7
+2	F	0.0	7.6	7.6
+3	I	68.5	0.0	68.5
+4	N	0.0	0.0	0.0
+5	W	77.3	0.0	77.3
+6	L	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+5
+Sidechains: (2F4N6L)+(2F4N6L)
+Sc: 0.89
+B.Area: 107.2
+SDi: 1.43
+Class: 1
+
+Buried area details:
+Sheets: 1+5
+residue	type	s.ch.	b.b.	total
+1	D	0.0	0.0	0.0
+2	F	26.6	0.0	26.6
+3	I	0.0	0.0	0.0
+4	N	29.0	0.0	29.0
+5	W	0.0	0.0	0.0
+6	L	50.7	1.8	52.5
+1	D	0.0	0.0	0.0
+2	F	26.2	0.0	26.2
+3	I	0.0	0.0	0.0
+4	N	28.6	0.0	28.6
+5	W	0.0	0.0	0.0
+6	L	49.7	1.8	51.5
+
+

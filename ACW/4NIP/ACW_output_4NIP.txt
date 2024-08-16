@@ -1,0 +1,59 @@
+Evaluation of 4NIP
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+24
+Sidechains: (1G2V4G6A)+(2V4G6A)
+Sc: 0.74
+B.Area: 140.7
+SDi: 1.43
+Class: 1
+
+Buried area details:
+Sheets: 1+24
+residue	type	s.ch.	b.b.	total
+1	G	5.6	7.8	13.4
+2	V	59.9	0.0	59.9
+3	I	0.0	0.2	0.2
+4	G	16.9	7.6	24.5
+5	I	0.0	5.4	5.4
+6	A	35.5	0.8	36.3
+7	Q	0.0	0.0	0.0
+1	G	5.0	8.1	13.1
+2	V	60.7	0.0	60.7
+3	I	0.0	0.2	0.2
+4	G	17.0	7.3	24.3
+5	I	0.0	5.8	5.8
+6	A	36.3	1.0	37.3
+7	Q	0.0	0.0	0.0
+
+
+Interface 2
+Sheets: 1+20
+Sidechains: (3I5I7Q)+(3I5I7Q)
+Sc: 0.82
+B.Area: 128.6
+SDi: 1.41
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	G	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	I	64.4	0.0	64.4
+4	G	0.0	0.0	0.0
+5	I	43.5	0.0	43.5
+6	A	0.0	0.0	0.0
+7	Q	22.0	0.0	22.0
+1	G	0.0	0.0	0.0
+2	V	0.0	0.0	0.0
+3	I	63.5	0.0	63.5
+4	G	0.0	0.0	0.0
+5	I	42.3	0.0	42.3
+6	A	0.0	0.0	0.0
+7	Q	21.8	0.0	21.8
+
+

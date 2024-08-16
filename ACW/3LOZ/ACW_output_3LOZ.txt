@@ -1,0 +1,42 @@
+Evaluation of 3LOZ
+Main class is 5
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+2
+Sidechains: (1L3F5K,1L3F5K)+(1L3F5K,1L3F5K)
+Sc: 0.72
+B.Area: 141.5
+SDi: 1.19
+Class: 5
+
+Buried area details:
+Sheets: 1+2
+residue	type	s.ch.	b.b.	total
+1	L	25.8	0.0	25.8
+2	S	0.0	0.7	0.7
+3	F	66.1	0.0	66.1
+4	S	0.0	0.0	0.0
+5	K	63.6	0.0	63.6
+6	D	0.0	0.0	0.0
+1	L	46.6	0.0	46.6
+2	S	0.0	0.0	0.0
+3	F	59.7	0.0	59.7
+4	S	0.0	0.0	0.0
+5	K	16.2	0.0	16.2
+6	D	0.0	0.0	0.0
+1	L	27.8	0.0	27.8
+2	S	0.0	0.6	0.6
+3	F	66.9	0.0	66.9
+4	S	0.0	0.0	0.0
+5	K	64.9	0.0	64.9
+6	D	0.0	0.0	0.0
+1	L	49.1	0.0	49.1
+2	S	0.0	0.0	0.0
+3	F	59.1	0.0	59.1
+4	S	0.0	0.0	0.0
+5	K	18.3	0.0	18.3
+6	D	0.0	0.0	0.0
+
+

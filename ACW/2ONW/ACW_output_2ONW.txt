@@ -1,0 +1,96 @@
+Evaluation of 2ONW
+Main class is 1
+Secondary class is 4
+Packing is 3D
+The number of interfaces is 3
+
+Interface 1
+Sheets: 1+20
+Sidechains: (3T5A)+(3T5A)
+Sc: 0.83
+B.Area: 119.8
+SDi: 1.48
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	S	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	44.6	0.3	44.9
+4	S	0.0	7.0	7.0
+5	A	42.2	2.3	44.5
+6	A	0.0	22.2	22.2
+1	S	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	45.6	0.6	46.2
+4	S	0.0	7.4	7.4
+5	A	42.5	2.5	45.0
+6	A	0.0	22.7	22.7
+
+
+Interface 2
+Sheets: 1+17
+Sidechains: (4S6A)+(4S6A)
+Sc: 0.88
+B.Area: 101.2
+SDi: 1.44
+Class: 1
+
+Buried area details:
+Sheets: 1+17
+residue	type	s.ch.	b.b.	total
+1	S	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	0.0	0.0	0.0
+4	S	30.3	1.1	31.4
+5	A	0.0	4.4	4.4
+6	A	42.3	22.4	64.7
+1	S	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	0.0	0.0	0.0
+4	S	31.5	0.8	32.3
+5	A	0.0	4.3	4.3
+6	A	42.2	23.2	65.4
+
+
+Interface 3
+Sheets: 1+15, 18+1
+Sidechains: (1S3T)+(2S4S)
+Sc: 0.5
+B.Area: 95.5
+SDi: 1.54
+Class: 4
+
+Buried area details:
+Sheets: 1+15
+residue	type	s.ch.	b.b.	total
+1	S	47.5	8.2	55.7
+2	S	0.0	6.3	6.3
+3	T	40.0	0.0	40.0
+4	S	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	A	0.0	0.0	0.0
+1	S	0.0	31.0	31.0
+2	S	34.7	0.0	34.7
+3	T	0.0	0.4	0.4
+4	S	23.7	0.0	23.7
+5	A	0.0	0.0	0.0
+6	A	0.0	0.0	0.0
+
+Sheets: 18+1
+residue	type	s.ch.	b.b.	total
+1	S	47.0	7.8	54.8
+2	S	0.0	6.8	6.8
+3	T	39.7	0.0	39.7
+4	S	0.0	0.0	0.0
+5	A	0.0	0.0	0.0
+6	A	0.0	0.0	0.0
+1	S	0.0	30.6	30.6
+2	S	35.7	0.0	35.7
+3	T	0.0	0.2	0.2
+4	S	22.8	0.0	22.8
+5	A	0.0	0.0	0.0
+6	A	0.0	0.0	0.0
+
+

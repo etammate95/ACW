@@ -1,0 +1,55 @@
+Evaluation of 3FTR
+Main class is 1
+Packing is 2D
+The number of interfaces is 2
+
+Interface 1
+Sheets: 1+20
+Sidechains: (2S4N6G)+(2S4N6G)
+Sc: 0.81
+B.Area: 121.9
+SDi: 1.4
+Class: 1
+
+Buried area details:
+Sheets: 1+20
+residue	type	s.ch.	b.b.	total
+1	S	0.0	0.5	0.5
+2	S	25.7	0.0	25.7
+3	T	0.0	0.0	0.0
+4	N	50.0	0.7	50.7
+5	V	0.0	5.1	5.1
+6	G	21.2	18.9	40.1
+1	S	0.0	0.4	0.4
+2	S	25.4	0.0	25.4
+3	T	0.0	0.0	0.0
+4	N	50.0	0.5	50.5
+5	V	0.0	4.6	4.6
+6	G	22.0	19.1	41.1
+
+
+Interface 2
+Sheets: 1+32
+Sidechains: (3T5V)+(3T5V)
+Sc: 0.8
+B.Area: 80.8
+SDi: 1.13
+Class: 1
+
+Buried area details:
+Sheets: 1+32
+residue	type	s.ch.	b.b.	total
+1	S	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	48.5	0.0	48.5
+4	N	0.0	0.0	0.0
+5	V	32.4	0.0	32.4
+6	G	0.0	0.0	0.0
+1	S	0.0	0.0	0.0
+2	S	0.0	0.0	0.0
+3	T	48.8	0.0	48.8
+4	N	0.0	0.0	0.0
+5	V	31.9	0.0	31.9
+6	G	0.0	0.0	0.0
+
+

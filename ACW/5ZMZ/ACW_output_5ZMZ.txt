@@ -1,0 +1,26 @@
+Evaluation of 5ZMZ
+Main class is 1
+Packing is 1D
+The number of interfaces is 1
+
+Interface 1
+Sheets: 1+17
+Sidechains: (1I3I)+(1I3I)
+Sc: 0.86
+B.Area: 88.5
+SDi: 1.52
+Class: 1
+
+Buried area details:
+Sheets: 1+17
+residue	type	s.ch.	b.b.	total
+1	I	37.1	0.0	37.1
+2	Q	0.0	0.0	0.0
+3	I	51.6	0.0	51.6
+4	G	0.0	0.0	0.0
+1	I	36.9	0.0	36.9
+2	Q	0.0	0.0	0.0
+3	I	51.3	0.0	51.3
+4	G	0.0	0.0	0.0
+
+
